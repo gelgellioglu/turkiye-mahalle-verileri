@@ -2,7 +2,6 @@
   {
     "il": "Adana",
     "ilce": "Aladağ",
-    "mahalle": null,
     "lat": 37.50224160263157,
     "lng": 35.410559082894736,
     "type": "ilce"
@@ -10,7 +9,6 @@
   {
     "il": "Adana",
     "ilce": "Sarıçam",
-    "mahalle": null,
     "lat": 37.118393275,
     "lng": 35.4488592868421,
     "type": "ilce"
@@ -18,7 +16,6 @@
   {
     "il": "Adana",
     "ilce": "Feke",
-    "mahalle": null,
     "lat": 37.884418419834724,
     "lng": 35.84182982644628,
     "type": "ilce"
@@ -26,7 +23,6 @@
   {
     "il": "Adana",
     "ilce": "Saimbeyli",
-    "mahalle": null,
     "lat": 37.97020991958764,
     "lng": 36.09330653092785,
     "type": "ilce"
@@ -34,7 +30,6 @@
   {
     "il": "Adana",
     "ilce": "Ceyhan",
-    "mahalle": null,
     "lat": 37.056983226851834,
     "lng": 35.83841581666666,
     "type": "ilce"
@@ -42,7 +37,6 @@
   {
     "il": "Adana",
     "ilce": "Karaisalı",
-    "mahalle": null,
     "lat": 37.272337698611096,
     "lng": 35.164277438888895,
     "type": "ilce"
@@ -50,7 +44,6 @@
   {
     "il": "Adana",
     "ilce": "Kozan",
-    "mahalle": null,
     "lat": 37.575060152816896,
     "lng": 35.77556993309859,
     "type": "ilce"
@@ -58,7 +51,6 @@
   {
     "il": "Adana",
     "ilce": "Çukurova",
-    "mahalle": null,
     "lat": 37.081087394736834,
     "lng": 35.20132486140352,
     "type": "ilce"
@@ -66,7 +58,6 @@
   {
     "il": "Adana",
     "ilce": "Karataş",
-    "mahalle": null,
     "lat": 36.70220964999999,
     "lng": 35.276297171590905,
     "type": "ilce"
@@ -74,7 +65,6 @@
   {
     "il": "Adana",
     "ilce": "Yüreğir",
-    "mahalle": null,
     "lat": 36.881468499137924,
     "lng": 35.387765542241375,
     "type": "ilce"
@@ -82,7 +72,6 @@
   {
     "il": "Adana",
     "ilce": "Pozantı",
-    "mahalle": null,
     "lat": 37.495616839583356,
     "lng": 34.90045402291667,
     "type": "ilce"
@@ -90,7 +79,6 @@
   {
     "il": "Adana",
     "ilce": "Seyhan",
-    "mahalle": null,
     "lat": 36.93098653058824,
     "lng": 35.230708030588225,
     "type": "ilce"
@@ -98,7 +86,6 @@
   {
     "il": "Adana",
     "ilce": "Tufanbeyli",
-    "mahalle": null,
     "lat": 38.20998784252874,
     "lng": 36.227475941379325,
     "type": "ilce"
@@ -106,7 +93,6 @@
   {
     "il": "Adana",
     "ilce": "Yumurtalık",
-    "mahalle": null,
     "lat": 36.7480416886598,
     "lng": 35.66872529278349,
     "type": "ilce"
@@ -114,7 +100,6 @@
   {
     "il": "Adana",
     "ilce": "İmamoğlu",
-    "mahalle": null,
     "lat": 37.29883145492958,
     "lng": 35.55549255774648,
     "type": "ilce"
@@ -1660,7 +1645,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Pütürge",
-    "mahalle": null,
     "lat": 38.160070084090904,
     "lng": 38.85560332954546,
     "type": "ilce"
@@ -1668,7 +1652,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Nurhak",
-    "mahalle": null,
     "lat": 37.964660167857154,
     "lng": 37.434279117857145,
     "type": "ilce"
@@ -1676,7 +1659,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Gölbaşı",
-    "mahalle": null,
     "lat": 37.77522148913044,
     "lng": 37.62964926304348,
     "type": "ilce"
@@ -1684,7 +1666,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Gerger",
-    "mahalle": null,
     "lat": 38.018086939024386,
     "lng": 39.02140195121952,
     "type": "ilce"
@@ -1692,7 +1673,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Besni",
-    "mahalle": null,
     "lat": 37.61127971904761,
     "lng": 37.84985780476191,
     "type": "ilce"
@@ -1700,7 +1680,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Tut",
-    "mahalle": null,
     "lat": 37.804265370588226,
     "lng": 37.96816129411766,
     "type": "ilce"
@@ -1708,7 +1687,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Adıyaman Merkez",
-    "mahalle": null,
     "lat": 37.7446765425532,
     "lng": 38.219528751063834,
     "type": "ilce"
@@ -1716,7 +1694,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Kâhta",
-    "mahalle": null,
     "lat": 37.8044443925,
     "lng": 38.725047167499994,
     "type": "ilce"
@@ -1724,7 +1701,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Samsat",
-    "mahalle": null,
     "lat": 37.55890777142857,
     "lng": 38.46503332142857,
     "type": "ilce"
@@ -1732,7 +1708,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Sincik",
-    "mahalle": null,
     "lat": 38.03702455172414,
     "lng": 38.56523525172413,
     "type": "ilce"
@@ -1740,7 +1715,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Çelikhan",
-    "mahalle": null,
     "lat": 38.07491665217391,
     "lng": 38.25665415652173,
     "type": "ilce"
@@ -1748,7 +1722,6 @@
   {
     "il": "Adiyaman",
     "ilce": "Doğanşehir",
-    "mahalle": null,
     "lat": 38.046513033333326,
     "lng": 37.895495353333345,
     "type": "ilce"
@@ -2157,7 +2130,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Dinar",
-    "mahalle": null,
     "lat": 38.15482553333334,
     "lng": 30.257201,
     "type": "ilce"
@@ -2165,7 +2137,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "İhsaniye",
-    "mahalle": null,
     "lat": 39.037254676923084,
     "lng": 30.46614950384615,
     "type": "ilce"
@@ -2173,7 +2144,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Çay",
-    "mahalle": null,
     "lat": 38.515291857692304,
     "lng": 30.940435549999997,
     "type": "ilce"
@@ -2181,7 +2151,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Hocalar",
-    "mahalle": null,
     "lat": 38.56880473125,
     "lng": 29.948844075,
     "type": "ilce"
@@ -2189,7 +2158,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Bayat",
-    "mahalle": null,
     "lat": 39.02000145416666,
     "lng": 30.906165416666667,
     "type": "ilce"
@@ -2197,7 +2165,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Evciler",
-    "mahalle": null,
     "lat": 38.04493646428572,
     "lng": 29.928936107142853,
     "type": "ilce"
@@ -2205,7 +2172,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Çobanlar",
-    "mahalle": null,
     "lat": 38.737285107692315,
     "lng": 30.857424261538462,
     "type": "ilce"
@@ -2213,7 +2179,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Başmakçı",
-    "mahalle": null,
     "lat": 37.88780025384615,
     "lng": 30.000534969230767,
     "type": "ilce"
@@ -2221,7 +2186,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Bolvadin",
-    "mahalle": null,
     "lat": 38.79445426363636,
     "lng": 31.111648754545453,
     "type": "ilce"
@@ -2229,7 +2193,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Sultandağı",
-    "mahalle": null,
     "lat": 38.61822861739131,
     "lng": 31.362561413043473,
     "type": "ilce"
@@ -2237,7 +2200,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Dazkırı",
-    "mahalle": null,
     "lat": 37.94627044999999,
     "lng": 29.81031236875,
     "type": "ilce"
@@ -2245,7 +2207,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "İscehisar",
-    "mahalle": null,
     "lat": 38.938920024999994,
     "lng": 30.770463965000005,
     "type": "ilce"
@@ -2253,7 +2214,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Afyonkarahisar Merkez",
-    "mahalle": null,
     "lat": 38.80030806511629,
     "lng": 30.554437072093013,
     "type": "ilce"
@@ -2261,7 +2221,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Şuhut",
-    "mahalle": null,
     "lat": 38.45395976923077,
     "lng": 30.587415373076926,
     "type": "ilce"
@@ -2269,7 +2228,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Sandıklı",
-    "mahalle": null,
     "lat": 38.46886740357144,
     "lng": 30.1626625,
     "type": "ilce"
@@ -2277,7 +2235,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Sinanpaşa",
-    "mahalle": null,
     "lat": 38.72625946923077,
     "lng": 30.2657111576923,
     "type": "ilce"
@@ -2285,7 +2242,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Emirdağ",
-    "mahalle": null,
     "lat": 39.00810650465115,
     "lng": 31.33357622790698,
     "type": "ilce"
@@ -2293,7 +2249,6 @@
   {
     "il": "Afyonkarahisar",
     "ilce": "Kızılören",
-    "mahalle": null,
     "lat": 38.25857719,
     "lng": 30.17858814,
     "type": "ilce"
@@ -2452,7 +2407,6 @@
   {
     "il": "Agri",
     "ilce": "Eleşkirt",
-    "mahalle": null,
     "lat": 39.82200685416666,
     "lng": 42.632455295833346,
     "type": "ilce"
@@ -2460,7 +2414,6 @@
   {
     "il": "Agri",
     "ilce": "Patnos",
-    "mahalle": null,
     "lat": 39.21033697241379,
     "lng": 42.85131525172413,
     "type": "ilce"
@@ -2468,7 +2421,6 @@
   {
     "il": "Agri",
     "ilce": "Tutak",
-    "mahalle": null,
     "lat": 39.494625174074066,
     "lng": 42.67745102222222,
     "type": "ilce"
@@ -2476,7 +2428,6 @@
   {
     "il": "Agri",
     "ilce": "Ağrı Merkez",
-    "mahalle": null,
     "lat": 39.77614291,
     "lng": 43.13981865666666,
     "type": "ilce"
@@ -2484,7 +2435,6 @@
   {
     "il": "Agri",
     "ilce": "Diyadin",
-    "mahalle": null,
     "lat": 39.452368937500005,
     "lng": 43.633715279166665,
     "type": "ilce"
@@ -2492,7 +2442,6 @@
   {
     "il": "Agri",
     "ilce": "Doğubayazıt",
-    "mahalle": null,
     "lat": 39.591291783333325,
     "lng": 44.02784460238096,
     "type": "ilce"
@@ -2500,7 +2449,6 @@
   {
     "il": "Agri",
     "ilce": "Hamur",
-    "mahalle": null,
     "lat": 39.49027570869565,
     "lng": 43.0771308173913,
     "type": "ilce"
@@ -2508,7 +2456,6 @@
   {
     "il": "Agri",
     "ilce": "Taşlıçay",
-    "mahalle": null,
     "lat": 39.59799466923077,
     "lng": 43.405187230769236,
     "type": "ilce"
@@ -2650,7 +2597,6 @@
   {
     "il": "Aksaray",
     "ilce": "Ortaköy",
-    "mahalle": null,
     "lat": 38.77793834,
     "lng": 34.089940508000005,
     "type": "ilce"
@@ -2658,7 +2604,6 @@
   {
     "il": "Aksaray",
     "ilce": "Sarıyahşi",
-    "mahalle": null,
     "lat": 38.95865797692308,
     "lng": 33.86028961538461,
     "type": "ilce"
@@ -2666,7 +2611,6 @@
   {
     "il": "Aksaray",
     "ilce": "Eskil",
-    "mahalle": null,
     "lat": 38.2464100375,
     "lng": 33.409079532499995,
     "type": "ilce"
@@ -2674,7 +2618,6 @@
   {
     "il": "Aksaray",
     "ilce": "Aksaray Merkez",
-    "mahalle": null,
     "lat": 38.3963155509804,
     "lng": 33.96207193921568,
     "type": "ilce"
@@ -2682,7 +2625,6 @@
   {
     "il": "Aksaray",
     "ilce": "Ağaçören",
-    "mahalle": null,
     "lat": 38.794584709523804,
     "lng": 33.83942085714285,
     "type": "ilce"
@@ -2690,7 +2632,6 @@
   {
     "il": "Aksaray",
     "ilce": "Gülağaç",
-    "mahalle": null,
     "lat": 38.38337820588235,
     "lng": 34.31971423529412,
     "type": "ilce"
@@ -2698,7 +2639,6 @@
   {
     "il": "Aksaray",
     "ilce": "Güzelyurt",
-    "mahalle": null,
     "lat": 38.26781567333333,
     "lng": 34.29462957333333,
     "type": "ilce"
@@ -2706,7 +2646,6 @@
   {
     "il": "Aksaray",
     "ilce": "Sultanhanı",
-    "mahalle": null,
     "lat": 38.22706637222221,
     "lng": 33.62041911111111,
     "type": "ilce"
@@ -2871,7 +2810,6 @@
   {
     "il": "Amasya",
     "ilce": "Gümüşhacıköy",
-    "mahalle": null,
     "lat": 40.88507240250001,
     "lng": 35.174513375000004,
     "type": "ilce"
@@ -2879,7 +2817,6 @@
   {
     "il": "Amasya",
     "ilce": "Hamamözü",
-    "mahalle": null,
     "lat": 40.79504493500001,
     "lng": 35.076881019999995,
     "type": "ilce"
@@ -2887,7 +2824,6 @@
   {
     "il": "Amasya",
     "ilce": "Amasya Merkez",
-    "mahalle": null,
     "lat": 40.586682373846145,
     "lng": 35.84659718923077,
     "type": "ilce"
@@ -2895,7 +2831,6 @@
   {
     "il": "Amasya",
     "ilce": "Göynücek",
-    "mahalle": null,
     "lat": 40.386429427500005,
     "lng": 35.53852906999999,
     "type": "ilce"
@@ -2903,7 +2838,6 @@
   {
     "il": "Amasya",
     "ilce": "Merzifon",
-    "mahalle": null,
     "lat": 40.836813019512206,
     "lng": 35.40930083414635,
     "type": "ilce"
@@ -2911,7 +2845,6 @@
   {
     "il": "Amasya",
     "ilce": "Suluova",
-    "mahalle": null,
     "lat": 40.81193202580645,
     "lng": 35.73112135806451,
     "type": "ilce"
@@ -2919,7 +2852,6 @@
   {
     "il": "Amasya",
     "ilce": "Taşova",
-    "mahalle": null,
     "lat": 40.7882686775,
     "lng": 36.2754212775,
     "type": "ilce"
@@ -3130,7 +3062,6 @@
   {
     "il": "Ankara",
     "ilce": "Akyurt",
-    "mahalle": null,
     "lat": 40.120115217333336,
     "lng": 33.139045,
     "type": "ilce"
@@ -3138,7 +3069,6 @@
   {
     "il": "Ankara",
     "ilce": "Çubuk",
-    "mahalle": null,
     "lat": 40.30924500294118,
     "lng": 33.01665842426471,
     "type": "ilce"
@@ -3146,7 +3076,6 @@
   {
     "il": "Ankara",
     "ilce": "Ayaş",
-    "mahalle": null,
     "lat": 40.00963819345237,
     "lng": 32.25045472142857,
     "type": "ilce"
@@ -3154,7 +3083,6 @@
   {
     "il": "Ankara",
     "ilce": "Evren",
-    "mahalle": null,
     "lat": 39.03243094038463,
     "lng": 33.7229543596154,
     "type": "ilce"
@@ -3162,7 +3090,6 @@
   {
     "il": "Ankara",
     "ilce": "Şereflikoçhisar",
-    "mahalle": null,
     "lat": 39.02561437874016,
     "lng": 33.491915403937014,
     "type": "ilce"
@@ -3170,7 +3097,6 @@
   {
     "il": "Ankara",
     "ilce": "Beypazarı",
-    "mahalle": null,
     "lat": 40.191925730120474,
     "lng": 31.9507234807229,
     "type": "ilce"
@@ -3178,7 +3104,6 @@
   {
     "il": "Ankara",
     "ilce": "Nallıhan",
-    "mahalle": null,
     "lat": 40.172785760588226,
     "lng": 31.330452685882353,
     "type": "ilce"
@@ -3186,7 +3111,6 @@
   {
     "il": "Ankara",
     "ilce": "Güdül",
-    "mahalle": null,
     "lat": 40.19000038861789,
     "lng": 32.21184358373985,
     "type": "ilce"
@@ -3194,7 +3118,6 @@
   {
     "il": "Ankara",
     "ilce": "Polatlı",
-    "mahalle": null,
     "lat": 39.45612930460253,
     "lng": 32.10917275146443,
     "type": "ilce"
@@ -3209,7 +3132,6 @@
   {
     "il": "Ankara",
     "ilce": "Gölbaşı",
-    "mahalle": null,
     "lat": 39.56281564228572,
     "lng": 32.807151741714314,
     "type": "ilce"
@@ -3217,7 +3139,6 @@
   {
     "il": "Ankara",
     "ilce": "Balâ",
-    "mahalle": null,
     "lat": 39.48149761818185,
     "lng": 33.143728907177035,
     "type": "ilce"
@@ -3267,7 +3188,6 @@
   {
     "il": "Ankara",
     "ilce": "Elmadağ",
-    "mahalle": null,
     "lat": 39.87289997222222,
     "lng": 33.20689531296296,
     "type": "ilce"
@@ -3275,7 +3195,6 @@
   {
     "il": "Ankara",
     "ilce": "Haymana",
-    "mahalle": null,
     "lat": 39.315683205194816,
     "lng": 32.52850847142859,
     "type": "ilce"
@@ -3290,7 +3209,6 @@
   {
     "il": "Ankara",
     "ilce": "Sincan",
-    "mahalle": null,
     "lat": 39.851703876388875,
     "lng": 32.45810386597224,
     "type": "ilce"
@@ -3298,7 +3216,6 @@
   {
     "il": "Ankara",
     "ilce": "Çamlıdere",
-    "mahalle": null,
     "lat": 40.49280361698112,
     "lng": 32.35563896320753,
     "type": "ilce"
@@ -3306,7 +3223,6 @@
   {
     "il": "Ankara",
     "ilce": "Kızılcahamam",
-    "mahalle": null,
     "lat": 40.46302766102567,
     "lng": 32.592630141538486,
     "type": "ilce"
@@ -3314,7 +3230,6 @@
   {
     "il": "Ankara",
     "ilce": "Kalecik",
-    "mahalle": null,
     "lat": 40.18949941492541,
     "lng": 33.43057813955225,
     "type": "ilce"
@@ -3322,7 +3237,6 @@
   {
     "il": "Ankara",
     "ilce": "Keçiören",
-    "mahalle": null,
     "lat": 40.06579693589743,
     "lng": 32.830320411538466,
     "type": "ilce"
@@ -3330,7 +3244,6 @@
   {
     "il": "Ankara",
     "ilce": "Pursaklar",
-    "mahalle": null,
     "lat": 40.09223385873016,
     "lng": 32.89633772857143,
     "type": "ilce"
@@ -3338,7 +3251,6 @@
   {
     "il": "Ankara",
     "ilce": "Altındağ",
-    "mahalle": null,
     "lat": 39.98636913098591,
     "lng": 32.951047180281684,
     "type": "ilce"
@@ -3346,7 +3258,6 @@
   {
     "il": "Ankara",
     "ilce": "Mamak",
-    "mahalle": null,
     "lat": 39.906530498888905,
     "lng": 32.999236444444435,
     "type": "ilce"
@@ -3354,7 +3265,6 @@
   {
     "il": "Ankara",
     "ilce": "Çankaya",
-    "mahalle": null,
     "lat": 39.83051208015873,
     "lng": 32.88356666111112,
     "type": "ilce"
@@ -3362,7 +3272,6 @@
   {
     "il": "Ankara",
     "ilce": "Etimesgut",
-    "mahalle": null,
     "lat": 39.87490700602411,
     "lng": 32.628095615662666,
     "type": "ilce"
@@ -3370,7 +3279,6 @@
   {
     "il": "Ankara",
     "ilce": "Kahramankazan",
-    "mahalle": null,
     "lat": 40.21269126701031,
     "lng": 32.68211418453608,
     "type": "ilce"
@@ -3378,7 +3286,6 @@
   {
     "il": "Ankara",
     "ilce": "Yenimahalle",
-    "mahalle": null,
     "lat": 39.996669023376604,
     "lng": 32.73147220909093,
     "type": "ilce"
@@ -9301,7 +9208,6 @@
   {
     "il": "Antalya",
     "ilce": "Gazipaşa",
-    "mahalle": null,
     "lat": 36.32567028492061,
     "lng": 32.47794086349205,
     "type": "ilce"
@@ -9309,7 +9215,6 @@
   {
     "il": "Antalya",
     "ilce": "Alanya",
-    "mahalle": null,
     "lat": 36.61395781602208,
     "lng": 32.16412793149171,
     "type": "ilce"
@@ -9317,7 +9222,6 @@
   {
     "il": "Antalya",
     "ilce": "Gündoğmuş",
-    "mahalle": null,
     "lat": 36.85031023505153,
     "lng": 32.08902019484535,
     "type": "ilce"
@@ -9325,7 +9229,6 @@
   {
     "il": "Antalya",
     "ilce": "Manavgat",
-    "mahalle": null,
     "lat": 37.03889599622643,
     "lng": 31.36447314465409,
     "type": "ilce"
@@ -9333,7 +9236,6 @@
   {
     "il": "Antalya",
     "ilce": "Akseki",
-    "mahalle": null,
     "lat": 37.15035838671875,
     "lng": 31.733008173437486,
     "type": "ilce"
@@ -9341,7 +9243,6 @@
   {
     "il": "Antalya",
     "ilce": "İbradı",
-    "mahalle": null,
     "lat": 37.13972736093749,
     "lng": 31.510465168750013,
     "type": "ilce"
@@ -9349,7 +9250,6 @@
   {
     "il": "Antalya",
     "ilce": "Korkuteli",
-    "mahalle": null,
     "lat": 37.093642663905314,
     "lng": 30.153167703550317,
     "type": "ilce"
@@ -9357,7 +9257,6 @@
   {
     "il": "Antalya",
     "ilce": "Kumluca",
-    "mahalle": null,
     "lat": 36.48610423507464,
     "lng": 30.339154404477604,
     "type": "ilce"
@@ -9365,7 +9264,6 @@
   {
     "il": "Antalya",
     "ilce": "Demre",
-    "mahalle": null,
     "lat": 36.183178000000005,
     "lng": 29.8829261,
     "type": "ilce"
@@ -9373,7 +9271,6 @@
   {
     "il": "Antalya",
     "ilce": "Elmalı",
-    "mahalle": null,
     "lat": 36.72398058804347,
     "lng": 29.88225808260869,
     "type": "ilce"
@@ -9381,7 +9278,6 @@
   {
     "il": "Antalya",
     "ilce": "Finike",
-    "mahalle": null,
     "lat": 36.40478740657894,
     "lng": 30.075296075000008,
     "type": "ilce"
@@ -9389,7 +9285,6 @@
   {
     "il": "Antalya",
     "ilce": "Kaş",
-    "mahalle": null,
     "lat": 36.12914968571429,
     "lng": 29.74939501428571,
     "type": "ilce"
@@ -9397,7 +9292,6 @@
   {
     "il": "Antalya",
     "ilce": "Kemer",
-    "mahalle": null,
     "lat": 36.59532950821917,
     "lng": 30.493591506849317,
     "type": "ilce"
@@ -9405,7 +9299,6 @@
   {
     "il": "Antalya",
     "ilce": "Konyaaltı",
-    "mahalle": null,
     "lat": 36.831300869230766,
     "lng": 30.492519109890118,
     "type": "ilce"
@@ -9413,7 +9306,6 @@
   {
     "il": "Antalya",
     "ilce": "Döşemealtı",
-    "mahalle": null,
     "lat": 37.11350865999998,
     "lng": 30.575851533913053,
     "type": "ilce"
@@ -9421,7 +9313,6 @@
   {
     "il": "Antalya",
     "ilce": "Kepez",
-    "mahalle": null,
     "lat": 36.99704152235295,
     "lng": 30.705901231764695,
     "type": "ilce"
@@ -9429,7 +9320,6 @@
   {
     "il": "Antalya",
     "ilce": "Aksu",
-    "mahalle": null,
     "lat": 37.049615525454534,
     "lng": 30.83311166272728,
     "type": "ilce"
@@ -9437,7 +9327,6 @@
   {
     "il": "Antalya",
     "ilce": "Muratpaşa",
-    "mahalle": null,
     "lat": 36.88763737142856,
     "lng": 30.749428095918365,
     "type": "ilce"
@@ -9445,7 +9334,6 @@
   {
     "il": "Antalya",
     "ilce": "Serik",
-    "mahalle": null,
     "lat": 37.08730650081967,
     "lng": 31.003547422950817,
     "type": "ilce"
@@ -11069,7 +10957,6 @@
   {
     "il": "Ardahan",
     "ilce": "Çıldır",
-    "mahalle": null,
     "lat": 41.150084262,
     "lng": 43.159113882,
     "type": "ilce"
@@ -11077,7 +10964,6 @@
   {
     "il": "Ardahan",
     "ilce": "Göle",
-    "mahalle": null,
     "lat": 40.86599987045455,
     "lng": 42.56077627727273,
     "type": "ilce"
@@ -11085,7 +10971,6 @@
   {
     "il": "Ardahan",
     "ilce": "Hanak",
-    "mahalle": null,
     "lat": 41.26357954848484,
     "lng": 42.819297193939384,
     "type": "ilce"
@@ -11093,7 +10978,6 @@
   {
     "il": "Ardahan",
     "ilce": "Posof",
-    "mahalle": null,
     "lat": 41.4852140051282,
     "lng": 42.75039894102564,
     "type": "ilce"
@@ -11101,7 +10985,6 @@
   {
     "il": "Ardahan",
     "ilce": "Damal",
-    "mahalle": null,
     "lat": 41.369820541176466,
     "lng": 42.841253888235286,
     "type": "ilce"
@@ -11109,7 +10992,6 @@
   {
     "il": "Ardahan",
     "ilce": "Ardahan Merkez",
-    "mahalle": null,
     "lat": 41.048639572500015,
     "lng": 42.7507824075,
     "type": "ilce"
@@ -11117,7 +10999,6 @@
   {
     "il": "Ardahan",
     "ilce": "ახალციხის მუნიციპალიტეტი",
-    "mahalle": null,
     "lat": 41.616050012500004,
     "lng": 43.021495454166676,
     "type": "ilce"
@@ -11204,7 +11085,6 @@
   {
     "il": "Artvin",
     "ilce": "Yusufeli",
-    "mahalle": null,
     "lat": 40.837533723809514,
     "lng": 41.49010542063491,
     "type": "ilce"
@@ -11212,7 +11092,6 @@
   {
     "il": "Artvin",
     "ilce": "Hopa",
-    "mahalle": null,
     "lat": 41.378008099999995,
     "lng": 41.46191723571428,
     "type": "ilce"
@@ -11220,7 +11099,6 @@
   {
     "il": "Artvin",
     "ilce": "Ardanuç",
-    "mahalle": null,
     "lat": 41.086260256666684,
     "lng": 42.13625724999999,
     "type": "ilce"
@@ -11228,7 +11106,6 @@
   {
     "il": "Artvin",
     "ilce": "Arhavi",
-    "mahalle": null,
     "lat": 41.238560714285725,
     "lng": 41.40815773333333,
     "type": "ilce"
@@ -11236,7 +11113,6 @@
   {
     "il": "Artvin",
     "ilce": "Artvin Merkez",
-    "mahalle": null,
     "lat": 41.170762416326525,
     "lng": 41.87170820816327,
     "type": "ilce"
@@ -11244,7 +11120,6 @@
   {
     "il": "Artvin",
     "ilce": "Borçka",
-    "mahalle": null,
     "lat": 41.40029743095238,
     "lng": 41.84013559285715,
     "type": "ilce"
@@ -11252,7 +11127,6 @@
   {
     "il": "Artvin",
     "ilce": "Murgul",
-    "mahalle": null,
     "lat": 41.2435612263158,
     "lng": 41.573313210526315,
     "type": "ilce"
@@ -11260,7 +11134,6 @@
   {
     "il": "Artvin",
     "ilce": "Şavşat",
-    "mahalle": null,
     "lat": 41.34077932,
     "lng": 42.32053347714286,
     "type": "ilce"
@@ -11268,7 +11141,6 @@
   {
     "il": "Artvin",
     "ilce": "Kemalpaşa",
-    "mahalle": null,
     "lat": 41.467760777777784,
     "lng": 41.55541506666667,
     "type": "ilce"
@@ -11345,7 +11217,6 @@
   {
     "il": "Aydin",
     "ilce": "Kuyucak",
-    "mahalle": null,
     "lat": 37.94228888260869,
     "lng": 28.572577359420286,
     "type": "ilce"
@@ -11353,7 +11224,6 @@
   {
     "il": "Aydin",
     "ilce": "Buharkent",
-    "mahalle": null,
     "lat": 37.982097387878795,
     "lng": 28.739308542424236,
     "type": "ilce"
@@ -11361,7 +11231,6 @@
   {
     "il": "Aydin",
     "ilce": "Söke",
-    "mahalle": null,
     "lat": 37.65406067037038,
     "lng": 27.365946702777787,
     "type": "ilce"
@@ -11369,7 +11238,6 @@
   {
     "il": "Aydin",
     "ilce": "Karpuzlu",
-    "mahalle": null,
     "lat": 37.5621683875,
     "lng": 27.82376223125,
     "type": "ilce"
@@ -11377,7 +11245,6 @@
   {
     "il": "Aydin",
     "ilce": "Karacasu",
-    "mahalle": null,
     "lat": 37.71872019,
     "lng": 28.672085828571422,
     "type": "ilce"
@@ -11385,7 +11252,6 @@
   {
     "il": "Aydin",
     "ilce": "Germencik",
-    "mahalle": null,
     "lat": 37.89790108644067,
     "lng": 27.56742625423729,
     "type": "ilce"
@@ -11393,7 +11259,6 @@
   {
     "il": "Aydin",
     "ilce": "Koçarlı",
-    "mahalle": null,
     "lat": 37.68118292597404,
     "lng": 27.68968682727273,
     "type": "ilce"
@@ -11401,7 +11266,6 @@
   {
     "il": "Aydin",
     "ilce": "Çine",
-    "mahalle": null,
     "lat": 37.58901641411766,
     "lng": 28.04305039411765,
     "type": "ilce"
@@ -11409,7 +11273,6 @@
   {
     "il": "Aydin",
     "ilce": "Köşk",
-    "mahalle": null,
     "lat": 37.922766138636376,
     "lng": 28.055026886363635,
     "type": "ilce"
@@ -11417,7 +11280,6 @@
   {
     "il": "Aydin",
     "ilce": "Bozdoğan",
-    "mahalle": null,
     "lat": 37.64024591710526,
     "lng": 28.396807069736848,
     "type": "ilce"
@@ -11425,7 +11287,6 @@
   {
     "il": "Aydin",
     "ilce": "Nazilli",
-    "mahalle": null,
     "lat": 37.962249063380284,
     "lng": 28.379502473239445,
     "type": "ilce"
@@ -11433,7 +11294,6 @@
   {
     "il": "Aydin",
     "ilce": "Sultanhisar",
-    "mahalle": null,
     "lat": 37.9223459159091,
     "lng": 28.183989538636368,
     "type": "ilce"
@@ -11441,7 +11301,6 @@
   {
     "il": "Aydin",
     "ilce": "Yenipazar",
-    "mahalle": null,
     "lat": 37.790769675675676,
     "lng": 28.18299435405406,
     "type": "ilce"
@@ -11449,7 +11308,6 @@
   {
     "il": "Aydin",
     "ilce": "Efeler",
-    "mahalle": null,
     "lat": 37.84320301973683,
     "lng": 27.941732439473686,
     "type": "ilce"
@@ -11457,7 +11315,6 @@
   {
     "il": "Aydin",
     "ilce": "Didim",
-    "mahalle": null,
     "lat": 37.44600952647058,
     "lng": 27.316318417647064,
     "type": "ilce"
@@ -11465,7 +11322,6 @@
   {
     "il": "Aydin",
     "ilce": "Kuşadası",
-    "mahalle": null,
     "lat": 37.75994460000001,
     "lng": 27.237275266176464,
     "type": "ilce"
@@ -11473,7 +11329,6 @@
   {
     "il": "Aydin",
     "ilce": "İncirliova",
-    "mahalle": null,
     "lat": 37.87993482452831,
     "lng": 27.742025899999994,
     "type": "ilce"
@@ -11804,7 +11659,6 @@
   {
     "il": "Balikesir",
     "ilce": "Balya",
-    "mahalle": null,
     "lat": 39.77984764065039,
     "lng": 27.63897381382113,
     "type": "ilce"
@@ -11812,7 +11666,6 @@
   {
     "il": "Balikesir",
     "ilce": "Kırkağaç",
-    "mahalle": null,
     "lat": 39.209425689393946,
     "lng": 27.812068578787876,
     "type": "ilce"
@@ -11820,7 +11673,6 @@
   {
     "il": "Balikesir",
     "ilce": "Soma",
-    "mahalle": null,
     "lat": 39.21994654495412,
     "lng": 27.561837306422024,
     "type": "ilce"
@@ -11828,7 +11680,6 @@
   {
     "il": "Balikesir",
     "ilce": "Erdek",
-    "mahalle": null,
     "lat": 40.50778208,
     "lng": 27.580076220000002,
     "type": "ilce"
@@ -11836,7 +11687,6 @@
   {
     "il": "Balikesir",
     "ilce": "Marmara",
-    "mahalle": null,
     "lat": 40.54646546666667,
     "lng": 27.485365016666673,
     "type": "ilce"
@@ -11844,7 +11694,6 @@
   {
     "il": "Balikesir",
     "ilce": "Ayvalık",
-    "mahalle": null,
     "lat": 39.32587803333333,
     "lng": 26.53682653333333,
     "type": "ilce"
@@ -11852,7 +11701,6 @@
   {
     "il": "Balikesir",
     "ilce": "Edremit",
-    "mahalle": null,
     "lat": 39.62704083055555,
     "lng": 26.843304588888884,
     "type": "ilce"
@@ -11860,7 +11708,6 @@
   {
     "il": "Balikesir",
     "ilce": "Gömeç",
-    "mahalle": null,
     "lat": 39.38324839767441,
     "lng": 26.85063541627907,
     "type": "ilce"
@@ -11868,7 +11715,6 @@
   {
     "il": "Balikesir",
     "ilce": "İvrindi",
-    "mahalle": null,
     "lat": 39.54250535865385,
     "lng": 27.48874835769231,
     "type": "ilce"
@@ -11876,7 +11722,6 @@
   {
     "il": "Balikesir",
     "ilce": "Havran",
-    "mahalle": null,
     "lat": 39.60321011842105,
     "lng": 27.20958233157894,
     "type": "ilce"
@@ -11884,7 +11729,6 @@
   {
     "il": "Balikesir",
     "ilce": "Savaştepe",
-    "mahalle": null,
     "lat": 39.42069522328768,
     "lng": 27.69918954246576,
     "type": "ilce"
@@ -11892,7 +11736,6 @@
   {
     "il": "Balikesir",
     "ilce": "Dursunbey",
-    "mahalle": null,
     "lat": 39.552974649333315,
     "lng": 28.723497759333313,
     "type": "ilce"
@@ -11900,7 +11743,6 @@
   {
     "il": "Balikesir",
     "ilce": "Kepsut",
-    "mahalle": null,
     "lat": 39.68071859578949,
     "lng": 28.235582964210526,
     "type": "ilce"
@@ -11908,7 +11750,6 @@
   {
     "il": "Balikesir",
     "ilce": "Altıeylül",
-    "mahalle": null,
     "lat": 39.58308766068377,
     "lng": 27.924972660683746,
     "type": "ilce"
@@ -11916,7 +11757,6 @@
   {
     "il": "Balikesir",
     "ilce": "Bigadiç",
-    "mahalle": null,
     "lat": 39.44455660495866,
     "lng": 28.222464326446264,
     "type": "ilce"
@@ -11924,7 +11764,6 @@
   {
     "il": "Balikesir",
     "ilce": "Manyas",
-    "mahalle": null,
     "lat": 40.024827969014105,
     "lng": 27.890355471830976,
     "type": "ilce"
@@ -11932,7 +11771,6 @@
   {
     "il": "Balikesir",
     "ilce": "Susurluk",
-    "mahalle": null,
     "lat": 39.917829162068955,
     "lng": 28.116483490804598,
     "type": "ilce"
@@ -11940,7 +11778,6 @@
   {
     "il": "Balikesir",
     "ilce": "Bandırma",
-    "mahalle": null,
     "lat": 40.27416082500002,
     "lng": 27.968429457317082,
     "type": "ilce"
@@ -11948,7 +11785,6 @@
   {
     "il": "Balikesir",
     "ilce": "Burhaniye",
-    "mahalle": null,
     "lat": 39.434284341666654,
     "lng": 27.011090798333324,
     "type": "ilce"
@@ -11956,7 +11792,6 @@
   {
     "il": "Balikesir",
     "ilce": "Gönen",
-    "mahalle": null,
     "lat": 40.14449911854841,
     "lng": 27.65098713064516,
     "type": "ilce"
@@ -11964,7 +11799,6 @@
   {
     "il": "Balikesir",
     "ilce": "Sındırgı",
-    "mahalle": null,
     "lat": 39.24327886190476,
     "lng": 28.279394177142855,
     "type": "ilce"
@@ -11972,7 +11806,6 @@
   {
     "il": "Balikesir",
     "ilce": "Karesi",
-    "mahalle": null,
     "lat": 39.762376891836745,
     "lng": 27.839027515306118,
     "type": "ilce"
@@ -13405,7 +13238,6 @@
   {
     "il": "Bartin",
     "ilce": "Ulus",
-    "mahalle": null,
     "lat": 41.551003011627905,
     "lng": 32.65170300387598,
     "type": "ilce"
@@ -13413,7 +13245,6 @@
   {
     "il": "Bartin",
     "ilce": "Amasra",
-    "mahalle": null,
     "lat": 41.75168018,
     "lng": 32.38383246,
     "type": "ilce"
@@ -13421,7 +13252,6 @@
   {
     "il": "Bartin",
     "ilce": "Kurucaşile",
-    "mahalle": null,
     "lat": 41.78730567499999,
     "lng": 32.65662508593751,
     "type": "ilce"
@@ -13429,7 +13259,6 @@
   {
     "il": "Bartin",
     "ilce": "Bartın Merkez",
-    "mahalle": null,
     "lat": 41.599826155223894,
     "lng": 32.445521092039805,
     "type": "ilce"
@@ -14277,7 +14106,6 @@
   {
     "il": "Batman",
     "ilce": "Hasankeyf",
-    "mahalle": null,
     "lat": 37.704421545714276,
     "lng": 41.542426948571425,
     "type": "ilce"
@@ -14285,7 +14113,6 @@
   {
     "il": "Batman",
     "ilce": "Batman Merkez",
-    "mahalle": null,
     "lat": 37.85944617065218,
     "lng": 41.20558388586956,
     "type": "ilce"
@@ -14293,7 +14120,6 @@
   {
     "il": "Batman",
     "ilce": "Beşiri",
-    "mahalle": null,
     "lat": 37.8817383,
     "lng": 41.41482457361113,
     "type": "ilce"
@@ -14301,7 +14127,6 @@
   {
     "il": "Batman",
     "ilce": "Gercüş",
-    "mahalle": null,
     "lat": 37.617341269473684,
     "lng": 41.34140485473685,
     "type": "ilce"
@@ -14309,7 +14134,6 @@
   {
     "il": "Batman",
     "ilce": "Kozluk",
-    "mahalle": null,
     "lat": 38.17576179062499,
     "lng": 41.42483107656249,
     "type": "ilce"
@@ -14317,7 +14141,6 @@
   {
     "il": "Batman",
     "ilce": "Sason",
-    "mahalle": null,
     "lat": 38.41310185932204,
     "lng": 41.42876716271185,
     "type": "ilce"
@@ -14939,7 +14762,6 @@
   {
     "il": "Bayburt",
     "ilce": "Bayburt Merkez",
-    "mahalle": null,
     "lat": 40.25536147792208,
     "lng": 40.25500273376624,
     "type": "ilce"
@@ -14947,7 +14769,6 @@
   {
     "il": "Bayburt",
     "ilce": "Demirözü",
-    "mahalle": null,
     "lat": 40.094460770588235,
     "lng": 39.84772189117647,
     "type": "ilce"
@@ -14955,7 +14776,6 @@
   {
     "il": "Bayburt",
     "ilce": "Aydıntepe",
-    "mahalle": null,
     "lat": 40.456814572000006,
     "lng": 40.153340712,
     "type": "ilce"
@@ -15090,7 +14910,6 @@
   {
     "il": "Bilecik",
     "ilce": "Yenipazar",
-    "mahalle": null,
     "lat": 40.20069344210525,
     "lng": 30.52947747368421,
     "type": "ilce"
@@ -15098,7 +14917,6 @@
   {
     "il": "Bilecik",
     "ilce": "Osmaneli",
-    "mahalle": null,
     "lat": 40.398428213888884,
     "lng": 29.99034607499999,
     "type": "ilce"
@@ -15106,7 +14924,6 @@
   {
     "il": "Bilecik",
     "ilce": "Gölpazarı",
-    "mahalle": null,
     "lat": 40.27880325833333,
     "lng": 30.330595411111105,
     "type": "ilce"
@@ -15114,7 +14931,6 @@
   {
     "il": "Bilecik",
     "ilce": "Bozüyük",
-    "mahalle": null,
     "lat": 39.84566563636365,
     "lng": 29.957117087878782,
     "type": "ilce"
@@ -15122,7 +14938,6 @@
   {
     "il": "Bilecik",
     "ilce": "Söğüt",
-    "mahalle": null,
     "lat": 40.001183062068975,
     "lng": 30.233642234482762,
     "type": "ilce"
@@ -15130,7 +14945,6 @@
   {
     "il": "Bilecik",
     "ilce": "İnhisar",
-    "mahalle": null,
     "lat": 40.067768904761884,
     "lng": 30.392606690476185,
     "type": "ilce"
@@ -15138,7 +14952,6 @@
   {
     "il": "Bilecik",
     "ilce": "Pazaryeri",
-    "mahalle": null,
     "lat": 39.99815705263158,
     "lng": 29.88169423684211,
     "type": "ilce"
@@ -15146,7 +14959,6 @@
   {
     "il": "Bilecik",
     "ilce": "Bilecik Merkez",
-    "mahalle": null,
     "lat": 40.173785228125006,
     "lng": 29.961450409374994,
     "type": "ilce"
@@ -15311,7 +15123,6 @@
   {
     "il": "Bingol",
     "ilce": "Adaklı",
-    "mahalle": null,
     "lat": 39.22468550625,
     "lng": 40.54686366875,
     "type": "ilce"
@@ -15319,7 +15130,6 @@
   {
     "il": "Bingol",
     "ilce": "Bingöl Merkez",
-    "mahalle": null,
     "lat": 38.92339046,
     "lng": 40.46127931333333,
     "type": "ilce"
@@ -15327,7 +15137,6 @@
   {
     "il": "Bingol",
     "ilce": "Genç",
-    "mahalle": null,
     "lat": 38.66716259310345,
     "lng": 40.54401458620689,
     "type": "ilce"
@@ -15335,7 +15144,6 @@
   {
     "il": "Bingol",
     "ilce": "Karlıova",
-    "mahalle": null,
     "lat": 39.2678010875,
     "lng": 40.96906210833334,
     "type": "ilce"
@@ -15343,7 +15151,6 @@
   {
     "il": "Bingol",
     "ilce": "Kiğı",
-    "mahalle": null,
     "lat": 39.26552537368421,
     "lng": 40.300490384210526,
     "type": "ilce"
@@ -15351,7 +15158,6 @@
   {
     "il": "Bingol",
     "ilce": "Solhan",
-    "mahalle": null,
     "lat": 38.917322505263165,
     "lng": 41.03000048947368,
     "type": "ilce"
@@ -15359,7 +15165,6 @@
   {
     "il": "Bingol",
     "ilce": "Yayladere",
-    "mahalle": null,
     "lat": 39.213504876923075,
     "lng": 40.06634457692308,
     "type": "ilce"
@@ -15367,7 +15172,6 @@
   {
     "il": "Bingol",
     "ilce": "Yedisu",
-    "mahalle": null,
     "lat": 39.44769254705882,
     "lng": 40.47894927058823,
     "type": "ilce"
@@ -15498,7 +15302,6 @@
   {
     "il": "Bitlis",
     "ilce": "Hizan",
-    "mahalle": null,
     "lat": 38.178062590196085,
     "lng": 42.50433470588234,
     "type": "ilce"
@@ -15506,7 +15309,6 @@
   {
     "il": "Bitlis",
     "ilce": "Adilcevaz",
-    "mahalle": null,
     "lat": 38.872576942424246,
     "lng": 42.857523227272736,
     "type": "ilce"
@@ -15514,7 +15316,6 @@
   {
     "il": "Bitlis",
     "ilce": "Ahlat",
-    "mahalle": null,
     "lat": 38.813640969767434,
     "lng": 42.33146524883721,
     "type": "ilce"
@@ -15522,7 +15323,6 @@
   {
     "il": "Bitlis",
     "ilce": "Bitlis Merkez",
-    "mahalle": null,
     "lat": 38.3435667119403,
     "lng": 42.07497789253732,
     "type": "ilce"
@@ -15530,7 +15330,6 @@
   {
     "il": "Bitlis",
     "ilce": "Güroymak",
-    "mahalle": null,
     "lat": 38.58013740222222,
     "lng": 42.083267915555545,
     "type": "ilce"
@@ -15538,7 +15337,6 @@
   {
     "il": "Bitlis",
     "ilce": "Mutki",
-    "mahalle": null,
     "lat": 38.44831929152542,
     "lng": 41.75727530169492,
     "type": "ilce"
@@ -15546,7 +15344,6 @@
   {
     "il": "Bitlis",
     "ilce": "Tatvan",
-    "mahalle": null,
     "lat": 38.44194621,
     "lng": 42.47117545666667,
     "type": "ilce"
@@ -15799,7 +15596,6 @@
   {
     "il": "Bolu",
     "ilce": "Eskipazar",
-    "mahalle": null,
     "lat": 40.946824545901656,
     "lng": 32.543770650819674,
     "type": "ilce"
@@ -15807,7 +15603,6 @@
   {
     "il": "Bolu",
     "ilce": "Mudurnu",
-    "mahalle": null,
     "lat": 40.50187660624999,
     "lng": 31.193877662499997,
     "type": "ilce"
@@ -15815,7 +15610,6 @@
   {
     "il": "Bolu",
     "ilce": "Göynük",
-    "mahalle": null,
     "lat": 40.316601297826075,
     "lng": 30.81206121847827,
     "type": "ilce"
@@ -15823,7 +15617,6 @@
   {
     "il": "Bolu",
     "ilce": "Bolu Merkez",
-    "mahalle": null,
     "lat": 40.70841645363637,
     "lng": 31.658878131818177,
     "type": "ilce"
@@ -15831,7 +15624,6 @@
   {
     "il": "Bolu",
     "ilce": "Dörtdivan",
-    "mahalle": null,
     "lat": 40.6235423032787,
     "lng": 32.022958383606564,
     "type": "ilce"
@@ -15839,7 +15631,6 @@
   {
     "il": "Bolu",
     "ilce": "Gerede",
-    "mahalle": null,
     "lat": 40.69923593636362,
     "lng": 32.324341810101025,
     "type": "ilce"
@@ -15847,7 +15638,6 @@
   {
     "il": "Bolu",
     "ilce": "Kıbrıscık",
-    "mahalle": null,
     "lat": 40.404636890566046,
     "lng": 31.855519060377357,
     "type": "ilce"
@@ -15855,7 +15645,6 @@
   {
     "il": "Bolu",
     "ilce": "Mengen",
-    "mahalle": null,
     "lat": 40.92366255285715,
     "lng": 32.08542851571428,
     "type": "ilce"
@@ -15863,7 +15652,6 @@
   {
     "il": "Bolu",
     "ilce": "Seben",
-    "mahalle": null,
     "lat": 40.463806033333334,
     "lng": 31.611326340740753,
     "type": "ilce"
@@ -15871,7 +15659,6 @@
   {
     "il": "Bolu",
     "ilce": "Yeniçağa",
-    "mahalle": null,
     "lat": 40.806242006666665,
     "lng": 32.04908148333333,
     "type": "ilce"
@@ -16831,7 +16618,6 @@
   {
     "il": "Burdur",
     "ilce": "Ağlasun",
-    "mahalle": null,
     "lat": 37.621904076470585,
     "lng": 30.597860358823528,
     "type": "ilce"
@@ -16839,7 +16625,6 @@
   {
     "il": "Burdur",
     "ilce": "Bucak",
-    "mahalle": null,
     "lat": 37.36594331904763,
     "lng": 30.596650773809536,
     "type": "ilce"
@@ -16847,7 +16632,6 @@
   {
     "il": "Burdur",
     "ilce": "Çeltikçi",
-    "mahalle": null,
     "lat": 37.530310584615385,
     "lng": 30.442952769230768,
     "type": "ilce"
@@ -16855,7 +16639,6 @@
   {
     "il": "Burdur",
     "ilce": "Yeşilova",
-    "mahalle": null,
     "lat": 37.59425746111111,
     "lng": 29.761030675000004,
     "type": "ilce"
@@ -16863,7 +16646,6 @@
   {
     "il": "Burdur",
     "ilce": "Altınyayla",
-    "mahalle": null,
     "lat": 36.92883296111111,
     "lng": 29.506228266666668,
     "type": "ilce"
@@ -16871,7 +16653,6 @@
   {
     "il": "Burdur",
     "ilce": "Kemer",
-    "mahalle": null,
     "lat": 37.34840268666667,
     "lng": 30.069953573333336,
     "type": "ilce"
@@ -16879,7 +16660,6 @@
   {
     "il": "Burdur",
     "ilce": "Gölhisar",
-    "mahalle": null,
     "lat": 37.076612366666666,
     "lng": 29.47427834242425,
     "type": "ilce"
@@ -16887,7 +16667,6 @@
   {
     "il": "Burdur",
     "ilce": "Burdur Merkez",
-    "mahalle": null,
     "lat": 37.61481768205128,
     "lng": 30.255090761538465,
     "type": "ilce"
@@ -16895,7 +16674,6 @@
   {
     "il": "Burdur",
     "ilce": "Tefenni",
-    "mahalle": null,
     "lat": 37.232811382608695,
     "lng": 29.78661049130435,
     "type": "ilce"
@@ -16903,7 +16681,6 @@
   {
     "il": "Burdur",
     "ilce": "Çavdır",
-    "mahalle": null,
     "lat": 37.09071654285715,
     "lng": 29.69720250000001,
     "type": "ilce"
@@ -16911,7 +16688,6 @@
   {
     "il": "Burdur",
     "ilce": "Karamanlı",
-    "mahalle": null,
     "lat": 37.38528440625001,
     "lng": 29.808732537499992,
     "type": "ilce"
@@ -17199,7 +16975,6 @@
   {
     "il": "Bursa",
     "ilce": "İznik",
-    "mahalle": null,
     "lat": 40.48828156811594,
     "lng": 29.714516118840578,
     "type": "ilce"
@@ -17207,7 +16982,6 @@
   {
     "il": "Bursa",
     "ilce": "Orhangazi",
-    "mahalle": null,
     "lat": 40.479222131481485,
     "lng": 29.379640798148145,
     "type": "ilce"
@@ -17215,7 +16989,6 @@
   {
     "il": "Bursa",
     "ilce": "Yenişehir",
-    "mahalle": null,
     "lat": 40.258186747692314,
     "lng": 29.603006243076923,
     "type": "ilce"
@@ -17223,7 +16996,6 @@
   {
     "il": "Bursa",
     "ilce": "İnegöl",
-    "mahalle": null,
     "lat": 40.00590042282609,
     "lng": 29.507919598913038,
     "type": "ilce"
@@ -17231,7 +17003,6 @@
   {
     "il": "Bursa",
     "ilce": "Kestel",
-    "mahalle": null,
     "lat": 40.19477911206896,
     "lng": 29.29612599310344,
     "type": "ilce"
@@ -17239,7 +17010,6 @@
   {
     "il": "Bursa",
     "ilce": "Keles",
-    "mahalle": null,
     "lat": 39.89003580606061,
     "lng": 29.25751967272727,
     "type": "ilce"
@@ -17247,7 +17017,6 @@
   {
     "il": "Bursa",
     "ilce": "Büyükorhan",
-    "mahalle": null,
     "lat": 39.745524376404504,
     "lng": 28.847884506741572,
     "type": "ilce"
@@ -17255,7 +17024,6 @@
   {
     "il": "Bursa",
     "ilce": "Harmancık",
-    "mahalle": null,
     "lat": 39.69595473906249,
     "lng": 29.1231615578125,
     "type": "ilce"
@@ -17263,7 +17031,6 @@
   {
     "il": "Bursa",
     "ilce": "Mustafakemalpaşa",
-    "mahalle": null,
     "lat": 39.948983669902915,
     "lng": 28.573700996116507,
     "type": "ilce"
@@ -17271,7 +17038,6 @@
   {
     "il": "Bursa",
     "ilce": "Karacabey",
-    "mahalle": null,
     "lat": 40.24920633714285,
     "lng": 28.34031410285716,
     "type": "ilce"
@@ -17279,7 +17045,6 @@
   {
     "il": "Bursa",
     "ilce": "Orhaneli",
-    "mahalle": null,
     "lat": 39.9062841272,
     "lng": 28.950291043199996,
     "type": "ilce"
@@ -17287,7 +17052,6 @@
   {
     "il": "Bursa",
     "ilce": "Nilüfer",
-    "mahalle": null,
     "lat": 40.19745035263158,
     "lng": 28.839907473684214,
     "type": "ilce"
@@ -17295,7 +17059,6 @@
   {
     "il": "Bursa",
     "ilce": "Mudanya",
-    "mahalle": null,
     "lat": 40.54071470769231,
     "lng": 28.533522723076924,
     "type": "ilce"
@@ -17303,7 +17066,6 @@
   {
     "il": "Bursa",
     "ilce": "Osmangazi",
-    "mahalle": null,
     "lat": 40.177744042758626,
     "lng": 29.07523796965517,
     "type": "ilce"
@@ -17311,7 +17073,6 @@
   {
     "il": "Bursa",
     "ilce": "Yıldırım",
-    "mahalle": null,
     "lat": 40.17568068103448,
     "lng": 29.138657858620686,
     "type": "ilce"
@@ -17319,7 +17080,6 @@
   {
     "il": "Bursa",
     "ilce": "Gürsu",
-    "mahalle": null,
     "lat": 40.25558035416666,
     "lng": 29.210628841666665,
     "type": "ilce"
@@ -17327,7 +17087,6 @@
   {
     "il": "Bursa",
     "ilce": "Gemlik",
-    "mahalle": null,
     "lat": 40.43783235617977,
     "lng": 29.142001510112355,
     "type": "ilce"
@@ -19674,7 +19433,6 @@
   {
     "il": "Canakkale",
     "ilce": "Yenice",
-    "mahalle": null,
     "lat": 39.90869928636366,
     "lng": 27.309010192045456,
     "type": "ilce"
@@ -19682,7 +19440,6 @@
   {
     "il": "Canakkale",
     "ilce": "Biga",
-    "mahalle": null,
     "lat": 40.30729158347108,
     "lng": 27.20002038512397,
     "type": "ilce"
@@ -19690,7 +19447,6 @@
   {
     "il": "Canakkale",
     "ilce": "Eceabat",
-    "mahalle": null,
     "lat": 40.22112692295082,
     "lng": 26.31408001229508,
     "type": "ilce"
@@ -19698,7 +19454,6 @@
   {
     "il": "Canakkale",
     "ilce": "Gelibolu",
-    "mahalle": null,
     "lat": 40.61568187500001,
     "lng": 26.735939574999996,
     "type": "ilce"
@@ -19706,7 +19461,6 @@
   {
     "il": "Canakkale",
     "ilce": "Lapseki",
-    "mahalle": null,
     "lat": 40.283174172549025,
     "lng": 26.78325519117647,
     "type": "ilce"
@@ -19714,7 +19468,6 @@
   {
     "il": "Canakkale",
     "ilce": "Ayvacık",
-    "mahalle": null,
     "lat": 39.56346937615385,
     "lng": 26.354659941538465,
     "type": "ilce"
@@ -19722,7 +19475,6 @@
   {
     "il": "Canakkale",
     "ilce": "Bozcaada",
-    "mahalle": null,
     "lat": 39.936433,
     "lng": 26.062708516666664,
     "type": "ilce"
@@ -19730,7 +19482,6 @@
   {
     "il": "Canakkale",
     "ilce": "Gökçeada",
-    "mahalle": null,
     "lat": 40.16177668404255,
     "lng": 25.857561315957444,
     "type": "ilce"
@@ -19738,7 +19489,6 @@
   {
     "il": "Canakkale",
     "ilce": "Çanakkale Merkez",
-    "mahalle": null,
     "lat": 40.067700716030544,
     "lng": 26.468216922137405,
     "type": "ilce"
@@ -19746,7 +19496,6 @@
   {
     "il": "Canakkale",
     "ilce": "Bayramiç",
-    "mahalle": null,
     "lat": 39.8418936948276,
     "lng": 26.688230098275877,
     "type": "ilce"
@@ -19754,7 +19503,6 @@
   {
     "il": "Canakkale",
     "ilce": "Ezine",
-    "mahalle": null,
     "lat": 39.79076791956521,
     "lng": 26.26492949021739,
     "type": "ilce"
@@ -19762,7 +19510,6 @@
   {
     "il": "Canakkale",
     "ilce": "Çan",
-    "mahalle": null,
     "lat": 40.04404973750002,
     "lng": 26.9737803607143,
     "type": "ilce"
@@ -19966,7 +19713,6 @@
   {
     "il": "Cankiri",
     "ilce": "Korgun",
-    "mahalle": null,
     "lat": 40.70001565135135,
     "lng": 33.44450092702703,
     "type": "ilce"
@@ -19974,7 +19720,6 @@
   {
     "il": "Cankiri",
     "ilce": "Bayramören",
-    "mahalle": null,
     "lat": 40.98187115384615,
     "lng": 33.15904197692308,
     "type": "ilce"
@@ -19982,7 +19727,6 @@
   {
     "il": "Cankiri",
     "ilce": "Yapraklı",
-    "mahalle": null,
     "lat": 40.740961141025636,
     "lng": 33.90118524358974,
     "type": "ilce"
@@ -19990,7 +19734,6 @@
   {
     "il": "Cankiri",
     "ilce": "Atkaracalar",
-    "mahalle": null,
     "lat": 40.85090314999999,
     "lng": 33.10069718636363,
     "type": "ilce"
@@ -19998,7 +19741,6 @@
   {
     "il": "Cankiri",
     "ilce": "Ilgaz",
-    "mahalle": null,
     "lat": 40.943425166,
     "lng": 33.63120972,
     "type": "ilce"
@@ -20006,7 +19748,6 @@
   {
     "il": "Cankiri",
     "ilce": "Orta",
-    "mahalle": null,
     "lat": 40.59467943,
     "lng": 33.08439221599999,
     "type": "ilce"
@@ -20014,7 +19755,6 @@
   {
     "il": "Cankiri",
     "ilce": "Eldivan",
-    "mahalle": null,
     "lat": 40.47972578249999,
     "lng": 33.49235443750001,
     "type": "ilce"
@@ -20022,7 +19762,6 @@
   {
     "il": "Cankiri",
     "ilce": "Çankırı Merkez",
-    "mahalle": null,
     "lat": 40.538423342105276,
     "lng": 33.760515142105255,
     "type": "ilce"
@@ -20030,7 +19769,6 @@
   {
     "il": "Cankiri",
     "ilce": "Kurşunlu",
-    "mahalle": null,
     "lat": 40.81811924545455,
     "lng": 33.30688501136364,
     "type": "ilce"
@@ -20038,7 +19776,6 @@
   {
     "il": "Cankiri",
     "ilce": "Kızılırmak",
-    "mahalle": null,
     "lat": 40.37877678510639,
     "lng": 33.967403953191486,
     "type": "ilce"
@@ -20046,7 +19783,6 @@
   {
     "il": "Cankiri",
     "ilce": "Çerkeş",
-    "mahalle": null,
     "lat": 40.82318474081632,
     "lng": 32.853871506122445,
     "type": "ilce"
@@ -20054,7 +19790,6 @@
   {
     "il": "Cankiri",
     "ilce": "Şabanözü",
-    "mahalle": null,
     "lat": 40.468507519512194,
     "lng": 33.28227952195123,
     "type": "ilce"
@@ -20232,7 +19967,6 @@
   {
     "il": "Corum",
     "ilce": "Dodurga",
-    "mahalle": null,
     "lat": 40.84177605,
     "lng": 34.751903600000006,
     "type": "ilce"
@@ -20240,7 +19974,6 @@
   {
     "il": "Corum",
     "ilce": "Kargı",
-    "mahalle": null,
     "lat": 41.160500886363636,
     "lng": 34.49829709090909,
     "type": "ilce"
@@ -20248,7 +19981,6 @@
   {
     "il": "Corum",
     "ilce": "Osmancık",
-    "mahalle": null,
     "lat": 41.0143665625,
     "lng": 34.805476899999995,
     "type": "ilce"
@@ -20256,7 +19988,6 @@
   {
     "il": "Corum",
     "ilce": "İskilip",
-    "mahalle": null,
     "lat": 40.77595449130434,
     "lng": 34.44743326956522,
     "type": "ilce"
@@ -20264,7 +19995,6 @@
   {
     "il": "Corum",
     "ilce": "Laçin",
-    "mahalle": null,
     "lat": 40.77575897500001,
     "lng": 34.89894098333333,
     "type": "ilce"
@@ -20272,7 +20002,6 @@
   {
     "il": "Corum",
     "ilce": "Ortaköy",
-    "mahalle": null,
     "lat": 40.30696938888889,
     "lng": 35.25195360000001,
     "type": "ilce"
@@ -20280,7 +20009,6 @@
   {
     "il": "Corum",
     "ilce": "Bayat",
-    "mahalle": null,
     "lat": 40.624333326315785,
     "lng": 34.19948297368422,
     "type": "ilce"
@@ -20288,7 +20016,6 @@
   {
     "il": "Corum",
     "ilce": "Sungurlu",
-    "mahalle": null,
     "lat": 40.22662743939393,
     "lng": 34.32003017878789,
     "type": "ilce"
@@ -20296,7 +20023,6 @@
   {
     "il": "Corum",
     "ilce": "Çorum Merkez",
-    "mahalle": null,
     "lat": 40.50847760312499,
     "lng": 34.900124128125,
     "type": "ilce"
@@ -20304,7 +20030,6 @@
   {
     "il": "Corum",
     "ilce": "Oğuzlar",
-    "mahalle": null,
     "lat": 40.77855195,
     "lng": 34.679504025,
     "type": "ilce"
@@ -20312,7 +20037,6 @@
   {
     "il": "Corum",
     "ilce": "Alaca",
-    "mahalle": null,
     "lat": 40.14379589500001,
     "lng": 34.874937429999996,
     "type": "ilce"
@@ -20320,7 +20044,6 @@
   {
     "il": "Corum",
     "ilce": "Boğazkale",
-    "mahalle": null,
     "lat": 40.03254985454546,
     "lng": 34.56005421818182,
     "type": "ilce"
@@ -20328,7 +20051,6 @@
   {
     "il": "Corum",
     "ilce": "Mecitözü",
-    "mahalle": null,
     "lat": 40.488879445,
     "lng": 35.283985935,
     "type": "ilce"
@@ -20336,7 +20058,6 @@
   {
     "il": "Corum",
     "ilce": "Uğurludağ",
-    "mahalle": null,
     "lat": 40.45645834285715,
     "lng": 34.35471248571429,
     "type": "ilce"
@@ -20465,7 +20186,6 @@
   {
     "il": "Denizli",
     "ilce": "Tavas",
-    "mahalle": null,
     "lat": 37.47047629298246,
     "lng": 29.0229572122807,
     "type": "ilce"
@@ -20473,7 +20193,6 @@
   {
     "il": "Denizli",
     "ilce": "Acıpayam",
-    "mahalle": null,
     "lat": 37.364912469354834,
     "lng": 29.34720497258065,
     "type": "ilce"
@@ -20481,7 +20200,6 @@
   {
     "il": "Denizli",
     "ilce": "Çameli",
-    "mahalle": null,
     "lat": 37.022836852941175,
     "lng": 29.274327711764712,
     "type": "ilce"
@@ -20489,7 +20207,6 @@
   {
     "il": "Denizli",
     "ilce": "Bozkurt",
-    "mahalle": null,
     "lat": 37.823226148484856,
     "lng": 29.56674378787879,
     "type": "ilce"
@@ -20497,7 +20214,6 @@
   {
     "il": "Denizli",
     "ilce": "Babadağ",
-    "mahalle": null,
     "lat": 37.816177849999995,
     "lng": 28.89740732857143,
     "type": "ilce"
@@ -20505,7 +20221,6 @@
   {
     "il": "Denizli",
     "ilce": "Pamukkale",
-    "mahalle": null,
     "lat": 37.84950720327869,
     "lng": 29.124554432786898,
     "type": "ilce"
@@ -20513,7 +20228,6 @@
   {
     "il": "Denizli",
     "ilce": "Çardak",
-    "mahalle": null,
     "lat": 37.71558609090909,
     "lng": 29.68100053030303,
     "type": "ilce"
@@ -20521,7 +20235,6 @@
   {
     "il": "Denizli",
     "ilce": "Bekilli",
-    "mahalle": null,
     "lat": 38.24411138095239,
     "lng": 29.427857771428567,
     "type": "ilce"
@@ -20529,7 +20242,6 @@
   {
     "il": "Denizli",
     "ilce": "Buldan",
-    "mahalle": null,
     "lat": 38.08660702800001,
     "lng": 28.851532503999998,
     "type": "ilce"
@@ -20537,7 +20249,6 @@
   {
     "il": "Denizli",
     "ilce": "Çal",
-    "mahalle": null,
     "lat": 38.05605920277777,
     "lng": 29.379599405555552,
     "type": "ilce"
@@ -20545,7 +20256,6 @@
   {
     "il": "Denizli",
     "ilce": "Honaz",
-    "mahalle": null,
     "lat": 37.77100714666667,
     "lng": 29.377392906666667,
     "type": "ilce"
@@ -20553,7 +20263,6 @@
   {
     "il": "Denizli",
     "ilce": "Baklan",
-    "mahalle": null,
     "lat": 38.02658408,
     "lng": 29.572058175000002,
     "type": "ilce"
@@ -20561,7 +20270,6 @@
   {
     "il": "Denizli",
     "ilce": "Güney",
-    "mahalle": null,
     "lat": 38.155252652173914,
     "lng": 29.051717104347823,
     "type": "ilce"
@@ -20569,7 +20277,6 @@
   {
     "il": "Denizli",
     "ilce": "Beyağaç",
-    "mahalle": null,
     "lat": 37.233612924999996,
     "lng": 28.89745856,
     "type": "ilce"
@@ -20577,7 +20284,6 @@
   {
     "il": "Denizli",
     "ilce": "Çivril",
-    "mahalle": null,
     "lat": 38.235355719148934,
     "lng": 29.797086208510628,
     "type": "ilce"
@@ -20585,7 +20291,6 @@
   {
     "il": "Denizli",
     "ilce": "Merkezefendi",
-    "mahalle": null,
     "lat": 37.8001545902439,
     "lng": 29.04108273414633,
     "type": "ilce"
@@ -20593,7 +20298,6 @@
   {
     "il": "Denizli",
     "ilce": "Sarayköy",
-    "mahalle": null,
     "lat": 37.908940511764705,
     "lng": 28.893177608823525,
     "type": "ilce"
@@ -20601,7 +20305,6 @@
   {
     "il": "Denizli",
     "ilce": "Kale",
-    "mahalle": null,
     "lat": 37.43729092571429,
     "lng": 28.78142059428571,
     "type": "ilce"
@@ -20609,7 +20312,6 @@
   {
     "il": "Denizli",
     "ilce": "Serinhisar",
-    "mahalle": null,
     "lat": 37.601707516666664,
     "lng": 29.30874337777778,
     "type": "ilce"
@@ -21382,7 +21084,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Kocaköy",
-    "mahalle": null,
     "lat": 38.25894271739131,
     "lng": 40.53750735217391,
     "type": "ilce"
@@ -21390,7 +21091,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Ergani",
-    "mahalle": null,
     "lat": 38.10833495576923,
     "lng": 39.73131884807693,
     "type": "ilce"
@@ -21398,7 +21098,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Bismil",
-    "mahalle": null,
     "lat": 37.86341057096774,
     "lng": 40.76540932096775,
     "type": "ilce"
@@ -21406,7 +21105,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Çınar",
-    "mahalle": null,
     "lat": 37.68775750933333,
     "lng": 40.23884459866669,
     "type": "ilce"
@@ -21414,7 +21112,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Sur",
-    "mahalle": null,
     "lat": 38.03428095671643,
     "lng": 40.38421299104478,
     "type": "ilce"
@@ -21422,7 +21119,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Yenişehir",
-    "mahalle": null,
     "lat": 38.00502537321428,
     "lng": 40.156223919642855,
     "type": "ilce"
@@ -21430,7 +21126,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Bağlar",
-    "mahalle": null,
     "lat": 37.83627295892857,
     "lng": 40.07679546964285,
     "type": "ilce"
@@ -21438,7 +21133,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Kayapınar",
-    "mahalle": null,
     "lat": 37.96685176388888,
     "lng": 40.017533205555566,
     "type": "ilce"
@@ -21446,7 +21140,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Çermik",
-    "mahalle": null,
     "lat": 38.041819254054055,
     "lng": 39.460411151351344,
     "type": "ilce"
@@ -21454,7 +21147,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Çüngüş",
-    "mahalle": null,
     "lat": 38.232720021212124,
     "lng": 39.32974226666668,
     "type": "ilce"
@@ -21462,7 +21154,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Hazro",
-    "mahalle": null,
     "lat": 38.22735557200001,
     "lng": 40.739230636,
     "type": "ilce"
@@ -21470,7 +21161,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Kulp",
-    "mahalle": null,
     "lat": 38.48616160975608,
     "lng": 41.087445287804876,
     "type": "ilce"
@@ -21478,7 +21168,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Silvan",
-    "mahalle": null,
     "lat": 38.119327565306115,
     "lng": 40.920677293877546,
     "type": "ilce"
@@ -21486,7 +21175,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Dicle",
-    "mahalle": null,
     "lat": 38.367152097499996,
     "lng": 40.1258740725,
     "type": "ilce"
@@ -21494,7 +21182,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Eğil",
-    "mahalle": null,
     "lat": 38.19169498214285,
     "lng": 40.135410417857145,
     "type": "ilce"
@@ -21502,7 +21189,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Hani",
-    "mahalle": null,
     "lat": 38.411515412903206,
     "lng": 40.38432271290323,
     "type": "ilce"
@@ -21510,7 +21196,6 @@
   {
     "il": "Diyarbakir",
     "ilce": "Lice",
-    "mahalle": null,
     "lat": 38.44922958333333,
     "lng": 40.65926879761904,
     "type": "ilce"
@@ -21974,7 +21659,6 @@
   {
     "il": "Duzce",
     "ilce": "Cumayeri",
-    "mahalle": null,
     "lat": 40.91031164893618,
     "lng": 30.91416305531914,
     "type": "ilce"
@@ -21982,7 +21666,6 @@
   {
     "il": "Duzce",
     "ilce": "Çilimli",
-    "mahalle": null,
     "lat": 40.90158344411764,
     "lng": 31.03529814117647,
     "type": "ilce"
@@ -21990,7 +21673,6 @@
   {
     "il": "Duzce",
     "ilce": "Gölyaka",
-    "mahalle": null,
     "lat": 40.728058350000005,
     "lng": 30.962672462499995,
     "type": "ilce"
@@ -21998,7 +21680,6 @@
   {
     "il": "Duzce",
     "ilce": "Kaynaşlı",
-    "mahalle": null,
     "lat": 40.73999908108108,
     "lng": 31.304341802702698,
     "type": "ilce"
@@ -22006,7 +21687,6 @@
   {
     "il": "Duzce",
     "ilce": "Düzce Merkez",
-    "mahalle": null,
     "lat": 40.822143645783136,
     "lng": 31.184781321686742,
     "type": "ilce"
@@ -22014,7 +21694,6 @@
   {
     "il": "Duzce",
     "ilce": "Yığılca",
-    "mahalle": null,
     "lat": 40.94745157164178,
     "lng": 31.512904094029846,
     "type": "ilce"
@@ -22022,7 +21701,6 @@
   {
     "il": "Duzce",
     "ilce": "Akçakoca",
-    "mahalle": null,
     "lat": 41.015899685,
     "lng": 31.101783426666657,
     "type": "ilce"
@@ -22030,7 +21708,6 @@
   {
     "il": "Duzce",
     "ilce": "Gümüşova",
-    "mahalle": null,
     "lat": 40.88399829583333,
     "lng": 30.8318929875,
     "type": "ilce"
@@ -22206,7 +21883,6 @@
   {
     "il": "Edirne",
     "ilce": "Περιφερειακή Ενότητα Έβρου",
-    "mahalle": null,
     "lat": 40.45503307656249,
     "lng": 25.571579651562498,
     "type": "ilce"
@@ -22214,7 +21890,6 @@
   {
     "il": "Edirne",
     "ilce": "Keşan",
-    "mahalle": null,
     "lat": 40.81810647663043,
     "lng": 26.60109781684783,
     "type": "ilce"
@@ -22222,7 +21897,6 @@
   {
     "il": "Edirne",
     "ilce": "Lalapaşa",
-    "mahalle": null,
     "lat": 41.87982534062498,
     "lng": 26.77927232109375,
     "type": "ilce"
@@ -22230,7 +21904,6 @@
   {
     "il": "Edirne",
     "ilce": "Edirne Merkez",
-    "mahalle": null,
     "lat": 41.6868457638889,
     "lng": 26.604793667361108,
     "type": "ilce"
@@ -22238,7 +21911,6 @@
   {
     "il": "Edirne",
     "ilce": "Süloğlu",
-    "mahalle": null,
     "lat": 41.768198395945944,
     "lng": 26.89507546486487,
     "type": "ilce"
@@ -22246,7 +21918,6 @@
   {
     "il": "Edirne",
     "ilce": "Enez",
-    "mahalle": null,
     "lat": 40.6946882054054,
     "lng": 26.218068714864874,
     "type": "ilce"
@@ -22254,7 +21925,6 @@
   {
     "il": "Edirne",
     "ilce": "Havsa",
-    "mahalle": null,
     "lat": 41.55473822500002,
     "lng": 26.83287313416667,
     "type": "ilce"
@@ -22262,7 +21932,6 @@
   {
     "il": "Edirne",
     "ilce": "Meriç",
-    "mahalle": null,
     "lat": 41.17420234491525,
     "lng": 26.42603301525422,
     "type": "ilce"
@@ -22270,7 +21939,6 @@
   {
     "il": "Edirne",
     "ilce": "Uzunköprü",
-    "mahalle": null,
     "lat": 41.231413575138106,
     "lng": 26.70875694696131,
     "type": "ilce"
@@ -22278,7 +21946,6 @@
   {
     "il": "Edirne",
     "ilce": "İpsala",
-    "mahalle": null,
     "lat": 40.90936271063829,
     "lng": 26.374621746808508,
     "type": "ilce"
@@ -23027,7 +22694,6 @@
   {
     "il": "Elazig",
     "ilce": "Arapgir",
-    "mahalle": null,
     "lat": 38.95763657500001,
     "lng": 38.48760113333334,
     "type": "ilce"
@@ -23035,7 +22701,6 @@
   {
     "il": "Elazig",
     "ilce": "Çemişgezek",
-    "mahalle": null,
     "lat": 39.04333605568181,
     "lng": 38.889903968181834,
     "type": "ilce"
@@ -23043,7 +22708,6 @@
   {
     "il": "Elazig",
     "ilce": "Karakoçan",
-    "mahalle": null,
     "lat": 39.01527332524272,
     "lng": 40.050598220388345,
     "type": "ilce"
@@ -23051,7 +22715,6 @@
   {
     "il": "Elazig",
     "ilce": "Kovancılar",
-    "mahalle": null,
     "lat": 38.78888595420561,
     "lng": 39.85159410000001,
     "type": "ilce"
@@ -23059,7 +22722,6 @@
   {
     "il": "Elazig",
     "ilce": "Alacakaya",
-    "mahalle": null,
     "lat": 38.4817085,
     "lng": 39.880551605319155,
     "type": "ilce"
@@ -23067,7 +22729,6 @@
   {
     "il": "Elazig",
     "ilce": "Arıcak",
-    "mahalle": null,
     "lat": 38.53048082166666,
     "lng": 40.09948607499998,
     "type": "ilce"
@@ -23075,7 +22736,6 @@
   {
     "il": "Elazig",
     "ilce": "Palu",
-    "mahalle": null,
     "lat": 38.663094350847445,
     "lng": 40.03189595677968,
     "type": "ilce"
@@ -23083,7 +22743,6 @@
   {
     "il": "Elazig",
     "ilce": "Ağın",
-    "mahalle": null,
     "lat": 38.9334758,
     "lng": 38.667489338571436,
     "type": "ilce"
@@ -23091,7 +22750,6 @@
   {
     "il": "Elazig",
     "ilce": "Baskil",
-    "mahalle": null,
     "lat": 38.56709829684211,
     "lng": 38.70688247052631,
     "type": "ilce"
@@ -23099,7 +22757,6 @@
   {
     "il": "Elazig",
     "ilce": "Elâzığ Merkez",
-    "mahalle": null,
     "lat": 38.64333488939393,
     "lng": 39.2753783219697,
     "type": "ilce"
@@ -23107,7 +22764,6 @@
   {
     "il": "Elazig",
     "ilce": "Keban",
-    "mahalle": null,
     "lat": 38.78160536172838,
     "lng": 38.71915841851851,
     "type": "ilce"
@@ -23115,7 +22771,6 @@
   {
     "il": "Elazig",
     "ilce": "Maden",
-    "mahalle": null,
     "lat": 38.42172937181819,
     "lng": 39.599583976363654,
     "type": "ilce"
@@ -23123,7 +22778,6 @@
   {
     "il": "Elazig",
     "ilce": "Sivrice",
-    "mahalle": null,
     "lat": 38.39405682727272,
     "lng": 39.165814515584415,
     "type": "ilce"
@@ -23613,7 +23267,6 @@
   {
     "il": "Erzincan",
     "ilce": "Erzincan Merkez",
-    "mahalle": null,
     "lat": 39.69504940000001,
     "lng": 39.46220043333333,
     "type": "ilce"
@@ -23621,7 +23274,6 @@
   {
     "il": "Erzincan",
     "ilce": "İliç",
-    "mahalle": null,
     "lat": 39.525605697222225,
     "lng": 38.56604746944444,
     "type": "ilce"
@@ -23629,7 +23281,6 @@
   {
     "il": "Erzincan",
     "ilce": "Kemah",
-    "mahalle": null,
     "lat": 39.594021295454546,
     "lng": 39.029504170454544,
     "type": "ilce"
@@ -23637,7 +23288,6 @@
   {
     "il": "Erzincan",
     "ilce": "Kemaliye",
-    "mahalle": null,
     "lat": 39.226859694285714,
     "lng": 38.58105326000001,
     "type": "ilce"
@@ -23645,7 +23295,6 @@
   {
     "il": "Erzincan",
     "ilce": "Otlukbeli",
-    "mahalle": null,
     "lat": 40.004689761111116,
     "lng": 40.04708845555555,
     "type": "ilce"
@@ -23653,7 +23302,6 @@
   {
     "il": "Erzincan",
     "ilce": "Refahiye",
-    "mahalle": null,
     "lat": 39.88994836216216,
     "lng": 38.757126135135124,
     "type": "ilce"
@@ -23661,7 +23309,6 @@
   {
     "il": "Erzincan",
     "ilce": "Tercan",
-    "mahalle": null,
     "lat": 39.68454683953489,
     "lng": 40.35744751860465,
     "type": "ilce"
@@ -23669,7 +23316,6 @@
   {
     "il": "Erzincan",
     "ilce": "Çayırlı",
-    "mahalle": null,
     "lat": 39.85420917105264,
     "lng": 39.95757063157895,
     "type": "ilce"
@@ -23677,7 +23323,6 @@
   {
     "il": "Erzincan",
     "ilce": "Üzümlü",
-    "mahalle": null,
     "lat": 39.65485821851852,
     "lng": 39.917220003703704,
     "type": "ilce"
@@ -24036,7 +23681,6 @@
   {
     "il": "Erzurum",
     "ilce": "Hınıs",
-    "mahalle": null,
     "lat": 39.35062789999999,
     "lng": 41.676620065517234,
     "type": "ilce"
@@ -24044,7 +23688,6 @@
   {
     "il": "Erzurum",
     "ilce": "Karayazı",
-    "mahalle": null,
     "lat": 39.60540753235293,
     "lng": 42.12683707058823,
     "type": "ilce"
@@ -24052,7 +23695,6 @@
   {
     "il": "Erzurum",
     "ilce": "Karaçoban",
-    "mahalle": null,
     "lat": 39.351492975,
     "lng": 42.060989055,
     "type": "ilce"
@@ -24060,7 +23702,6 @@
   {
     "il": "Erzurum",
     "ilce": "Horasan",
-    "mahalle": null,
     "lat": 40.07764201428571,
     "lng": 42.190371767857144,
     "type": "ilce"
@@ -24068,7 +23709,6 @@
   {
     "il": "Erzurum",
     "ilce": "Şenkaya",
-    "mahalle": null,
     "lat": 40.59690639655173,
     "lng": 42.34996655517241,
     "type": "ilce"
@@ -24076,7 +23716,6 @@
   {
     "il": "Erzurum",
     "ilce": "Olur",
-    "mahalle": null,
     "lat": 40.84801728750001,
     "lng": 42.103639324999996,
     "type": "ilce"
@@ -24084,7 +23723,6 @@
   {
     "il": "Erzurum",
     "ilce": "Köprüköy",
-    "mahalle": null,
     "lat": 39.91276315384615,
     "lng": 41.86720508076923,
     "type": "ilce"
@@ -24092,7 +23730,6 @@
   {
     "il": "Erzurum",
     "ilce": "Çat",
-    "mahalle": null,
     "lat": 39.58288654166666,
     "lng": 40.911773636111114,
     "type": "ilce"
@@ -24100,7 +23737,6 @@
   {
     "il": "Erzurum",
     "ilce": "Pazaryolu",
-    "mahalle": null,
     "lat": 40.41650835666666,
     "lng": 40.67855236333333,
     "type": "ilce"
@@ -24108,7 +23744,6 @@
   {
     "il": "Erzurum",
     "ilce": "İspir",
-    "mahalle": null,
     "lat": 40.492894685106386,
     "lng": 40.97846533829787,
     "type": "ilce"
@@ -24116,7 +23751,6 @@
   {
     "il": "Erzurum",
     "ilce": "Oltu",
-    "mahalle": null,
     "lat": 40.55476730243902,
     "lng": 41.963357321951214,
     "type": "ilce"
@@ -24124,7 +23758,6 @@
   {
     "il": "Erzurum",
     "ilce": "Uzundere",
-    "mahalle": null,
     "lat": 40.574769020000005,
     "lng": 41.62489944,
     "type": "ilce"
@@ -24132,7 +23765,6 @@
   {
     "il": "Erzurum",
     "ilce": "Aziziye",
-    "mahalle": null,
     "lat": 40.06931986818183,
     "lng": 41.003741013636365,
     "type": "ilce"
@@ -24140,7 +23772,6 @@
   {
     "il": "Erzurum",
     "ilce": "Aşkale",
-    "mahalle": null,
     "lat": 39.920640809999995,
     "lng": 40.66780373500001,
     "type": "ilce"
@@ -24148,7 +23779,6 @@
   {
     "il": "Erzurum",
     "ilce": "Narman",
-    "mahalle": null,
     "lat": 40.30174920000001,
     "lng": 41.887372167857144,
     "type": "ilce"
@@ -24156,7 +23786,6 @@
   {
     "il": "Erzurum",
     "ilce": "Palandöken",
-    "mahalle": null,
     "lat": 39.86024866216216,
     "lng": 41.187363762162164,
     "type": "ilce"
@@ -24164,7 +23793,6 @@
   {
     "il": "Erzurum",
     "ilce": "Pasinler",
-    "mahalle": null,
     "lat": 39.992028974074074,
     "lng": 41.62784075925926,
     "type": "ilce"
@@ -24172,7 +23800,6 @@
   {
     "il": "Erzurum",
     "ilce": "Tekman",
-    "mahalle": null,
     "lat": 39.60449122571428,
     "lng": 41.439075920000015,
     "type": "ilce"
@@ -24180,7 +23807,6 @@
   {
     "il": "Erzurum",
     "ilce": "Tortum",
-    "mahalle": null,
     "lat": 40.35725197812501,
     "lng": 41.436641262500004,
     "type": "ilce"
@@ -24188,7 +23814,6 @@
   {
     "il": "Erzurum",
     "ilce": "Yakutiye",
-    "mahalle": null,
     "lat": 40.02882754166668,
     "lng": 41.29408564166667,
     "type": "ilce"
@@ -24481,7 +24106,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Mihalıççık",
-    "mahalle": null,
     "lat": 39.86999391375001,
     "lng": 31.501656341249998,
     "type": "ilce"
@@ -24489,7 +24113,6 @@
   {
     "il": "Eskisehir",
     "ilce": "İnönü",
-    "mahalle": null,
     "lat": 39.75176464,
     "lng": 30.161227156,
     "type": "ilce"
@@ -24497,7 +24120,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Mahmudiye",
-    "mahalle": null,
     "lat": 39.53826482580645,
     "lng": 30.951161716129036,
     "type": "ilce"
@@ -24505,7 +24127,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Odunpazarı",
-    "mahalle": null,
     "lat": 39.67787346615383,
     "lng": 30.550755840000015,
     "type": "ilce"
@@ -24513,7 +24134,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Han",
-    "mahalle": null,
     "lat": 39.157618804166674,
     "lng": 30.810996987500005,
     "type": "ilce"
@@ -24521,7 +24141,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Sarıcakaya",
-    "mahalle": null,
     "lat": 40.07282958260869,
     "lng": 30.72229281304348,
     "type": "ilce"
@@ -24529,7 +24148,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Alpu",
-    "mahalle": null,
     "lat": 39.87966249387755,
     "lng": 30.985820871428576,
     "type": "ilce"
@@ -24537,7 +24155,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Günyüzü",
-    "mahalle": null,
     "lat": 39.301432759459466,
     "lng": 31.85913996756757,
     "type": "ilce"
@@ -24545,7 +24162,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Mihalgazi",
-    "mahalle": null,
     "lat": 40.01014555416666,
     "lng": 30.561129233333332,
     "type": "ilce"
@@ -24553,7 +24169,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Seyitgazi",
-    "mahalle": null,
     "lat": 39.359168878846155,
     "lng": 30.613045880769228,
     "type": "ilce"
@@ -24561,7 +24176,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Sivrihisar",
-    "mahalle": null,
     "lat": 39.40996578390804,
     "lng": 31.5593689413793,
     "type": "ilce"
@@ -24569,7 +24183,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Çifteler",
-    "mahalle": null,
     "lat": 39.292825344444445,
     "lng": 31.090876099999996,
     "type": "ilce"
@@ -24577,7 +24190,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Beylikova",
-    "mahalle": null,
     "lat": 39.75562241764706,
     "lng": 31.254532252941175,
     "type": "ilce"
@@ -24585,7 +24197,6 @@
   {
     "il": "Eskisehir",
     "ilce": "Tepebaşı",
-    "mahalle": null,
     "lat": 39.840473973863645,
     "lng": 30.52586569545455,
     "type": "ilce"
@@ -25592,7 +25203,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Araban",
-    "mahalle": null,
     "lat": 37.43442625395683,
     "lng": 37.762016279136695,
     "type": "ilce"
@@ -25600,7 +25210,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Karkamış",
-    "mahalle": null,
     "lat": 36.86302833690476,
     "lng": 37.88786887857143,
     "type": "ilce"
@@ -25608,7 +25217,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Nizip",
-    "mahalle": null,
     "lat": 37.0374246020202,
     "lng": 37.77763106969696,
     "type": "ilce"
@@ -25616,7 +25224,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Nurdağı",
-    "mahalle": null,
     "lat": 37.158666329007644,
     "lng": 36.869784123664125,
     "type": "ilce"
@@ -25624,7 +25231,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Oğuzeli",
-    "mahalle": null,
     "lat": 36.89955293430234,
     "lng": 37.53854755348837,
     "type": "ilce"
@@ -25632,7 +25238,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Yavuzeli",
-    "mahalle": null,
     "lat": 37.31289210896553,
     "lng": 37.618584493793094,
     "type": "ilce"
@@ -25640,7 +25245,6 @@
   {
     "il": "Gaziantep",
     "ilce": "İslahiye",
-    "mahalle": null,
     "lat": 36.976412877222224,
     "lng": 36.69196994888888,
     "type": "ilce"
@@ -25648,7 +25252,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Şahinbey",
-    "mahalle": null,
     "lat": 36.97004327816091,
     "lng": 37.28545603601532,
     "type": "ilce"
@@ -25656,7 +25259,6 @@
   {
     "il": "Gaziantep",
     "ilce": "Şehitkamil",
-    "mahalle": null,
     "lat": 37.16773877343172,
     "lng": 37.38933950627307,
     "type": "ilce"
@@ -31197,7 +30799,6 @@
   {
     "il": "Giresun",
     "ilce": "Şebinkarahisar",
-    "mahalle": null,
     "lat": 40.320429871666654,
     "lng": 38.41857465166667,
     "type": "ilce"
@@ -31205,7 +30806,6 @@
   {
     "il": "Giresun",
     "ilce": "Çamoluk",
-    "mahalle": null,
     "lat": 40.13634229,
     "lng": 38.753043654999985,
     "type": "ilce"
@@ -31213,7 +30813,6 @@
   {
     "il": "Giresun",
     "ilce": "Alucra",
-    "mahalle": null,
     "lat": 40.378903213636356,
     "lng": 38.76823482424241,
     "type": "ilce"
@@ -31221,7 +30820,6 @@
   {
     "il": "Giresun",
     "ilce": "Bulancak",
-    "mahalle": null,
     "lat": 40.75825470208333,
     "lng": 38.14797257708334,
     "type": "ilce"
@@ -31229,7 +30827,6 @@
   {
     "il": "Giresun",
     "ilce": "Dereli",
-    "mahalle": null,
     "lat": 40.622067608510626,
     "lng": 38.410438838297864,
     "type": "ilce"
@@ -31237,7 +30834,6 @@
   {
     "il": "Giresun",
     "ilce": "Doğankent",
-    "mahalle": null,
     "lat": 40.728787410344836,
     "lng": 38.94429939310345,
     "type": "ilce"
@@ -31245,7 +30841,6 @@
   {
     "il": "Giresun",
     "ilce": "Espiye",
-    "mahalle": null,
     "lat": 40.77632402000001,
     "lng": 38.73696439599999,
     "type": "ilce"
@@ -31253,7 +30848,6 @@
   {
     "il": "Giresun",
     "ilce": "Eynesil",
-    "mahalle": null,
     "lat": 41.00721374210527,
     "lng": 39.133269805263154,
     "type": "ilce"
@@ -31261,7 +30855,6 @@
   {
     "il": "Giresun",
     "ilce": "Giresun Merkez",
-    "mahalle": null,
     "lat": 40.8314179097561,
     "lng": 38.35999595365853,
     "type": "ilce"
@@ -31269,7 +30862,6 @@
   {
     "il": "Giresun",
     "ilce": "Görele",
-    "mahalle": null,
     "lat": 40.923692697727276,
     "lng": 39.03605147272727,
     "type": "ilce"
@@ -31277,7 +30869,6 @@
   {
     "il": "Giresun",
     "ilce": "Güce",
-    "mahalle": null,
     "lat": 40.7402386868421,
     "lng": 38.83889181578947,
     "type": "ilce"
@@ -31285,7 +30876,6 @@
   {
     "il": "Giresun",
     "ilce": "Keşap",
-    "mahalle": null,
     "lat": 40.83278107096775,
     "lng": 38.55669593225806,
     "type": "ilce"
@@ -31293,7 +30883,6 @@
   {
     "il": "Giresun",
     "ilce": "Piraziz",
-    "mahalle": null,
     "lat": 40.87212850833333,
     "lng": 38.090127470833345,
     "type": "ilce"
@@ -31301,7 +30890,6 @@
   {
     "il": "Giresun",
     "ilce": "Tirebolu",
-    "mahalle": null,
     "lat": 40.92204014666667,
     "lng": 38.86074893,
     "type": "ilce"
@@ -31309,7 +30897,6 @@
   {
     "il": "Giresun",
     "ilce": "Yağlıdere",
-    "mahalle": null,
     "lat": 40.6704295511628,
     "lng": 38.60984888837209,
     "type": "ilce"
@@ -31317,7 +30904,6 @@
   {
     "il": "Giresun",
     "ilce": "Çanakçı",
-    "mahalle": null,
     "lat": 40.85800224347826,
     "lng": 39.06367044782609,
     "type": "ilce"
@@ -31471,7 +31057,6 @@
   {
     "il": "Gumushane",
     "ilce": "Torul",
-    "mahalle": null,
     "lat": 40.51880087142856,
     "lng": 39.27270323928571,
     "type": "ilce"
@@ -31479,7 +31064,6 @@
   {
     "il": "Gumushane",
     "ilce": "Gümüşhane Merkez",
-    "mahalle": null,
     "lat": 40.492920122499996,
     "lng": 39.68014082249999,
     "type": "ilce"
@@ -31487,7 +31071,6 @@
   {
     "il": "Gumushane",
     "ilce": "Kelkit",
-    "mahalle": null,
     "lat": 40.02349294545454,
     "lng": 39.45924213030303,
     "type": "ilce"
@@ -31495,7 +31078,6 @@
   {
     "il": "Gumushane",
     "ilce": "Köse",
-    "mahalle": null,
     "lat": 40.219951783333336,
     "lng": 39.70588968333333,
     "type": "ilce"
@@ -31503,7 +31085,6 @@
   {
     "il": "Gumushane",
     "ilce": "Kürtün",
-    "mahalle": null,
     "lat": 40.652449346153844,
     "lng": 39.05212429615385,
     "type": "ilce"
@@ -31511,7 +31092,6 @@
   {
     "il": "Gumushane",
     "ilce": "Şiran",
-    "mahalle": null,
     "lat": 40.18722192631578,
     "lng": 39.13086103157895,
     "type": "ilce"
@@ -31645,7 +31225,6 @@
   {
     "il": "Hakkari",
     "ilce": "Hakkari Merkez",
-    "mahalle": null,
     "lat": 37.567276844578316,
     "lng": 43.77468069518073,
     "type": "ilce"
@@ -31653,7 +31232,6 @@
   {
     "il": "Hakkari",
     "ilce": "Yüksekova",
-    "mahalle": null,
     "lat": 37.54673792792792,
     "lng": 44.235545632432455,
     "type": "ilce"
@@ -31661,7 +31239,6 @@
   {
     "il": "Hakkari",
     "ilce": "Şemdinli",
-    "mahalle": null,
     "lat": 37.274637416666685,
     "lng": 44.54592329166666,
     "type": "ilce"
@@ -31669,7 +31246,6 @@
   {
     "il": "Hakkari",
     "ilce": "Çukurca",
-    "mahalle": null,
     "lat": 37.32000571025641,
     "lng": 43.60824148974358,
     "type": "ilce"
@@ -31691,7 +31267,6 @@
   {
     "il": "Hakkari",
     "ilce": "Derecik",
-    "mahalle": null,
     "lat": 37.106553498437506,
     "lng": 44.37103734375001,
     "type": "ilce"
@@ -31940,7 +31515,6 @@
   {
     "il": "Hatay",
     "ilce": "İskenderun",
-    "mahalle": null,
     "lat": 36.52999489090909,
     "lng": 36.04461102727272,
     "type": "ilce"
@@ -31948,7 +31522,6 @@
   {
     "il": "Hatay",
     "ilce": "Yayladağı",
-    "mahalle": null,
     "lat": 35.9582460718563,
     "lng": 36.06974843772453,
     "type": "ilce"
@@ -31956,7 +31529,6 @@
   {
     "il": "Hatay",
     "ilce": "Kumlu",
-    "mahalle": null,
     "lat": 36.38088812978725,
     "lng": 36.478684,
     "type": "ilce"
@@ -31964,7 +31536,6 @@
   {
     "il": "Hatay",
     "ilce": "Erzin",
-    "mahalle": null,
     "lat": 36.96946155571427,
     "lng": 36.16108292714287,
     "type": "ilce"
@@ -31972,7 +31543,6 @@
   {
     "il": "Hatay",
     "ilce": "Reyhanlı",
-    "mahalle": null,
     "lat": 36.282985862195105,
     "lng": 36.539081585365835,
     "type": "ilce"
@@ -31980,7 +31550,6 @@
   {
     "il": "Hatay",
     "ilce": "Samandağ",
-    "mahalle": null,
     "lat": 36.135697506299216,
     "lng": 35.99684427007873,
     "type": "ilce"
@@ -31988,7 +31557,6 @@
   {
     "il": "Hatay",
     "ilce": "Altınözü",
-    "mahalle": null,
     "lat": 36.085323055747104,
     "lng": 36.30491244770115,
     "type": "ilce"
@@ -31996,7 +31564,6 @@
   {
     "il": "Hatay",
     "ilce": "Antakya",
-    "mahalle": null,
     "lat": 36.25404687046978,
     "lng": 36.21407999932889,
     "type": "ilce"
@@ -32004,7 +31571,6 @@
   {
     "il": "Hatay",
     "ilce": "Hassa",
-    "mahalle": null,
     "lat": 36.773110599206355,
     "lng": 36.558479867460335,
     "type": "ilce"
@@ -32012,7 +31578,6 @@
   {
     "il": "Hatay",
     "ilce": "Kırıkhan",
-    "mahalle": null,
     "lat": 36.50383088516129,
     "lng": 36.43684723806453,
     "type": "ilce"
@@ -32020,7 +31585,6 @@
   {
     "il": "Hatay",
     "ilce": "Belen",
-    "mahalle": null,
     "lat": 36.47789839277112,
     "lng": 36.20329213975904,
     "type": "ilce"
@@ -32028,7 +31592,6 @@
   {
     "il": "Hatay",
     "ilce": "Dörtyol",
-    "mahalle": null,
     "lat": 36.8879598,
     "lng": 36.37563890506329,
     "type": "ilce"
@@ -32036,7 +31599,6 @@
   {
     "il": "Hatay",
     "ilce": "Defne",
-    "mahalle": null,
     "lat": 36.15120616923077,
     "lng": 36.086532966153854,
     "type": "ilce"
@@ -32044,7 +31606,6 @@
   {
     "il": "Hatay",
     "ilce": "Arsuz",
-    "mahalle": null,
     "lat": 36.43367200317461,
     "lng": 35.97123033253968,
     "type": "ilce"
@@ -32052,7 +31613,6 @@
   {
     "il": "Hatay",
     "ilce": "Payas",
-    "mahalle": null,
     "lat": 36.73654492222222,
     "lng": 36.255012855555556,
     "type": "ilce"
@@ -32446,7 +32006,6 @@
   {
     "il": "Igdir",
     "ilce": "Tuzluca",
-    "mahalle": null,
     "lat": 40.00607316161614,
     "lng": 43.5836430272727,
     "type": "ilce"
@@ -32454,7 +32013,6 @@
   {
     "il": "Igdir",
     "ilce": "Aralık",
-    "mahalle": null,
     "lat": 39.78867548644692,
     "lng": 44.59738881098903,
     "type": "ilce"
@@ -32462,7 +32020,6 @@
   {
     "il": "Igdir",
     "ilce": "Iğdır Merkez",
-    "mahalle": null,
     "lat": 39.90626367886597,
     "lng": 44.00420392268041,
     "type": "ilce"
@@ -32470,7 +32027,6 @@
   {
     "il": "Igdir",
     "ilce": "Karakoyunlu",
-    "mahalle": null,
     "lat": 39.966905610714285,
     "lng": 44.26417492714287,
     "type": "ilce"
@@ -32526,7 +32082,6 @@
   {
     "il": "Isparta",
     "ilce": "Aksu",
-    "mahalle": null,
     "lat": 37.706315569047625,
     "lng": 31.18241899047619,
     "type": "ilce"
@@ -32534,7 +32089,6 @@
   {
     "il": "Isparta",
     "ilce": "Atabey",
-    "mahalle": null,
     "lat": 37.98824867857144,
     "lng": 30.63765573928572,
     "type": "ilce"
@@ -32542,7 +32096,6 @@
   {
     "il": "Isparta",
     "ilce": "Eğirdir",
-    "mahalle": null,
     "lat": 37.826163243076934,
     "lng": 30.90076649538462,
     "type": "ilce"
@@ -32550,7 +32103,6 @@
   {
     "il": "Isparta",
     "ilce": "Gelendost",
-    "mahalle": null,
     "lat": 38.09901338928572,
     "lng": 31.02942887142857,
     "type": "ilce"
@@ -32558,7 +32110,6 @@
   {
     "il": "Isparta",
     "ilce": "Gönen",
-    "mahalle": null,
     "lat": 37.92597325,
     "lng": 30.445547808823534,
     "type": "ilce"
@@ -32566,7 +32117,6 @@
   {
     "il": "Isparta",
     "ilce": "Isparta Merkez",
-    "mahalle": null,
     "lat": 37.749996582692305,
     "lng": 30.623730532692313,
     "type": "ilce"
@@ -32574,7 +32124,6 @@
   {
     "il": "Isparta",
     "ilce": "Keçiborlu",
-    "mahalle": null,
     "lat": 37.919712825,
     "lng": 30.265729318749997,
     "type": "ilce"
@@ -32582,7 +32131,6 @@
   {
     "il": "Isparta",
     "ilce": "Senirkent",
-    "mahalle": null,
     "lat": 38.140760375000006,
     "lng": 30.65870023125,
     "type": "ilce"
@@ -32590,7 +32138,6 @@
   {
     "il": "Isparta",
     "ilce": "Sütçüler",
-    "mahalle": null,
     "lat": 37.526964681967215,
     "lng": 31.090532944262293,
     "type": "ilce"
@@ -32598,7 +32145,6 @@
   {
     "il": "Isparta",
     "ilce": "Uluborlu",
-    "mahalle": null,
     "lat": 38.09541361904761,
     "lng": 30.463120190476182,
     "type": "ilce"
@@ -32606,7 +32152,6 @@
   {
     "il": "Isparta",
     "ilce": "Yalvaç",
-    "mahalle": null,
     "lat": 38.31796645245901,
     "lng": 31.062843031147544,
     "type": "ilce"
@@ -32614,7 +32159,6 @@
   {
     "il": "Isparta",
     "ilce": "Şarkikaraağaç",
-    "mahalle": null,
     "lat": 38.0356512763158,
     "lng": 31.35305728421053,
     "type": "ilce"
@@ -32622,7 +32166,6 @@
   {
     "il": "Isparta",
     "ilce": "Yenişarbademli",
-    "mahalle": null,
     "lat": 37.772007903125,
     "lng": 31.360135084374996,
     "type": "ilce"
@@ -33114,7 +32657,6 @@
   {
     "il": "Istanbul",
     "ilce": "Adalar",
-    "mahalle": null,
     "lat": 40.8493903,
     "lng": 29.145553,
     "type": "ilce"
@@ -33122,7 +32664,6 @@
   {
     "il": "Istanbul",
     "ilce": "Şile",
-    "mahalle": null,
     "lat": 41.08407051772152,
     "lng": 29.634440840084412,
     "type": "ilce"
@@ -33144,7 +32685,6 @@
   {
     "il": "Istanbul",
     "ilce": "Silivri",
-    "mahalle": null,
     "lat": 41.185181252127656,
     "lng": 28.191166931914882,
     "type": "ilce"
@@ -33152,7 +32692,6 @@
   {
     "il": "Istanbul",
     "ilce": "Büyükçekmece",
-    "mahalle": null,
     "lat": 41.05372890792079,
     "lng": 28.537020859405956,
     "type": "ilce"
@@ -33160,7 +32699,6 @@
   {
     "il": "Istanbul",
     "ilce": "Çatalca",
-    "mahalle": null,
     "lat": 41.31029017906975,
     "lng": 28.317980044961235,
     "type": "ilce"
@@ -33168,7 +32706,6 @@
   {
     "il": "Istanbul",
     "ilce": "Tuzla",
-    "mahalle": null,
     "lat": 40.87844721929825,
     "lng": 29.351523440350878,
     "type": "ilce"
@@ -33176,7 +32713,6 @@
   {
     "il": "Istanbul",
     "ilce": "Pendik",
-    "mahalle": null,
     "lat": 40.95596033933334,
     "lng": 29.354298733999993,
     "type": "ilce"
@@ -33184,7 +32720,6 @@
   {
     "il": "Istanbul",
     "ilce": "Sultanbeyli",
-    "mahalle": null,
     "lat": 40.96593472777777,
     "lng": 29.271618922222224,
     "type": "ilce"
@@ -33192,7 +32727,6 @@
   {
     "il": "Istanbul",
     "ilce": "Kartal",
-    "mahalle": null,
     "lat": 40.914843299999994,
     "lng": 29.20814040925925,
     "type": "ilce"
@@ -33200,7 +32734,6 @@
   {
     "il": "Istanbul",
     "ilce": "Sancaktepe",
-    "mahalle": null,
     "lat": 41.00404579729731,
     "lng": 29.25878122972972,
     "type": "ilce"
@@ -33208,7 +32741,6 @@
   {
     "il": "Istanbul",
     "ilce": "Çekmeköy",
-    "mahalle": null,
     "lat": 41.07173290188678,
     "lng": 29.275238183018867,
     "type": "ilce"
@@ -33224,7 +32756,6 @@
   {
     "il": "Istanbul",
     "ilce": "Maltepe",
-    "mahalle": null,
     "lat": 40.946941169387756,
     "lng": 29.156177508163275,
     "type": "ilce"
@@ -33232,7 +32763,6 @@
   {
     "il": "Istanbul",
     "ilce": "Kadıköy",
-    "mahalle": null,
     "lat": 40.98107509767441,
     "lng": 29.056212283720924,
     "type": "ilce"
@@ -33240,7 +32770,6 @@
   {
     "il": "Istanbul",
     "ilce": "Ataşehir",
-    "mahalle": null,
     "lat": 40.98686346046511,
     "lng": 29.13097625348837,
     "type": "ilce"
@@ -33248,7 +32777,6 @@
   {
     "il": "Istanbul",
     "ilce": "Üsküdar",
-    "mahalle": null,
     "lat": 41.0312742890909,
     "lng": 29.056118572727275,
     "type": "ilce"
@@ -33256,7 +32784,6 @@
   {
     "il": "Istanbul",
     "ilce": "Ümraniye",
-    "mahalle": null,
     "lat": 41.025479143859656,
     "lng": 29.130154491228065,
     "type": "ilce"
@@ -33264,7 +32791,6 @@
   {
     "il": "Istanbul",
     "ilce": "Beykoz",
-    "mahalle": null,
     "lat": 41.139129608391606,
     "lng": 29.198188093006976,
     "type": "ilce"
@@ -33272,7 +32798,6 @@
   {
     "il": "Istanbul",
     "ilce": "Beyoğlu",
-    "mahalle": null,
     "lat": 41.04264071666667,
     "lng": 28.96561499166667,
     "type": "ilce"
@@ -33280,7 +32805,6 @@
   {
     "il": "Istanbul",
     "ilce": "Beşiktaş",
-    "mahalle": null,
     "lat": 41.06853827857142,
     "lng": 29.01951306904762,
     "type": "ilce"
@@ -33288,7 +32812,6 @@
   {
     "il": "Istanbul",
     "ilce": "Kâğıthane",
-    "mahalle": null,
     "lat": 41.07943140434782,
     "lng": 28.976447463043478,
     "type": "ilce"
@@ -33296,7 +32819,6 @@
   {
     "il": "Istanbul",
     "ilce": "Sarıyer",
-    "mahalle": null,
     "lat": 41.1776330823009,
     "lng": 29.01813762123894,
     "type": "ilce"
@@ -33304,7 +32826,6 @@
   {
     "il": "Istanbul",
     "ilce": "Şişli",
-    "mahalle": null,
     "lat": 41.064886587500006,
     "lng": 28.990435449999996,
     "type": "ilce"
@@ -33312,7 +32833,6 @@
   {
     "il": "Istanbul",
     "ilce": "Arnavutköy",
-    "mahalle": null,
     "lat": 41.22536508092105,
     "lng": 28.66947615000001,
     "type": "ilce"
@@ -33320,7 +32840,6 @@
   {
     "il": "Istanbul",
     "ilce": "Avcılar",
-    "mahalle": null,
     "lat": 41.03328473508771,
     "lng": 28.710388080701748,
     "type": "ilce"
@@ -33328,7 +32847,6 @@
   {
     "il": "Istanbul",
     "ilce": "Bahçelievler",
-    "mahalle": null,
     "lat": 41.00884112777778,
     "lng": 28.841639652777776,
     "type": "ilce"
@@ -33336,7 +32854,6 @@
   {
     "il": "Istanbul",
     "ilce": "Bakırköy",
-    "mahalle": null,
     "lat": 40.98182013076923,
     "lng": 28.83253535961539,
     "type": "ilce"
@@ -33344,7 +32861,6 @@
   {
     "il": "Istanbul",
     "ilce": "Bayrampaşa",
-    "mahalle": null,
     "lat": 41.04935057,
     "lng": 28.89877712333334,
     "type": "ilce"
@@ -33352,7 +32868,6 @@
   {
     "il": "Istanbul",
     "ilce": "Bağcılar",
-    "mahalle": null,
     "lat": 41.043556590000016,
     "lng": 28.841700157499993,
     "type": "ilce"
@@ -33360,7 +32875,6 @@
   {
     "il": "Istanbul",
     "ilce": "Başakşehir",
-    "mahalle": null,
     "lat": 41.09591581807228,
     "lng": 28.741708604819276,
     "type": "ilce"
@@ -33368,7 +32882,6 @@
   {
     "il": "Istanbul",
     "ilce": "Beylikdüzü",
-    "mahalle": null,
     "lat": 40.98948013571429,
     "lng": 28.6454492904762,
     "type": "ilce"
@@ -33376,7 +32889,6 @@
   {
     "il": "Istanbul",
     "ilce": "Esenler",
-    "mahalle": null,
     "lat": 41.05512941590909,
     "lng": 28.870886543181815,
     "type": "ilce"
@@ -33384,7 +32896,6 @@
   {
     "il": "Istanbul",
     "ilce": "Esenyurt",
-    "mahalle": null,
     "lat": 41.04123815192307,
     "lng": 28.663217332692305,
     "type": "ilce"
@@ -33392,7 +32903,6 @@
   {
     "il": "Istanbul",
     "ilce": "Eyüpsultan",
-    "mahalle": null,
     "lat": 41.152737483636386,
     "lng": 28.896132360000014,
     "type": "ilce"
@@ -33400,7 +32910,6 @@
   {
     "il": "Istanbul",
     "ilce": "Fatih",
-    "mahalle": null,
     "lat": 41.01258649743589,
     "lng": 28.949241723076927,
     "type": "ilce"
@@ -33408,7 +32917,6 @@
   {
     "il": "Istanbul",
     "ilce": "Gaziosmanpaşa",
-    "mahalle": null,
     "lat": 41.07137946315789,
     "lng": 28.912708278947367,
     "type": "ilce"
@@ -33416,7 +32924,6 @@
   {
     "il": "Istanbul",
     "ilce": "Güngören",
-    "mahalle": null,
     "lat": 41.02048052333334,
     "lng": 28.87993045333333,
     "type": "ilce"
@@ -33424,7 +32931,6 @@
   {
     "il": "Istanbul",
     "ilce": "Sultangazi",
-    "mahalle": null,
     "lat": 41.12055565000001,
     "lng": 28.875313547727274,
     "type": "ilce"
@@ -33432,7 +32938,6 @@
   {
     "il": "Istanbul",
     "ilce": "Zeytinburnu",
-    "mahalle": null,
     "lat": 41.005802131034486,
     "lng": 28.908251586206895,
     "type": "ilce"
@@ -34257,7 +33762,6 @@
   {
     "il": "Istanbul",
     "ilce": "Küçükçekmece",
-    "mahalle": null,
     "lat": 41.01409040784314,
     "lng": 28.782470682352944,
     "type": "ilce"
@@ -41012,7 +40516,6 @@
   {
     "il": "Izmir",
     "ilce": "Foça",
-    "mahalle": null,
     "lat": 38.668298385365844,
     "lng": 26.8390725195122,
     "type": "ilce"
@@ -41020,7 +40523,6 @@
   {
     "il": "Izmir",
     "ilce": "Aliağa",
-    "mahalle": null,
     "lat": 38.80859876772152,
     "lng": 27.033624808227845,
     "type": "ilce"
@@ -41028,7 +40530,6 @@
   {
     "il": "Izmir",
     "ilce": "Çeşme",
-    "mahalle": null,
     "lat": 38.363345466666665,
     "lng": 26.4530731,
     "type": "ilce"
@@ -41036,7 +40537,6 @@
   {
     "il": "Izmir",
     "ilce": "Bayraklı",
-    "mahalle": null,
     "lat": 38.482371785000005,
     "lng": 27.1569312475,
     "type": "ilce"
@@ -41044,7 +40544,6 @@
   {
     "il": "Izmir",
     "ilce": "Çiğli",
-    "mahalle": null,
     "lat": 38.4972049550562,
     "lng": 27.011945993258426,
     "type": "ilce"
@@ -41052,7 +40551,6 @@
   {
     "il": "Izmir",
     "ilce": "Karşıyaka",
-    "mahalle": null,
     "lat": 38.50469038059701,
     "lng": 27.120624565671637,
     "type": "ilce"
@@ -41060,7 +40558,6 @@
   {
     "il": "Izmir",
     "ilce": "Menemen",
-    "mahalle": null,
     "lat": 38.61209231888887,
     "lng": 27.02874998388887,
     "type": "ilce"
@@ -41075,7 +40572,6 @@
   {
     "il": "Izmir",
     "ilce": "Urla",
-    "mahalle": null,
     "lat": 38.304884788235285,
     "lng": 26.6445524364706,
     "type": "ilce"
@@ -41083,7 +40579,6 @@
   {
     "il": "Izmir",
     "ilce": "Karaburun",
-    "mahalle": null,
     "lat": 38.431369075000006,
     "lng": 26.3693621,
     "type": "ilce"
@@ -41091,7 +40586,6 @@
   {
     "il": "Izmir",
     "ilce": "Güzelbahçe",
-    "mahalle": null,
     "lat": 38.33163972978724,
     "lng": 26.885851625531906,
     "type": "ilce"
@@ -41099,7 +40593,6 @@
   {
     "il": "Izmir",
     "ilce": "Seferihisar",
-    "mahalle": null,
     "lat": 38.190138309917366,
     "lng": 26.87531332727273,
     "type": "ilce"
@@ -41107,7 +40600,6 @@
   {
     "il": "Izmir",
     "ilce": "Menderes",
-    "mahalle": null,
     "lat": 38.1544987392638,
     "lng": 27.132003593251536,
     "type": "ilce"
@@ -41115,7 +40607,6 @@
   {
     "il": "Izmir",
     "ilce": "Gaziemir",
-    "mahalle": null,
     "lat": 38.31817655769232,
     "lng": 27.15118167692308,
     "type": "ilce"
@@ -41123,7 +40614,6 @@
   {
     "il": "Izmir",
     "ilce": "Bornova",
-    "mahalle": null,
     "lat": 38.46021211460673,
     "lng": 27.251050831460663,
     "type": "ilce"
@@ -41131,7 +40621,6 @@
   {
     "il": "Izmir",
     "ilce": "Balçova",
-    "mahalle": null,
     "lat": 38.38424250238095,
     "lng": 27.05954606190476,
     "type": "ilce"
@@ -41139,7 +40628,6 @@
   {
     "il": "Izmir",
     "ilce": "Buca",
-    "mahalle": null,
     "lat": 38.35082558672566,
     "lng": 27.248471523893805,
     "type": "ilce"
@@ -41147,7 +40635,6 @@
   {
     "il": "Izmir",
     "ilce": "Konak",
-    "mahalle": null,
     "lat": 38.41274028676472,
     "lng": 27.13890553235294,
     "type": "ilce"
@@ -41155,7 +40642,6 @@
   {
     "il": "Izmir",
     "ilce": "Karabağlar",
-    "mahalle": null,
     "lat": 38.35479657037039,
     "lng": 27.05754017129631,
     "type": "ilce"
@@ -41163,7 +40649,6 @@
   {
     "il": "Izmir",
     "ilce": "Narlıdere",
-    "mahalle": null,
     "lat": 38.37601214571429,
     "lng": 26.99072505142857,
     "type": "ilce"
@@ -41171,7 +40656,6 @@
   {
     "il": "Izmir",
     "ilce": "Torbalı",
-    "mahalle": null,
     "lat": 38.183791447701154,
     "lng": 27.376697948275847,
     "type": "ilce"
@@ -41179,7 +40663,6 @@
   {
     "il": "Izmir",
     "ilce": "Kemalpaşa",
-    "mahalle": null,
     "lat": 38.407646091406264,
     "lng": 27.510786924999998,
     "type": "ilce"
@@ -41187,7 +40670,6 @@
   {
     "il": "Izmir",
     "ilce": "Ayvalık",
-    "mahalle": null,
     "lat": 39.32587803333333,
     "lng": 26.53682653333333,
     "type": "ilce"
@@ -41195,7 +40677,6 @@
   {
     "il": "Izmir",
     "ilce": "Bergama",
-    "mahalle": null,
     "lat": 39.127388722653734,
     "lng": 27.184235460517804,
     "type": "ilce"
@@ -41203,7 +40684,6 @@
   {
     "il": "Izmir",
     "ilce": "Dikili",
-    "mahalle": null,
     "lat": 39.07782185576924,
     "lng": 26.915625328205124,
     "type": "ilce"
@@ -41211,7 +40691,6 @@
   {
     "il": "Izmir",
     "ilce": "Kınık",
-    "mahalle": null,
     "lat": 39.05452030150374,
     "lng": 27.3857986774436,
     "type": "ilce"
@@ -41219,7 +40698,6 @@
   {
     "il": "Izmir",
     "ilce": "Beydağ",
-    "mahalle": null,
     "lat": 38.09430130833333,
     "lng": 28.225522697222218,
     "type": "ilce"
@@ -41227,7 +40705,6 @@
   {
     "il": "Izmir",
     "ilce": "Kiraz",
-    "mahalle": null,
     "lat": 38.22170783904109,
     "lng": 28.304726441095887,
     "type": "ilce"
@@ -41235,7 +40712,6 @@
   {
     "il": "Izmir",
     "ilce": "Ödemiş",
-    "mahalle": null,
     "lat": 38.190146438425934,
     "lng": 27.996665608333327,
     "type": "ilce"
@@ -41243,7 +40719,6 @@
   {
     "il": "Izmir",
     "ilce": "Bayındır",
-    "mahalle": null,
     "lat": 38.23497030136986,
     "lng": 27.626469069863017,
     "type": "ilce"
@@ -41251,7 +40726,6 @@
   {
     "il": "Izmir",
     "ilce": "Selçuk",
-    "mahalle": null,
     "lat": 37.960346232743355,
     "lng": 27.39088367168142,
     "type": "ilce"
@@ -41259,7 +40733,6 @@
   {
     "il": "Izmir",
     "ilce": "Tire",
-    "mahalle": null,
     "lat": 38.07448470099009,
     "lng": 27.713521193069298,
     "type": "ilce"
@@ -51462,7 +50935,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Göksun",
-    "mahalle": null,
     "lat": 38.102627302040815,
     "lng": 36.56664349387755,
     "type": "ilce"
@@ -51470,7 +50942,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Andırın",
-    "mahalle": null,
     "lat": 37.59459137333332,
     "lng": 36.37160213333335,
     "type": "ilce"
@@ -51478,7 +50949,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Çağlayancerit",
-    "mahalle": null,
     "lat": 37.7992313125,
     "lng": 37.3438697875,
     "type": "ilce"
@@ -51486,7 +50956,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Nurhak",
-    "mahalle": null,
     "lat": 37.96886472000001,
     "lng": 37.44444648333333,
     "type": "ilce"
@@ -51494,7 +50963,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Türkoğlu",
-    "mahalle": null,
     "lat": 37.33779368,
     "lng": 36.83344371142858,
     "type": "ilce"
@@ -51502,7 +50970,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Ekinözü",
-    "mahalle": null,
     "lat": 37.99454605925926,
     "lng": 37.0920276962963,
     "type": "ilce"
@@ -51510,7 +50977,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Afşin",
-    "mahalle": null,
     "lat": 38.35076998333332,
     "lng": 36.878730511111115,
     "type": "ilce"
@@ -51518,7 +50984,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Pazarcık",
-    "mahalle": null,
     "lat": 37.444584693749995,
     "lng": 37.30321718125001,
     "type": "ilce"
@@ -51526,7 +50991,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Elbistan",
-    "mahalle": null,
     "lat": 38.30390489245283,
     "lng": 37.297214577358496,
     "type": "ilce"
@@ -51534,7 +50998,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Doğanşehir",
-    "mahalle": null,
     "lat": 38.05010624418605,
     "lng": 37.86463571627907,
     "type": "ilce"
@@ -51542,7 +51005,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Dulkadiroğlu",
-    "mahalle": null,
     "lat": 37.619435186000004,
     "lng": 37.041534396,
     "type": "ilce"
@@ -51550,7 +51012,6 @@
   {
     "il": "Kahramanmaras",
     "ilce": "Onikişubat",
-    "mahalle": null,
     "lat": 37.67329067500001,
     "lng": 36.759652201666675,
     "type": "ilce"
@@ -52069,7 +51530,6 @@
   {
     "il": "Karabuk",
     "ilce": "Yenice",
-    "mahalle": null,
     "lat": 41.16103838181819,
     "lng": 32.250733477272725,
     "type": "ilce"
@@ -52077,7 +51537,6 @@
   {
     "il": "Karabuk",
     "ilce": "Karabük Merkez",
-    "mahalle": null,
     "lat": 41.15963273333333,
     "lng": 32.643282695833335,
     "type": "ilce"
@@ -52085,7 +51544,6 @@
   {
     "il": "Karabuk",
     "ilce": "Eskipazar",
-    "mahalle": null,
     "lat": 40.94663617916667,
     "lng": 32.53585890833334,
     "type": "ilce"
@@ -52093,7 +51551,6 @@
   {
     "il": "Karabuk",
     "ilce": "Eflani",
-    "mahalle": null,
     "lat": 41.4410410904762,
     "lng": 32.95584098095238,
     "type": "ilce"
@@ -52101,7 +51558,6 @@
   {
     "il": "Karabuk",
     "ilce": "Ovacık",
-    "mahalle": null,
     "lat": 41.059398664285716,
     "lng": 32.91093878571428,
     "type": "ilce"
@@ -52109,7 +51565,6 @@
   {
     "il": "Karabuk",
     "ilce": "Safranbolu",
-    "mahalle": null,
     "lat": 41.322988224137944,
     "lng": 32.763559196551725,
     "type": "ilce"
@@ -52117,7 +51572,6 @@
   {
     "il": "Karabuk",
     "ilce": "Mengen",
-    "mahalle": null,
     "lat": 40.95263673333334,
     "lng": 32.09117760952382,
     "type": "ilce"
@@ -52268,7 +51722,6 @@
   {
     "il": "Karaman",
     "ilce": "Halkapınar",
-    "mahalle": null,
     "lat": 37.380945734090915,
     "lng": 34.283528425,
     "type": "ilce"
@@ -52276,7 +51729,6 @@
   {
     "il": "Karaman",
     "ilce": "Silifke",
-    "mahalle": null,
     "lat": 36.60479203350516,
     "lng": 33.796562790206174,
     "type": "ilce"
@@ -52284,7 +51736,6 @@
   {
     "il": "Karaman",
     "ilce": "Mut",
-    "mahalle": null,
     "lat": 36.74255449935486,
     "lng": 33.39859156903224,
     "type": "ilce"
@@ -52292,7 +51743,6 @@
   {
     "il": "Karaman",
     "ilce": "Ermenek",
-    "mahalle": null,
     "lat": 36.61119676065574,
     "lng": 32.91080550081966,
     "type": "ilce"
@@ -52300,7 +51750,6 @@
   {
     "il": "Karaman",
     "ilce": "Başyayla",
-    "mahalle": null,
     "lat": 36.76023109148936,
     "lng": 32.67504126382979,
     "type": "ilce"
@@ -52308,7 +51757,6 @@
   {
     "il": "Karaman",
     "ilce": "Sarıveliler",
-    "mahalle": null,
     "lat": 36.65701712794119,
     "lng": 32.586204716176475,
     "type": "ilce"
@@ -52316,7 +51764,6 @@
   {
     "il": "Karaman",
     "ilce": "Ayrancı",
-    "mahalle": null,
     "lat": 37.31905848916667,
     "lng": 33.82473348083333,
     "type": "ilce"
@@ -52324,7 +51771,6 @@
   {
     "il": "Karaman",
     "ilce": "Karaman Merkez",
-    "mahalle": null,
     "lat": 37.16849358854628,
     "lng": 33.21411481497796,
     "type": "ilce"
@@ -52332,7 +51778,6 @@
   {
     "il": "Karaman",
     "ilce": "Kazımkarabekir",
-    "mahalle": null,
     "lat": 37.27992854915255,
     "lng": 32.92647646610169,
     "type": "ilce"
@@ -53207,7 +52652,6 @@
   {
     "il": "Kars",
     "ilce": "Akyaka",
-    "mahalle": null,
     "lat": 40.7522221,
     "lng": 43.62044900000001,
     "type": "ilce"
@@ -53215,7 +52659,6 @@
   {
     "il": "Kars",
     "ilce": "Arpaçay",
-    "mahalle": null,
     "lat": 40.86888504193549,
     "lng": 43.3534987032258,
     "type": "ilce"
@@ -53223,7 +52666,6 @@
   {
     "il": "Kars",
     "ilce": "Digor",
-    "mahalle": null,
     "lat": 40.289751849999995,
     "lng": 43.479944936111124,
     "type": "ilce"
@@ -53231,7 +52673,6 @@
   {
     "il": "Kars",
     "ilce": "Kars Merkez",
-    "mahalle": null,
     "lat": 40.56598477166667,
     "lng": 43.22787103833333,
     "type": "ilce"
@@ -53239,7 +52680,6 @@
   {
     "il": "Kars",
     "ilce": "Kağızman",
-    "mahalle": null,
     "lat": 40.160433528571424,
     "lng": 43.09234622619048,
     "type": "ilce"
@@ -53247,7 +52687,6 @@
   {
     "il": "Kars",
     "ilce": "Sarıkamış",
-    "mahalle": null,
     "lat": 40.231123113725495,
     "lng": 42.49843640980393,
     "type": "ilce"
@@ -53255,7 +52694,6 @@
   {
     "il": "Kars",
     "ilce": "Selim",
-    "mahalle": null,
     "lat": 40.4775846205128,
     "lng": 42.75731841282051,
     "type": "ilce"
@@ -53263,7 +52701,6 @@
   {
     "il": "Kars",
     "ilce": "Susuz",
-    "mahalle": null,
     "lat": 40.79480646818182,
     "lng": 43.1004636590909,
     "type": "ilce"
@@ -53418,7 +52855,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Taşköprü",
-    "mahalle": null,
     "lat": 41.45104771594202,
     "lng": 34.21736971304348,
     "type": "ilce"
@@ -53426,7 +52862,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Hanönü",
-    "mahalle": null,
     "lat": 41.626621420689645,
     "lng": 34.44474996896552,
     "type": "ilce"
@@ -53434,7 +52869,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Tosya",
-    "mahalle": null,
     "lat": 41.014611586538464,
     "lng": 34.081699892307704,
     "type": "ilce"
@@ -53442,7 +52876,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Abana",
-    "mahalle": null,
     "lat": 41.96031314375,
     "lng": 34.04158974375,
     "type": "ilce"
@@ -53450,7 +52883,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Araç",
-    "mahalle": null,
     "lat": 41.19886897884617,
     "lng": 33.296346407692305,
     "type": "ilce"
@@ -53458,7 +52890,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Azdavay",
-    "mahalle": null,
     "lat": 41.699741071739126,
     "lng": 33.34059367391305,
     "type": "ilce"
@@ -53466,7 +52897,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Ağlı",
-    "mahalle": null,
     "lat": 41.70948403124999,
     "lng": 33.548034968749995,
     "type": "ilce"
@@ -53474,7 +52904,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Bozkurt",
-    "mahalle": null,
     "lat": 41.879624459374995,
     "lng": 34.026614903125,
     "type": "ilce"
@@ -53482,7 +52911,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Cide",
-    "mahalle": null,
     "lat": 41.87478779534884,
     "lng": 33.091697602325574,
     "type": "ilce"
@@ -53490,7 +52918,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Daday",
-    "mahalle": null,
     "lat": 41.49487551,
     "lng": 33.377365132,
     "type": "ilce"
@@ -53498,7 +52925,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Devrekani",
-    "mahalle": null,
     "lat": 41.67544898888889,
     "lng": 33.89653727555556,
     "type": "ilce"
@@ -53506,7 +52932,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Doğanyurt",
-    "mahalle": null,
     "lat": 41.950032355555564,
     "lng": 33.43185411111111,
     "type": "ilce"
@@ -53514,7 +52939,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Kastamonu Merkez",
-    "mahalle": null,
     "lat": 41.33420867972972,
     "lng": 33.790249005405414,
     "type": "ilce"
@@ -53522,7 +52946,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Küre",
-    "mahalle": null,
     "lat": 41.804799508333325,
     "lng": 33.663411216666674,
     "type": "ilce"
@@ -53530,7 +52953,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Pınarbaşı",
-    "mahalle": null,
     "lat": 41.62269395555557,
     "lng": 33.04421819444445,
     "type": "ilce"
@@ -53538,7 +52960,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Seydiler",
-    "mahalle": null,
     "lat": 41.64558165517241,
     "lng": 33.71555768275862,
     "type": "ilce"
@@ -53546,7 +52967,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Çatalzeytin",
-    "mahalle": null,
     "lat": 41.8476442,
     "lng": 34.184767529999995,
     "type": "ilce"
@@ -53554,7 +52974,6 @@
   {
     "il": "Kastamonu",
     "ilce": "İhsangazi",
-    "mahalle": null,
     "lat": 41.14118338285714,
     "lng": 33.55628657999999,
     "type": "ilce"
@@ -53562,7 +52981,6 @@
   {
     "il": "Kastamonu",
     "ilce": "İnebolu",
-    "mahalle": null,
     "lat": 41.914282097435894,
     "lng": 33.72959346153846,
     "type": "ilce"
@@ -53570,7 +52988,6 @@
   {
     "il": "Kastamonu",
     "ilce": "Şenpazar",
-    "mahalle": null,
     "lat": 41.835186795238094,
     "lng": 33.23821032857143,
     "type": "ilce"
@@ -53946,7 +53363,6 @@
   {
     "il": "Kayseri",
     "ilce": "Sarız",
-    "mahalle": null,
     "lat": 38.48265932978722,
     "lng": 36.51899091617021,
     "type": "ilce"
@@ -53954,7 +53370,6 @@
   {
     "il": "Kayseri",
     "ilce": "Melikgazi",
-    "mahalle": null,
     "lat": 38.72275949785713,
     "lng": 35.586307328928584,
     "type": "ilce"
@@ -53977,7 +53392,6 @@
   {
     "il": "Kayseri",
     "ilce": "İncesu",
-    "mahalle": null,
     "lat": 38.654388368,
     "lng": 35.2218502897143,
     "type": "ilce"
@@ -53985,7 +53399,6 @@
   {
     "il": "Kayseri",
     "ilce": "Hacılar",
-    "mahalle": null,
     "lat": 38.65285541298701,
     "lng": 35.40406383636364,
     "type": "ilce"
@@ -53993,7 +53406,6 @@
   {
     "il": "Kayseri",
     "ilce": "Talas",
-    "mahalle": null,
     "lat": 38.621594607954556,
     "lng": 35.695818319886364,
     "type": "ilce"
@@ -54001,7 +53413,6 @@
   {
     "il": "Kayseri",
     "ilce": "Felahiye",
-    "mahalle": null,
     "lat": 39.10327568430232,
     "lng": 35.55344012034882,
     "type": "ilce"
@@ -54009,7 +53420,6 @@
   {
     "il": "Kayseri",
     "ilce": "Kocasinan",
-    "mahalle": null,
     "lat": 38.89942296190478,
     "lng": 35.37324371071428,
     "type": "ilce"
@@ -54153,7 +53563,6 @@
   {
     "il": "Kayseri",
     "ilce": "Pınarbaşı",
-    "mahalle": null,
     "lat": 38.80727930570072,
     "lng": 36.43900275011874,
     "type": "ilce"
@@ -54161,7 +53570,6 @@
   {
     "il": "Kayseri",
     "ilce": "Tomarza",
-    "mahalle": null,
     "lat": 38.438448314062484,
     "lng": 35.876505403124966,
     "type": "ilce"
@@ -54169,7 +53577,6 @@
   {
     "il": "Kayseri",
     "ilce": "Akkışla",
-    "mahalle": null,
     "lat": 38.98914695517238,
     "lng": 36.197891230172424,
     "type": "ilce"
@@ -54177,7 +53584,6 @@
   {
     "il": "Kayseri",
     "ilce": "Bünyan",
-    "mahalle": null,
     "lat": 38.80118485799999,
     "lng": 35.90151084500002,
     "type": "ilce"
@@ -54185,7 +53591,6 @@
   {
     "il": "Kayseri",
     "ilce": "Sarıoğlan",
-    "mahalle": null,
     "lat": 39.11888400081965,
     "lng": 35.94371395450819,
     "type": "ilce"
@@ -54193,7 +53598,6 @@
   {
     "il": "Kayseri",
     "ilce": "Özvatan",
-    "mahalle": null,
     "lat": 39.11098204094489,
     "lng": 35.75033906929133,
     "type": "ilce"
@@ -54201,7 +53605,6 @@
   {
     "il": "Kayseri",
     "ilce": "Develi",
-    "mahalle": null,
     "lat": 38.274604137777786,
     "lng": 35.62314291523808,
     "type": "ilce"
@@ -54209,7 +53612,6 @@
   {
     "il": "Kayseri",
     "ilce": "Yahyalı",
-    "mahalle": null,
     "lat": 38.00602954166666,
     "lng": 35.435774836574076,
     "type": "ilce"
@@ -54217,7 +53619,6 @@
   {
     "il": "Kayseri",
     "ilce": "Yeşilhisar",
-    "mahalle": null,
     "lat": 38.31280066839623,
     "lng": 35.07987257688677,
     "type": "ilce"
@@ -59820,7 +59221,6 @@
   {
     "il": "Kilis",
     "ilce": "Polateli",
-    "mahalle": null,
     "lat": 36.851686183582096,
     "lng": 37.14569404179104,
     "type": "ilce"
@@ -59828,7 +59228,6 @@
   {
     "il": "Kilis",
     "ilce": "Kilis Merkez",
-    "mahalle": null,
     "lat": 36.77075500402009,
     "lng": 37.05767272814069,
     "type": "ilce"
@@ -59836,7 +59235,6 @@
   {
     "il": "Kilis",
     "ilce": "Elbeyli",
-    "mahalle": null,
     "lat": 36.72748415384615,
     "lng": 37.43481029102564,
     "type": "ilce"
@@ -59844,7 +59242,6 @@
   {
     "il": "Kilis",
     "ilce": "Musabeyli",
-    "mahalle": null,
     "lat": 36.91393003059701,
     "lng": 36.93351122910446,
     "type": "ilce"
@@ -60471,7 +59868,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Çelebi",
-    "mahalle": null,
     "lat": 39.48637336666666,
     "lng": 33.448594066666665,
     "type": "ilce"
@@ -60479,7 +59875,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Karakeçili",
-    "mahalle": null,
     "lat": 39.54175467142857,
     "lng": 33.37905523571429,
     "type": "ilce"
@@ -60487,7 +59882,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Keskin",
-    "mahalle": null,
     "lat": 39.6519184,
     "lng": 33.70186999705882,
     "type": "ilce"
@@ -60495,7 +59889,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Yahşihan",
-    "mahalle": null,
     "lat": 39.895132403999995,
     "lng": 33.42262008400001,
     "type": "ilce"
@@ -60503,7 +59896,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Delice",
-    "mahalle": null,
     "lat": 39.94974613999998,
     "lng": 33.998726552,
     "type": "ilce"
@@ -60511,7 +59903,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Balışeyh",
-    "mahalle": null,
     "lat": 39.9445100125,
     "lng": 33.74792445416667,
     "type": "ilce"
@@ -60519,7 +59910,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Kırıkkale Merkez",
-    "mahalle": null,
     "lat": 39.87933797941177,
     "lng": 33.542913323529405,
     "type": "ilce"
@@ -60527,7 +59917,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Bahşılı",
-    "mahalle": null,
     "lat": 39.7192716,
     "lng": 33.369940108695666,
     "type": "ilce"
@@ -60535,7 +59924,6 @@
   {
     "il": "Kirikkale",
     "ilce": "Sulakyurt",
-    "mahalle": null,
     "lat": 40.17774012222222,
     "lng": 33.7218418074074,
     "type": "ilce"
@@ -60774,7 +60162,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Kofçaz",
-    "mahalle": null,
     "lat": 41.99798916363638,
     "lng": 27.15652514876032,
     "type": "ilce"
@@ -60782,7 +60169,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Kırklareli Merkez",
-    "mahalle": null,
     "lat": 41.80893203052205,
     "lng": 27.24043621566266,
     "type": "ilce"
@@ -60790,7 +60176,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Babaeski",
-    "mahalle": null,
     "lat": 41.4425062244898,
     "lng": 27.094658607482998,
     "type": "ilce"
@@ -60798,7 +60183,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Demirköy",
-    "mahalle": null,
     "lat": 41.88300918277778,
     "lng": 27.77729117888888,
     "type": "ilce"
@@ -60806,7 +60190,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Lüleburgaz",
-    "mahalle": null,
     "lat": 41.41315637482994,
     "lng": 27.427014901360543,
     "type": "ilce"
@@ -60814,7 +60197,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Pehlivanköy",
-    "mahalle": null,
     "lat": 41.38315226101695,
     "lng": 26.943806722033894,
     "type": "ilce"
@@ -60822,7 +60204,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Pınarhisar",
-    "mahalle": null,
     "lat": 41.661072845000014,
     "lng": 27.555735526428577,
     "type": "ilce"
@@ -60830,7 +60211,6 @@
   {
     "il": "Kirklareli",
     "ilce": "Vize",
-    "mahalle": null,
     "lat": 41.62073994057143,
     "lng": 27.853461324571423,
     "type": "ilce"
@@ -62921,7 +62301,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Mucur",
-    "mahalle": null,
     "lat": 39.08510301199999,
     "lng": 34.441397716,
     "type": "ilce"
@@ -62929,7 +62308,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Akpınar",
-    "mahalle": null,
     "lat": 39.499340059999994,
     "lng": 33.985733765000006,
     "type": "ilce"
@@ -62937,7 +62315,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Akçakent",
-    "mahalle": null,
     "lat": 39.63632623076923,
     "lng": 34.06379885384616,
     "type": "ilce"
@@ -62945,7 +62322,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Boztepe",
-    "mahalle": null,
     "lat": 39.34479565217392,
     "lng": 34.360134782608704,
     "type": "ilce"
@@ -62953,7 +62329,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Kaman",
-    "mahalle": null,
     "lat": 39.36228954761905,
     "lng": 33.7112188,
     "type": "ilce"
@@ -62961,7 +62336,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Kırşehir Merkez",
-    "mahalle": null,
     "lat": 39.19585014249999,
     "lng": 34.1014906925,
     "type": "ilce"
@@ -62969,7 +62343,6 @@
   {
     "il": "Kirsehir",
     "ilce": "Çiçekdağı",
-    "mahalle": null,
     "lat": 39.55206180344829,
     "lng": 34.37531117586207,
     "type": "ilce"
@@ -63022,7 +62395,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Kartepe",
-    "mahalle": null,
     "lat": 40.71130918,
     "lng": 30.09447220842104,
     "type": "ilce"
@@ -63030,7 +62402,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Çayırova",
-    "mahalle": null,
     "lat": 40.840669326666664,
     "lng": 29.39319815333333,
     "type": "ilce"
@@ -63038,7 +62409,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Dilovası",
-    "mahalle": null,
     "lat": 40.83607156119403,
     "lng": 29.582696953731347,
     "type": "ilce"
@@ -63046,7 +62416,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Karamürsel",
-    "mahalle": null,
     "lat": 40.61630119883721,
     "lng": 29.59844437093024,
     "type": "ilce"
@@ -63054,7 +62423,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Darıca",
-    "mahalle": null,
     "lat": 40.77923025769231,
     "lng": 29.376359838461536,
     "type": "ilce"
@@ -63062,7 +62430,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Kandıra",
-    "mahalle": null,
     "lat": 41.03244959624997,
     "lng": 30.11335550583333,
     "type": "ilce"
@@ -63070,7 +62437,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Körfez",
-    "mahalle": null,
     "lat": 40.8725811663793,
     "lng": 29.74838587241378,
     "type": "ilce"
@@ -63078,7 +62444,6 @@
   {
     "il": "Kocaeli",
     "ilce": "İzmit",
-    "mahalle": null,
     "lat": 40.8505827945946,
     "lng": 30.05216142324326,
     "type": "ilce"
@@ -63086,7 +62451,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Gölcük",
-    "mahalle": null,
     "lat": 40.66083105795454,
     "lng": 29.801882946590908,
     "type": "ilce"
@@ -63094,7 +62458,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Derince",
-    "mahalle": null,
     "lat": 40.882783003478266,
     "lng": 29.8535154104348,
     "type": "ilce"
@@ -63102,7 +62465,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Gebze",
-    "mahalle": null,
     "lat": 40.907866462711866,
     "lng": 29.551264581920908,
     "type": "ilce"
@@ -63110,7 +62472,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Başiskele",
-    "mahalle": null,
     "lat": 40.66249348173078,
     "lng": 29.941453974038463,
     "type": "ilce"
@@ -63118,7 +62479,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Adapazarı",
-    "mahalle": null,
     "lat": 40.849862517123285,
     "lng": 30.389054884931507,
     "type": "ilce"
@@ -63205,7 +62565,6 @@
   {
     "il": "Kocaeli",
     "ilce": "Serdivan",
-    "mahalle": null,
     "lat": 40.789501421666664,
     "lng": 30.289067671666665,
     "type": "ilce"
@@ -66813,7 +66172,6 @@
   {
     "il": "Konya",
     "ilce": "Çumra",
-    "mahalle": null,
     "lat": 37.527630196183196,
     "lng": 32.77373579083969,
     "type": "ilce"
@@ -66821,7 +66179,6 @@
   {
     "il": "Konya",
     "ilce": "Ereğli",
-    "mahalle": null,
     "lat": 37.63095447156863,
     "lng": 34.02191529509803,
     "type": "ilce"
@@ -66829,7 +66186,6 @@
   {
     "il": "Konya",
     "ilce": "Taşkent",
-    "mahalle": null,
     "lat": 36.884525005882345,
     "lng": 32.58513431568626,
     "type": "ilce"
@@ -66837,7 +66193,6 @@
   {
     "il": "Konya",
     "ilce": "Yunak",
-    "mahalle": null,
     "lat": 38.840065190163926,
     "lng": 31.927866640163927,
     "type": "ilce"
@@ -66845,7 +66200,6 @@
   {
     "il": "Konya",
     "ilce": "Güneysınır",
-    "mahalle": null,
     "lat": 37.19285630714285,
     "lng": 32.72417915178571,
     "type": "ilce"
@@ -66853,7 +66207,6 @@
   {
     "il": "Konya",
     "ilce": "Halkapınar",
-    "mahalle": null,
     "lat": 37.39132666216216,
     "lng": 34.28448510810811,
     "type": "ilce"
@@ -66861,7 +66214,6 @@
   {
     "il": "Konya",
     "ilce": "Hadim",
-    "mahalle": null,
     "lat": 36.95270013457944,
     "lng": 32.50635894392524,
     "type": "ilce"
@@ -66869,7 +66221,6 @@
   {
     "il": "Konya",
     "ilce": "Karatay",
-    "mahalle": null,
     "lat": 37.931383518471335,
     "lng": 32.96567067770699,
     "type": "ilce"
@@ -66877,7 +66228,6 @@
   {
     "il": "Konya",
     "ilce": "Yalıhüyük",
-    "mahalle": null,
     "lat": 37.2821403652174,
     "lng": 32.06641833043478,
     "type": "ilce"
@@ -66885,7 +66235,6 @@
   {
     "il": "Konya",
     "ilce": "Emirgazi",
-    "mahalle": null,
     "lat": 37.9848855483871,
     "lng": 33.79387760645162,
     "type": "ilce"
@@ -66893,7 +66242,6 @@
   {
     "il": "Konya",
     "ilce": "Beyşehir",
-    "mahalle": null,
     "lat": 37.72523768118811,
     "lng": 31.645972929702964,
     "type": "ilce"
@@ -66901,7 +66249,6 @@
   {
     "il": "Konya",
     "ilce": "Bozkır",
-    "mahalle": null,
     "lat": 37.169606390243906,
     "lng": 32.326853274390245,
     "type": "ilce"
@@ -66909,7 +66256,6 @@
   {
     "il": "Konya",
     "ilce": "Akşehir",
-    "mahalle": null,
     "lat": 38.36945240212766,
     "lng": 31.46244756808511,
     "type": "ilce"
@@ -66917,7 +66263,6 @@
   {
     "il": "Konya",
     "ilce": "Akören",
-    "mahalle": null,
     "lat": 37.423200754237286,
     "lng": 32.36789734915255,
     "type": "ilce"
@@ -66925,7 +66270,6 @@
   {
     "il": "Konya",
     "ilce": "Meram",
-    "mahalle": null,
     "lat": 37.707322162037045,
     "lng": 32.34539265277777,
     "type": "ilce"
@@ -66933,7 +66277,6 @@
   {
     "il": "Konya",
     "ilce": "Tuzlukçu",
-    "mahalle": null,
     "lat": 38.49786032777777,
     "lng": 31.65627948333333,
     "type": "ilce"
@@ -66941,7 +66284,6 @@
   {
     "il": "Konya",
     "ilce": "Sarayönü",
-    "mahalle": null,
     "lat": 38.45768380937501,
     "lng": 32.433308265625,
     "type": "ilce"
@@ -66949,7 +66291,6 @@
   {
     "il": "Konya",
     "ilce": "Karapınar",
-    "mahalle": null,
     "lat": 37.7272937990099,
     "lng": 33.47838009405941,
     "type": "ilce"
@@ -66957,7 +66298,6 @@
   {
     "il": "Konya",
     "ilce": "Kadınhanı",
-    "mahalle": null,
     "lat": 38.4420368289855,
     "lng": 32.21670691884058,
     "type": "ilce"
@@ -66965,7 +66305,6 @@
   {
     "il": "Konya",
     "ilce": "Altınekin",
-    "mahalle": null,
     "lat": 38.32033342911394,
     "lng": 32.93325008354431,
     "type": "ilce"
@@ -66973,7 +66312,6 @@
   {
     "il": "Konya",
     "ilce": "Ahırlı",
-    "mahalle": null,
     "lat": 37.26149869387755,
     "lng": 32.08373914897959,
     "type": "ilce"
@@ -66981,7 +66319,6 @@
   {
     "il": "Konya",
     "ilce": "Çeltik",
-    "mahalle": null,
     "lat": 38.992614879999984,
     "lng": 31.833376064705877,
     "type": "ilce"
@@ -66989,7 +66326,6 @@
   {
     "il": "Konya",
     "ilce": "Derbent",
-    "mahalle": null,
     "lat": 37.989068322499996,
     "lng": 31.998746127500006,
     "type": "ilce"
@@ -66997,7 +66333,6 @@
   {
     "il": "Konya",
     "ilce": "Seydişehir",
-    "mahalle": null,
     "lat": 37.45069697096775,
     "lng": 31.92859157741935,
     "type": "ilce"
@@ -67005,7 +66340,6 @@
   {
     "il": "Konya",
     "ilce": "Doğanhisar",
-    "mahalle": null,
     "lat": 38.1205883,
     "lng": 31.640204079999997,
     "type": "ilce"
@@ -67013,7 +66347,6 @@
   {
     "il": "Konya",
     "ilce": "Kulu",
-    "mahalle": null,
     "lat": 39.103340322033894,
     "lng": 32.98733034661018,
     "type": "ilce"
@@ -67021,7 +66354,6 @@
   {
     "il": "Konya",
     "ilce": "Derebucak",
-    "mahalle": null,
     "lat": 37.38739515081967,
     "lng": 31.53682942295081,
     "type": "ilce"
@@ -67029,7 +66361,6 @@
   {
     "il": "Konya",
     "ilce": "Cihanbeyli",
-    "mahalle": null,
     "lat": 38.6879882745614,
     "lng": 32.81874526666668,
     "type": "ilce"
@@ -67037,7 +66368,6 @@
   {
     "il": "Konya",
     "ilce": "Selçuklu",
-    "mahalle": null,
     "lat": 38.03601709391305,
     "lng": 32.47501744434784,
     "type": "ilce"
@@ -67045,7 +66375,6 @@
   {
     "il": "Konya",
     "ilce": "Ilgın",
-    "mahalle": null,
     "lat": 38.23366066470588,
     "lng": 31.913125397058828,
     "type": "ilce"
@@ -67053,7 +66382,6 @@
   {
     "il": "Konya",
     "ilce": "Hüyük",
-    "mahalle": null,
     "lat": 37.930728277419355,
     "lng": 31.6599196,
     "type": "ilce"
@@ -67061,7 +66389,6 @@
   {
     "il": "Konya",
     "ilce": "Emirdağ",
-    "mahalle": null,
     "lat": 39.025010647619055,
     "lng": 31.324233286507933,
     "type": "ilce"
@@ -69529,7 +68856,6 @@
   {
     "il": "Kutahya",
     "ilce": "Simav",
-    "mahalle": null,
     "lat": 39.19356452926828,
     "lng": 28.94286029024391,
     "type": "ilce"
@@ -69537,7 +68863,6 @@
   {
     "il": "Kutahya",
     "ilce": "Gediz",
-    "mahalle": null,
     "lat": 39.002388437037034,
     "lng": 29.459972877777776,
     "type": "ilce"
@@ -69545,7 +68870,6 @@
   {
     "il": "Kutahya",
     "ilce": "Pazarlar",
-    "mahalle": null,
     "lat": 38.962086750000005,
     "lng": 29.107890750000003,
     "type": "ilce"
@@ -69553,7 +68877,6 @@
   {
     "il": "Kutahya",
     "ilce": "Şaphane",
-    "mahalle": null,
     "lat": 38.96730018,
     "lng": 29.187999139999995,
     "type": "ilce"
@@ -69561,7 +68884,6 @@
   {
     "il": "Kutahya",
     "ilce": "Domaniç",
-    "mahalle": null,
     "lat": 39.772410775000004,
     "lng": 29.587932055,
     "type": "ilce"
@@ -69569,7 +68891,6 @@
   {
     "il": "Kutahya",
     "ilce": "Demirci",
-    "mahalle": null,
     "lat": 38.942382308,
     "lng": 28.67186556,
     "type": "ilce"
@@ -69577,7 +68898,6 @@
   {
     "il": "Kutahya",
     "ilce": "Selendi",
-    "mahalle": null,
     "lat": 38.792304077777786,
     "lng": 28.874839011111117,
     "type": "ilce"
@@ -69585,7 +68905,6 @@
   {
     "il": "Kutahya",
     "ilce": "Çavdarhisar",
-    "mahalle": null,
     "lat": 39.225700361111116,
     "lng": 29.619391950000004,
     "type": "ilce"
@@ -69593,7 +68912,6 @@
   {
     "il": "Kutahya",
     "ilce": "Emet",
-    "mahalle": null,
     "lat": 39.321045139130426,
     "lng": 29.31238235652174,
     "type": "ilce"
@@ -69601,7 +68919,6 @@
   {
     "il": "Kutahya",
     "ilce": "Hisarcık",
-    "mahalle": null,
     "lat": 39.20907544666667,
     "lng": 29.233537733333332,
     "type": "ilce"
@@ -69609,7 +68926,6 @@
   {
     "il": "Kutahya",
     "ilce": "Altıntaş",
-    "mahalle": null,
     "lat": 39.02283252499999,
     "lng": 30.043552895833333,
     "type": "ilce"
@@ -69617,7 +68933,6 @@
   {
     "il": "Kutahya",
     "ilce": "Aslanapa",
-    "mahalle": null,
     "lat": 39.20783641,
     "lng": 29.798385929999995,
     "type": "ilce"
@@ -69625,7 +68940,6 @@
   {
     "il": "Kutahya",
     "ilce": "Dumlupınar",
-    "mahalle": null,
     "lat": 38.912025235,
     "lng": 29.992639824999998,
     "type": "ilce"
@@ -69633,7 +68947,6 @@
   {
     "il": "Kutahya",
     "ilce": "Kütahya Merkez",
-    "mahalle": null,
     "lat": 39.40579153714285,
     "lng": 30.071887702857143,
     "type": "ilce"
@@ -69641,7 +68954,6 @@
   {
     "il": "Kutahya",
     "ilce": "Tavşanlı",
-    "mahalle": null,
     "lat": 39.56261512105264,
     "lng": 29.432042392105263,
     "type": "ilce"
@@ -69835,7 +69147,6 @@
   {
     "il": "Malatya",
     "ilce": "Doğanyol",
-    "mahalle": null,
     "lat": 38.27385942926828,
     "lng": 39.034392131707314,
     "type": "ilce"
@@ -69843,7 +69154,6 @@
   {
     "il": "Malatya",
     "ilce": "Pütürge",
-    "mahalle": null,
     "lat": 38.19362669818183,
     "lng": 38.85259087727273,
     "type": "ilce"
@@ -69851,7 +69161,6 @@
   {
     "il": "Malatya",
     "ilce": "Nurhak",
-    "mahalle": null,
     "lat": 37.97386037254903,
     "lng": 37.44547375882354,
     "type": "ilce"
@@ -69859,7 +69168,6 @@
   {
     "il": "Malatya",
     "ilce": "Gölbaşı",
-    "mahalle": null,
     "lat": 37.77242472592594,
     "lng": 37.63262684320987,
     "type": "ilce"
@@ -69867,7 +69175,6 @@
   {
     "il": "Malatya",
     "ilce": "Kangal",
-    "mahalle": null,
     "lat": 39.16426212965519,
     "lng": 37.391899276551726,
     "type": "ilce"
@@ -69875,7 +69182,6 @@
   {
     "il": "Malatya",
     "ilce": "Gürün",
-    "mahalle": null,
     "lat": 38.79900914953269,
     "lng": 37.15344608130841,
     "type": "ilce"
@@ -69883,7 +69189,6 @@
   {
     "il": "Malatya",
     "ilce": "Gerger",
-    "mahalle": null,
     "lat": 38.01688373913043,
     "lng": 39.00465806956522,
     "type": "ilce"
@@ -69891,7 +69196,6 @@
   {
     "il": "Malatya",
     "ilce": "Tut",
-    "mahalle": null,
     "lat": 37.800451886666664,
     "lng": 37.95616214333332,
     "type": "ilce"
@@ -69899,7 +69203,6 @@
   {
     "il": "Malatya",
     "ilce": "Adıyaman Merkez",
-    "mahalle": null,
     "lat": 37.748858481927705,
     "lng": 38.23094579759035,
     "type": "ilce"
@@ -69907,7 +69210,6 @@
   {
     "il": "Malatya",
     "ilce": "Sincik",
-    "mahalle": null,
     "lat": 38.02944444893617,
     "lng": 38.57009599361702,
     "type": "ilce"
@@ -69915,7 +69217,6 @@
   {
     "il": "Malatya",
     "ilce": "Çelikhan",
-    "mahalle": null,
     "lat": 38.064038087755115,
     "lng": 38.26805500612246,
     "type": "ilce"
@@ -69923,7 +69224,6 @@
   {
     "il": "Malatya",
     "ilce": "Doğanşehir",
-    "mahalle": null,
     "lat": 38.05817332380953,
     "lng": 37.88282916428571,
     "type": "ilce"
@@ -69931,7 +69231,6 @@
   {
     "il": "Malatya",
     "ilce": "Kale",
-    "mahalle": null,
     "lat": 38.364590670588235,
     "lng": 38.79231804705883,
     "type": "ilce"
@@ -69939,7 +69238,6 @@
   {
     "il": "Malatya",
     "ilce": "Yeşilyurt",
-    "mahalle": null,
     "lat": 38.305281997656245,
     "lng": 38.20817138046876,
     "type": "ilce"
@@ -69947,7 +69245,6 @@
   {
     "il": "Malatya",
     "ilce": "Akçadağ",
-    "mahalle": null,
     "lat": 38.38878214299999,
     "lng": 37.916117996000025,
     "type": "ilce"
@@ -69955,7 +69252,6 @@
   {
     "il": "Malatya",
     "ilce": "Darende",
-    "mahalle": null,
     "lat": 38.55755707669902,
     "lng": 37.60365007766989,
     "type": "ilce"
@@ -69963,7 +69259,6 @@
   {
     "il": "Malatya",
     "ilce": "Hekimhan",
-    "mahalle": null,
     "lat": 38.822851335514024,
     "lng": 37.92601408504674,
     "type": "ilce"
@@ -69971,7 +69266,6 @@
   {
     "il": "Malatya",
     "ilce": "Kuluncak",
-    "mahalle": null,
     "lat": 38.855735782894726,
     "lng": 37.67152640789475,
     "type": "ilce"
@@ -69979,7 +69273,6 @@
   {
     "il": "Malatya",
     "ilce": "Arapgir",
-    "mahalle": null,
     "lat": 38.95105312022472,
     "lng": 38.478051422471935,
     "type": "ilce"
@@ -69987,7 +69280,6 @@
   {
     "il": "Malatya",
     "ilce": "Arguvan",
-    "mahalle": null,
     "lat": 38.864209229113925,
     "lng": 38.26524662405063,
     "type": "ilce"
@@ -69995,7 +69287,6 @@
   {
     "il": "Malatya",
     "ilce": "Yazıhan",
-    "mahalle": null,
     "lat": 38.58751140266666,
     "lng": 38.13972808399999,
     "type": "ilce"
@@ -70003,7 +69294,6 @@
   {
     "il": "Malatya",
     "ilce": "Battalgazi",
-    "mahalle": null,
     "lat": 38.33285365053762,
     "lng": 38.46778136129033,
     "type": "ilce"
@@ -70011,7 +69301,6 @@
   {
     "il": "Malatya",
     "ilce": "Ağın",
-    "mahalle": null,
     "lat": 38.932734835897435,
     "lng": 38.6588897102564,
     "type": "ilce"
@@ -70019,7 +69308,6 @@
   {
     "il": "Malatya",
     "ilce": "Keban",
-    "mahalle": null,
     "lat": 38.77739105,
     "lng": 38.71900058214285,
     "type": "ilce"
@@ -74522,7 +73810,6 @@
   {
     "il": "Manisa",
     "ilce": "Simav",
-    "mahalle": null,
     "lat": 39.19687959027778,
     "lng": 28.94554555833333,
     "type": "ilce"
@@ -74530,7 +73817,6 @@
   {
     "il": "Manisa",
     "ilce": "Uşak Merkez",
-    "mahalle": null,
     "lat": 38.685407652459006,
     "lng": 29.252685596721317,
     "type": "ilce"
@@ -74538,7 +73824,6 @@
   {
     "il": "Manisa",
     "ilce": "Eşme",
-    "mahalle": null,
     "lat": 38.43727345961538,
     "lng": 28.97912177692308,
     "type": "ilce"
@@ -74546,7 +73831,6 @@
   {
     "il": "Manisa",
     "ilce": "Şaphane",
-    "mahalle": null,
     "lat": 38.96659786153846,
     "lng": 29.185968238461538,
     "type": "ilce"
@@ -74554,7 +73838,6 @@
   {
     "il": "Manisa",
     "ilce": "Kırkağaç",
-    "mahalle": null,
     "lat": 39.206227770588235,
     "lng": 27.809277049999995,
     "type": "ilce"
@@ -74562,7 +73845,6 @@
   {
     "il": "Manisa",
     "ilce": "Soma",
-    "mahalle": null,
     "lat": 39.22947259555556,
     "lng": 27.594879619999997,
     "type": "ilce"
@@ -74686,7 +73968,6 @@
   {
     "il": "Manisa",
     "ilce": "Ahmetli",
-    "mahalle": null,
     "lat": 38.52746055172413,
     "lng": 27.89877535862069,
     "type": "ilce"
@@ -74694,7 +73975,6 @@
   {
     "il": "Manisa",
     "ilce": "Savaştepe",
-    "mahalle": null,
     "lat": 39.418908787096775,
     "lng": 27.6698951483871,
     "type": "ilce"
@@ -74702,7 +73982,6 @@
   {
     "il": "Manisa",
     "ilce": "Gördes",
-    "mahalle": null,
     "lat": 38.93995980232558,
     "lng": 28.28911133953488,
     "type": "ilce"
@@ -74710,7 +73989,6 @@
   {
     "il": "Manisa",
     "ilce": "Altıeylül",
-    "mahalle": null,
     "lat": 39.57555028148148,
     "lng": 27.921891351851855,
     "type": "ilce"
@@ -74718,7 +73996,6 @@
   {
     "il": "Manisa",
     "ilce": "Köprübaşı",
-    "mahalle": null,
     "lat": 38.76301006176471,
     "lng": 28.38708937941176,
     "type": "ilce"
@@ -74726,7 +74003,6 @@
   {
     "il": "Manisa",
     "ilce": "Demirci",
-    "mahalle": null,
     "lat": 38.95215129433963,
     "lng": 28.670874058490565,
     "type": "ilce"
@@ -74734,7 +74010,6 @@
   {
     "il": "Manisa",
     "ilce": "Kula",
-    "mahalle": null,
     "lat": 38.564914545833325,
     "lng": 28.657678860416663,
     "type": "ilce"
@@ -74742,7 +74017,6 @@
   {
     "il": "Manisa",
     "ilce": "Selendi",
-    "mahalle": null,
     "lat": 38.79978586666666,
     "lng": 28.856892911111103,
     "type": "ilce"
@@ -74750,7 +74024,6 @@
   {
     "il": "Manisa",
     "ilce": "Sındırgı",
-    "mahalle": null,
     "lat": 39.25084062830189,
     "lng": 28.256977175471693,
     "type": "ilce"
@@ -74758,7 +74031,6 @@
   {
     "il": "Manisa",
     "ilce": "Salihli",
-    "mahalle": null,
     "lat": 38.54656754181817,
     "lng": 28.18038021454545,
     "type": "ilce"
@@ -74766,7 +74038,6 @@
   {
     "il": "Manisa",
     "ilce": "Akhisar",
-    "mahalle": null,
     "lat": 38.97051701799999,
     "lng": 27.850089084,
     "type": "ilce"
@@ -74774,7 +74045,6 @@
   {
     "il": "Manisa",
     "ilce": "Gölmarmara",
-    "mahalle": null,
     "lat": 38.69317911379311,
     "lng": 27.95153791034483,
     "type": "ilce"
@@ -74782,7 +74052,6 @@
   {
     "il": "Manisa",
     "ilce": "Şehzadeler",
-    "mahalle": null,
     "lat": 38.6415215245614,
     "lng": 27.482897149122813,
     "type": "ilce"
@@ -74790,7 +74059,6 @@
   {
     "il": "Manisa",
     "ilce": "Saruhanlı",
-    "mahalle": null,
     "lat": 38.738780318749996,
     "lng": 27.655103658333335,
     "type": "ilce"
@@ -74798,7 +74066,6 @@
   {
     "il": "Manisa",
     "ilce": "Turgutlu",
-    "mahalle": null,
     "lat": 38.46342088292683,
     "lng": 27.773826095121954,
     "type": "ilce"
@@ -74806,7 +74073,6 @@
   {
     "il": "Manisa",
     "ilce": "Alaşehir",
-    "mahalle": null,
     "lat": 38.33971189411765,
     "lng": 28.526905019607856,
     "type": "ilce"
@@ -74814,7 +74080,6 @@
   {
     "il": "Manisa",
     "ilce": "Sarıgöl",
-    "mahalle": null,
     "lat": 38.214789927586196,
     "lng": 28.706938106896555,
     "type": "ilce"
@@ -74822,7 +74087,6 @@
   {
     "il": "Manisa",
     "ilce": "Yunusemre",
-    "mahalle": null,
     "lat": 38.71131735714287,
     "lng": 27.34168273333334,
     "type": "ilce"
@@ -75701,7 +74965,6 @@
   {
     "il": "Mardin",
     "ilce": "Ömerli",
-    "mahalle": null,
     "lat": 37.38007693548385,
     "lng": 41.008536172042994,
     "type": "ilce"
@@ -75709,7 +74972,6 @@
   {
     "il": "Mardin",
     "ilce": "Dargeçit",
-    "mahalle": null,
     "lat": 37.53047724148934,
     "lng": 41.744055443617015,
     "type": "ilce"
@@ -75717,7 +74979,6 @@
   {
     "il": "Mardin",
     "ilce": "Midyat",
-    "mahalle": null,
     "lat": 37.40929941090909,
     "lng": 41.395114947272724,
     "type": "ilce"
@@ -75725,7 +74986,6 @@
   {
     "il": "Mardin",
     "ilce": "Nusaybin",
-    "mahalle": null,
     "lat": 37.2178373118644,
     "lng": 41.26816322542371,
     "type": "ilce"
@@ -75733,7 +74993,6 @@
   {
     "il": "Mardin",
     "ilce": "Artuklu",
-    "mahalle": null,
     "lat": 37.297366253435115,
     "lng": 40.778114961832074,
     "type": "ilce"
@@ -75741,7 +75000,6 @@
   {
     "il": "Mardin",
     "ilce": "Yeşilli",
-    "mahalle": null,
     "lat": 37.31820731481481,
     "lng": 40.863341240740745,
     "type": "ilce"
@@ -75749,7 +75007,6 @@
   {
     "il": "Mardin",
     "ilce": "Mazıdağı",
-    "mahalle": null,
     "lat": 37.491494807692305,
     "lng": 40.41924226346156,
     "type": "ilce"
@@ -75757,7 +75014,6 @@
   {
     "il": "Mardin",
     "ilce": "Derik",
-    "mahalle": null,
     "lat": 37.327602958620695,
     "lng": 40.1738698775862,
     "type": "ilce"
@@ -75765,7 +75021,6 @@
   {
     "il": "Mardin",
     "ilce": "Kızıltepe",
-    "mahalle": null,
     "lat": 37.13885715851064,
     "lng": 40.42435011808511,
     "type": "ilce"
@@ -75773,7 +75028,6 @@
   {
     "il": "Mardin",
     "ilce": "Savur",
-    "mahalle": null,
     "lat": 37.59835465221236,
     "lng": 40.86757745044246,
     "type": "ilce"
@@ -76057,7 +75311,6 @@
   {
     "il": "Mardin",
     "ilce": "ناحية مركز القامشلي",
-    "mahalle": null,
     "lat": 36.96226408039216,
     "lng": 41.19119604705881,
     "type": "ilce"
@@ -76535,7 +75788,6 @@
   {
     "il": "Mersin",
     "ilce": "Silifke",
-    "mahalle": null,
     "lat": 36.60048190937501,
     "lng": 33.79058205624999,
     "type": "ilce"
@@ -76543,7 +75795,6 @@
   {
     "il": "Mersin",
     "ilce": "Mut",
-    "mahalle": null,
     "lat": 36.74829082359553,
     "lng": 33.3792616983146,
     "type": "ilce"
@@ -76551,7 +75802,6 @@
   {
     "il": "Mersin",
     "ilce": "Gülnar",
-    "mahalle": null,
     "lat": 36.36723704000001,
     "lng": 33.31399454148147,
     "type": "ilce"
@@ -76559,7 +75809,6 @@
   {
     "il": "Mersin",
     "ilce": "Karaman Merkez",
-    "mahalle": null,
     "lat": 37.164785395804195,
     "lng": 33.2117981583916,
     "type": "ilce"
@@ -76567,7 +75816,6 @@
   {
     "il": "Mersin",
     "ilce": "Tarsus",
-    "mahalle": null,
     "lat": 37.02186001989529,
     "lng": 34.88324587172773,
     "type": "ilce"
@@ -76575,7 +75823,6 @@
   {
     "il": "Mersin",
     "ilce": "Toroslar",
-    "mahalle": null,
     "lat": 36.968493928205106,
     "lng": 34.485019161538474,
     "type": "ilce"
@@ -76583,7 +75830,6 @@
   {
     "il": "Mersin",
     "ilce": "Çamlıyayla",
-    "mahalle": null,
     "lat": 37.186959893103456,
     "lng": 34.544855956896555,
     "type": "ilce"
@@ -76591,7 +75837,6 @@
   {
     "il": "Mersin",
     "ilce": "Akdeniz",
-    "mahalle": null,
     "lat": 36.86462500128204,
     "lng": 34.70796478076924,
     "type": "ilce"
@@ -76599,7 +75844,6 @@
   {
     "il": "Mersin",
     "ilce": "Anamur",
-    "mahalle": null,
     "lat": 36.286859786486495,
     "lng": 32.76413603445947,
     "type": "ilce"
@@ -76607,7 +75851,6 @@
   {
     "il": "Mersin",
     "ilce": "Aydıncık",
-    "mahalle": null,
     "lat": 36.197666391666665,
     "lng": 33.327543470833334,
     "type": "ilce"
@@ -76615,7 +75858,6 @@
   {
     "il": "Mersin",
     "ilce": "Bozyazı",
-    "mahalle": null,
     "lat": 36.26605834273503,
     "lng": 33.01939085213675,
     "type": "ilce"
@@ -76623,7 +75865,6 @@
   {
     "il": "Mersin",
     "ilce": "Erdemli",
-    "mahalle": null,
     "lat": 36.81595184848485,
     "lng": 34.14413361666665,
     "type": "ilce"
@@ -76631,7 +75872,6 @@
   {
     "il": "Mersin",
     "ilce": "Mezitli",
-    "mahalle": null,
     "lat": 36.85772667882352,
     "lng": 34.38769026705882,
     "type": "ilce"
@@ -76639,7 +75879,6 @@
   {
     "il": "Mersin",
     "ilce": "Yenişehir",
-    "mahalle": null,
     "lat": 36.83071479999998,
     "lng": 34.528718608620686,
     "type": "ilce"
@@ -77579,7 +76818,6 @@
   {
     "il": "Mugla",
     "ilce": "Yatağan",
-    "mahalle": null,
     "lat": 37.358599021111125,
     "lng": 28.129836062222225,
     "type": "ilce"
@@ -77587,7 +76825,6 @@
   {
     "il": "Mugla",
     "ilce": "Kavaklıdere",
-    "mahalle": null,
     "lat": 37.47295763673471,
     "lng": 28.336310339795926,
     "type": "ilce"
@@ -77595,7 +76832,6 @@
   {
     "il": "Mugla",
     "ilce": "Datça",
-    "mahalle": null,
     "lat": 36.74053347056276,
     "lng": 27.690590809956706,
     "type": "ilce"
@@ -77603,7 +76839,6 @@
   {
     "il": "Mugla",
     "ilce": "Bodrum",
-    "mahalle": null,
     "lat": 36.97395216666666,
     "lng": 27.59322903333334,
     "type": "ilce"
@@ -77611,7 +76846,6 @@
   {
     "il": "Mugla",
     "ilce": "Milas",
-    "mahalle": null,
     "lat": 37.260372720329634,
     "lng": 27.696851431043946,
     "type": "ilce"
@@ -77619,7 +76853,6 @@
   {
     "il": "Mugla",
     "ilce": "Marmaris",
-    "mahalle": null,
     "lat": 36.718324571428575,
     "lng": 28.021543571428573,
     "type": "ilce"
@@ -77627,7 +76860,6 @@
   {
     "il": "Mugla",
     "ilce": "Menteşe",
-    "mahalle": null,
     "lat": 37.21188420804196,
     "lng": 28.481917501048954,
     "type": "ilce"
@@ -77635,7 +76867,6 @@
   {
     "il": "Mugla",
     "ilce": "Ula",
-    "mahalle": null,
     "lat": 37.08744806250001,
     "lng": 28.514115190000002,
     "type": "ilce"
@@ -77643,7 +76874,6 @@
   {
     "il": "Mugla",
     "ilce": "Köyceğiz",
-    "mahalle": null,
     "lat": 36.95888602687751,
     "lng": 28.707721411067187,
     "type": "ilce"
@@ -77651,7 +76881,6 @@
   {
     "il": "Mugla",
     "ilce": "Ortaca",
-    "mahalle": null,
     "lat": 36.7900201423729,
     "lng": 28.705646066101693,
     "type": "ilce"
@@ -77659,7 +76888,6 @@
   {
     "il": "Mugla",
     "ilce": "Dalaman",
-    "mahalle": null,
     "lat": 36.66240706363636,
     "lng": 28.899400254545455,
     "type": "ilce"
@@ -77667,7 +76895,6 @@
   {
     "il": "Mugla",
     "ilce": "Fethiye",
-    "mahalle": null,
     "lat": 36.658776616666664,
     "lng": 29.04825695,
     "type": "ilce"
@@ -77675,7 +76902,6 @@
   {
     "il": "Mugla",
     "ilce": "Seydikemer",
-    "mahalle": null,
     "lat": 36.63531752899023,
     "lng": 29.427308995439734,
     "type": "ilce"
@@ -77683,7 +76909,6 @@
   {
     "il": "Mugla",
     "ilce": "Περιφερειακή Ενότητα Καλύμνου",
-    "mahalle": null,
     "lat": 37.38351874096386,
     "lng": 27.002098742168677,
     "type": "ilce"
@@ -77945,7 +77170,6 @@
   {
     "il": "Mus",
     "ilce": "Bulanık",
-    "mahalle": null,
     "lat": 39.08252415074627,
     "lng": 42.18367186716418,
     "type": "ilce"
@@ -77953,7 +77177,6 @@
   {
     "il": "Mus",
     "ilce": "Hasköy",
-    "mahalle": null,
     "lat": 38.639764790624994,
     "lng": 41.77536115937501,
     "type": "ilce"
@@ -77961,7 +77184,6 @@
   {
     "il": "Mus",
     "ilce": "Korkut",
-    "mahalle": null,
     "lat": 38.77306131086957,
     "lng": 41.897656976086964,
     "type": "ilce"
@@ -77969,7 +77191,6 @@
   {
     "il": "Mus",
     "ilce": "Malazgirt",
-    "mahalle": null,
     "lat": 39.21641793239436,
     "lng": 42.47090998732395,
     "type": "ilce"
@@ -77977,7 +77198,6 @@
   {
     "il": "Mus",
     "ilce": "Muş Merkez",
-    "mahalle": null,
     "lat": 38.82040225324676,
     "lng": 41.50242285194805,
     "type": "ilce"
@@ -77985,7 +77205,6 @@
   {
     "il": "Mus",
     "ilce": "Varto",
-    "mahalle": null,
     "lat": 39.16724117407407,
     "lng": 41.48490985925924,
     "type": "ilce"
@@ -78154,7 +77373,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Kozaklı",
-    "mahalle": null,
     "lat": 39.20288959,
     "lng": 34.79337395444445,
     "type": "ilce"
@@ -78162,7 +77380,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Avanos",
-    "mahalle": null,
     "lat": 38.87294676447368,
     "lng": 34.89361339210526,
     "type": "ilce"
@@ -78170,7 +77387,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Hacıbektaş",
-    "mahalle": null,
     "lat": 38.99478530113635,
     "lng": 34.61405972045455,
     "type": "ilce"
@@ -78178,7 +77394,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Ürgüp",
-    "mahalle": null,
     "lat": 38.58043636666667,
     "lng": 34.958111833333334,
     "type": "ilce"
@@ -78186,7 +77401,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Derinkuyu",
-    "mahalle": null,
     "lat": 38.4952312625,
     "lng": 34.8601312625,
     "type": "ilce"
@@ -78194,7 +77408,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Nevşehir Merkez",
-    "mahalle": null,
     "lat": 38.597841329487174,
     "lng": 34.65605756282051,
     "type": "ilce"
@@ -78202,7 +77415,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Acıgöl",
-    "mahalle": null,
     "lat": 38.56101612,
     "lng": 34.487161644000004,
     "type": "ilce"
@@ -78210,7 +77422,6 @@
   {
     "il": "Nevsehir",
     "ilce": "Gülşehir",
-    "mahalle": null,
     "lat": 38.64258455000001,
     "lng": 34.3943324375,
     "type": "ilce"
@@ -79502,7 +78713,6 @@
   {
     "il": "Nigde",
     "ilce": "Ulukışla",
-    "mahalle": null,
     "lat": 37.56664555,
     "lng": 34.60591558863635,
     "type": "ilce"
@@ -79510,7 +78720,6 @@
   {
     "il": "Nigde",
     "ilce": "Çamardı",
-    "mahalle": null,
     "lat": 37.86824247021276,
     "lng": 35.05265528936169,
     "type": "ilce"
@@ -79518,7 +78727,6 @@
   {
     "il": "Nigde",
     "ilce": "Bor",
-    "mahalle": null,
     "lat": 37.890566688461554,
     "lng": 34.458275162820506,
     "type": "ilce"
@@ -79526,7 +78734,6 @@
   {
     "il": "Nigde",
     "ilce": "Altunhisar",
-    "mahalle": null,
     "lat": 38.02938337105263,
     "lng": 34.27540399736842,
     "type": "ilce"
@@ -79534,7 +78741,6 @@
   {
     "il": "Nigde",
     "ilce": "Niğde Merkez",
-    "mahalle": null,
     "lat": 38.13716495425531,
     "lng": 34.82319069680851,
     "type": "ilce"
@@ -79542,7 +78748,6 @@
   {
     "il": "Nigde",
     "ilce": "Çiftlik",
-    "mahalle": null,
     "lat": 38.18325907391305,
     "lng": 34.45911785652174,
     "type": "ilce"
@@ -79683,7 +78888,6 @@
   {
     "il": "Ordu",
     "ilce": "İkizce",
-    "mahalle": null,
     "lat": 41.02459207228262,
     "lng": 37.00821241793481,
     "type": "ilce"
@@ -79691,7 +78895,6 @@
   {
     "il": "Ordu",
     "ilce": "Çaybaşı",
-    "mahalle": null,
     "lat": 40.97858525873018,
     "lng": 37.04888541825397,
     "type": "ilce"
@@ -79699,7 +78902,6 @@
   {
     "il": "Ordu",
     "ilce": "Ünye",
-    "mahalle": null,
     "lat": 41.00015913479857,
     "lng": 37.217707442490806,
     "type": "ilce"
@@ -79707,7 +78909,6 @@
   {
     "il": "Ordu",
     "ilce": "Mesudiye",
-    "mahalle": null,
     "lat": 40.53636003079367,
     "lng": 37.790846690158695,
     "type": "ilce"
@@ -79715,7 +78916,6 @@
   {
     "il": "Ordu",
     "ilce": "Kabadüz",
-    "mahalle": null,
     "lat": 40.699972048771926,
     "lng": 37.94941181263158,
     "type": "ilce"
@@ -79723,7 +78923,6 @@
   {
     "il": "Ordu",
     "ilce": "Akkuş",
-    "mahalle": null,
     "lat": 40.82155983954801,
     "lng": 36.9307132274011,
     "type": "ilce"
@@ -79731,7 +78930,6 @@
   {
     "il": "Ordu",
     "ilce": "Aybastı",
-    "mahalle": null,
     "lat": 40.64476591352941,
     "lng": 37.39163926647058,
     "type": "ilce"
@@ -79739,7 +78937,6 @@
   {
     "il": "Ordu",
     "ilce": "Fatsa",
-    "mahalle": null,
     "lat": 40.9600373530435,
     "lng": 37.492564258840595,
     "type": "ilce"
@@ -79747,7 +78944,6 @@
   {
     "il": "Ordu",
     "ilce": "Gölköy",
-    "mahalle": null,
     "lat": 40.67420829244444,
     "lng": 37.58414477955554,
     "type": "ilce"
@@ -79755,7 +78951,6 @@
   {
     "il": "Ordu",
     "ilce": "Gülyalı",
-    "mahalle": null,
     "lat": 40.940988199999985,
     "lng": 38.0488235807229,
     "type": "ilce"
@@ -79763,7 +78958,6 @@
   {
     "il": "Ordu",
     "ilce": "Gürgentepe",
-    "mahalle": null,
     "lat": 40.82438648509614,
     "lng": 37.58895092692308,
     "type": "ilce"
@@ -79771,7 +78965,6 @@
   {
     "il": "Ordu",
     "ilce": "Kabataş",
-    "mahalle": null,
     "lat": 40.68813555833333,
     "lng": 37.3140895375,
     "type": "ilce"
@@ -79779,7 +78972,6 @@
   {
     "il": "Ordu",
     "ilce": "Korgan",
-    "mahalle": null,
     "lat": 40.74784044920634,
     "lng": 37.299784486772495,
     "type": "ilce"
@@ -79787,7 +78979,6 @@
   {
     "il": "Ordu",
     "ilce": "Kumru",
-    "mahalle": null,
     "lat": 40.85206760539418,
     "lng": 37.2408192834025,
     "type": "ilce"
@@ -79795,7 +78986,6 @@
   {
     "il": "Ordu",
     "ilce": "Altınordu",
-    "mahalle": null,
     "lat": 40.8856434436747,
     "lng": 37.87953621325304,
     "type": "ilce"
@@ -79803,7 +78993,6 @@
   {
     "il": "Ordu",
     "ilce": "Perşembe",
-    "mahalle": null,
     "lat": 41.013839222549,
     "lng": 37.70024004754902,
     "type": "ilce"
@@ -79811,7 +79000,6 @@
   {
     "il": "Ordu",
     "ilce": "Ulubey",
-    "mahalle": null,
     "lat": 40.82013810792078,
     "lng": 37.756441832673254,
     "type": "ilce"
@@ -79819,7 +79007,6 @@
   {
     "il": "Ordu",
     "ilce": "Çamaş",
-    "mahalle": null,
     "lat": 40.88906307685186,
     "lng": 37.53093370370372,
     "type": "ilce"
@@ -79827,7 +79014,6 @@
   {
     "il": "Ordu",
     "ilce": "Çatalpınar",
-    "mahalle": null,
     "lat": 40.85338854218751,
     "lng": 37.45032199453125,
     "type": "ilce"
@@ -85867,7 +85053,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Bahçe",
-    "mahalle": null,
     "lat": 37.19519433928571,
     "lng": 36.58200538571428,
     "type": "ilce"
@@ -85875,7 +85060,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Toprakkale",
-    "mahalle": null,
     "lat": 37.0577876826087,
     "lng": 36.12225946521739,
     "type": "ilce"
@@ -85883,7 +85067,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Hasanbeyli",
-    "mahalle": null,
     "lat": 37.109155593939384,
     "lng": 36.531027418181814,
     "type": "ilce"
@@ -85891,7 +85074,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Osmaniye Merkez",
-    "mahalle": null,
     "lat": 37.10391395263157,
     "lng": 36.28011044561403,
     "type": "ilce"
@@ -85899,7 +85081,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Sumbas",
-    "mahalle": null,
     "lat": 37.51837805000001,
     "lng": 36.021672281250005,
     "type": "ilce"
@@ -85907,7 +85088,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Kadirli",
-    "mahalle": null,
     "lat": 37.43313957538461,
     "lng": 36.123391483076944,
     "type": "ilce"
@@ -85915,7 +85095,6 @@
   {
     "il": "Osmaniye",
     "ilce": "Düziçi",
-    "mahalle": null,
     "lat": 37.305600595652166,
     "lng": 36.443123480434785,
     "type": "ilce"
@@ -86158,7 +85337,6 @@
   {
     "il": "Rize",
     "ilce": "İkizdere",
-    "mahalle": null,
     "lat": 40.683216124216514,
     "lng": 40.65141159401711,
     "type": "ilce"
@@ -86166,7 +85344,6 @@
   {
     "il": "Rize",
     "ilce": "Ardeşen",
-    "mahalle": null,
     "lat": 41.10465127121212,
     "lng": 41.12327042954542,
     "type": "ilce"
@@ -86174,7 +85351,6 @@
   {
     "il": "Rize",
     "ilce": "Fındıklı",
-    "mahalle": null,
     "lat": 41.19622754171779,
     "lng": 41.23733136073619,
     "type": "ilce"
@@ -86182,7 +85358,6 @@
   {
     "il": "Rize",
     "ilce": "Derepazarı",
-    "mahalle": null,
     "lat": 41.00051935679012,
     "lng": 40.4264039580247,
     "type": "ilce"
@@ -86190,7 +85365,6 @@
   {
     "il": "Rize",
     "ilce": "Güneysu",
-    "mahalle": null,
     "lat": 40.947668433125024,
     "lng": 40.649026711874995,
     "type": "ilce"
@@ -86198,7 +85372,6 @@
   {
     "il": "Rize",
     "ilce": "Hemşin",
-    "mahalle": null,
     "lat": 41.00448261847825,
     "lng": 40.88870052391304,
     "type": "ilce"
@@ -86206,7 +85379,6 @@
   {
     "il": "Rize",
     "ilce": "Kalkandere",
-    "mahalle": null,
     "lat": 40.90300588759124,
     "lng": 40.47714850948903,
     "type": "ilce"
@@ -86214,7 +85386,6 @@
   {
     "il": "Rize",
     "ilce": "Pazar",
-    "mahalle": null,
     "lat": 41.12312461421319,
     "lng": 40.9021336324873,
     "type": "ilce"
@@ -86222,7 +85393,6 @@
   {
     "il": "Rize",
     "ilce": "Rize Merkez",
-    "mahalle": null,
     "lat": 40.959097373501564,
     "lng": 40.5539652709779,
     "type": "ilce"
@@ -86230,7 +85400,6 @@
   {
     "il": "Rize",
     "ilce": "Çamlıhemşin",
-    "mahalle": null,
     "lat": 40.92124847500003,
     "lng": 41.01575828448278,
     "type": "ilce"
@@ -86238,7 +85407,6 @@
   {
     "il": "Rize",
     "ilce": "Çayeli",
-    "mahalle": null,
     "lat": 40.96235532437501,
     "lng": 40.7705350246875,
     "type": "ilce"
@@ -86246,7 +85414,6 @@
   {
     "il": "Rize",
     "ilce": "İyidere",
-    "mahalle": null,
     "lat": 40.99044713098591,
     "lng": 40.376491276056356,
     "type": "ilce"
@@ -90620,7 +89787,6 @@
   {
     "il": "Sakarya",
     "ilce": "Kandıra",
-    "mahalle": null,
     "lat": 41.034134258549216,
     "lng": 30.115566290673577,
     "type": "ilce"
@@ -90628,7 +89794,6 @@
   {
     "il": "Sakarya",
     "ilce": "İzmit",
-    "mahalle": null,
     "lat": 40.8511454576389,
     "lng": 30.059900741666656,
     "type": "ilce"
@@ -90636,7 +89801,6 @@
   {
     "il": "Sakarya",
     "ilce": "Kaynarca",
-    "mahalle": null,
     "lat": 41.0465477190476,
     "lng": 30.350131576190456,
     "type": "ilce"
@@ -90644,7 +89808,6 @@
   {
     "il": "Sakarya",
     "ilce": "Akyazı",
-    "mahalle": null,
     "lat": 40.63557700546873,
     "lng": 30.673624417968725,
     "type": "ilce"
@@ -90652,7 +89815,6 @@
   {
     "il": "Sakarya",
     "ilce": "Söğütlü",
-    "mahalle": null,
     "lat": 40.907484208433736,
     "lng": 30.484677325301213,
     "type": "ilce"
@@ -90660,7 +89822,6 @@
   {
     "il": "Sakarya",
     "ilce": "Geyve",
-    "mahalle": null,
     "lat": 40.48814895220591,
     "lng": 30.30645953014705,
     "type": "ilce"
@@ -90668,7 +89829,6 @@
   {
     "il": "Sakarya",
     "ilce": "Adapazarı",
-    "mahalle": null,
     "lat": 40.842914467123286,
     "lng": 30.38645453219179,
     "type": "ilce"
@@ -90676,7 +89836,6 @@
   {
     "il": "Sakarya",
     "ilce": "Taraklı",
-    "mahalle": null,
     "lat": 40.408748599999996,
     "lng": 30.520225605000004,
     "type": "ilce"
@@ -90684,7 +89843,6 @@
   {
     "il": "Sakarya",
     "ilce": "Ferizli",
-    "mahalle": null,
     "lat": 40.99527099189189,
     "lng": 30.5189313945946,
     "type": "ilce"
@@ -90692,7 +89850,6 @@
   {
     "il": "Sakarya",
     "ilce": "Hendek",
-    "mahalle": null,
     "lat": 40.81525607816899,
     "lng": 30.749386261971832,
     "type": "ilce"
@@ -90700,7 +89857,6 @@
   {
     "il": "Sakarya",
     "ilce": "Karapürçek",
-    "mahalle": null,
     "lat": 40.621745350000005,
     "lng": 30.518440099999996,
     "type": "ilce"
@@ -90708,7 +89864,6 @@
   {
     "il": "Sakarya",
     "ilce": "Kocaali",
-    "mahalle": null,
     "lat": 40.98231944651162,
     "lng": 30.856374996511626,
     "type": "ilce"
@@ -90716,7 +89871,6 @@
   {
     "il": "Sakarya",
     "ilce": "Arifiye",
-    "mahalle": null,
     "lat": 40.68783968679246,
     "lng": 30.379959356603777,
     "type": "ilce"
@@ -90724,7 +89878,6 @@
   {
     "il": "Sakarya",
     "ilce": "Erenler",
-    "mahalle": null,
     "lat": 40.71080126999998,
     "lng": 30.442331747500027,
     "type": "ilce"
@@ -90732,7 +89885,6 @@
   {
     "il": "Sakarya",
     "ilce": "Pamukova",
-    "mahalle": null,
     "lat": 40.513313917142845,
     "lng": 30.118039301428585,
     "type": "ilce"
@@ -90740,7 +89892,6 @@
   {
     "il": "Sakarya",
     "ilce": "Sapanca",
-    "mahalle": null,
     "lat": 40.653680151162796,
     "lng": 30.222966379069767,
     "type": "ilce"
@@ -90762,7 +89913,6 @@
   {
     "il": "Sakarya",
     "ilce": "Karasu",
-    "mahalle": null,
     "lat": 41.008905787301586,
     "lng": 30.652767586507938,
     "type": "ilce"
@@ -90770,7 +89920,6 @@
   {
     "il": "Sakarya",
     "ilce": "Serdivan",
-    "mahalle": null,
     "lat": 40.78716235396825,
     "lng": 30.296351147619042,
     "type": "ilce"
@@ -92291,7 +91440,6 @@
   {
     "il": "Samsun",
     "ilce": "Vezirköprü",
-    "mahalle": null,
     "lat": 41.189172516568036,
     "lng": 35.306642731360945,
     "type": "ilce"
@@ -92299,7 +91447,6 @@
   {
     "il": "Samsun",
     "ilce": "Alaçam",
-    "mahalle": null,
     "lat": 41.469361326999994,
     "lng": 35.551878527,
     "type": "ilce"
@@ -92307,7 +91454,6 @@
   {
     "il": "Samsun",
     "ilce": "Asarcık",
-    "mahalle": null,
     "lat": 41.01556783384615,
     "lng": 36.302493075384604,
     "type": "ilce"
@@ -92315,7 +91461,6 @@
   {
     "il": "Samsun",
     "ilce": "Atakum",
-    "mahalle": null,
     "lat": 41.32277204183674,
     "lng": 36.09807545306122,
     "type": "ilce"
@@ -92323,7 +91468,6 @@
   {
     "il": "Samsun",
     "ilce": "Ayvacık",
-    "mahalle": null,
     "lat": 40.955103988235294,
     "lng": 36.54723651764707,
     "type": "ilce"
@@ -92331,7 +91475,6 @@
   {
     "il": "Samsun",
     "ilce": "Bafra",
-    "mahalle": null,
     "lat": 41.41488124214283,
     "lng": 35.80437426071429,
     "type": "ilce"
@@ -92339,7 +91482,6 @@
   {
     "il": "Samsun",
     "ilce": "Canik",
-    "mahalle": null,
     "lat": 41.178678660655734,
     "lng": 36.30187639344261,
     "type": "ilce"
@@ -92347,7 +91489,6 @@
   {
     "il": "Samsun",
     "ilce": "Havza",
-    "mahalle": null,
     "lat": 41.06867671911764,
     "lng": 35.717325538235286,
     "type": "ilce"
@@ -92355,7 +91496,6 @@
   {
     "il": "Samsun",
     "ilce": "Kavak",
-    "mahalle": null,
     "lat": 41.13449339000001,
     "lng": 36.03667706600001,
     "type": "ilce"
@@ -92363,7 +91503,6 @@
   {
     "il": "Samsun",
     "ilce": "Ladik",
-    "mahalle": null,
     "lat": 40.92392616739128,
     "lng": 35.939610710869566,
     "type": "ilce"
@@ -92371,7 +91510,6 @@
   {
     "il": "Samsun",
     "ilce": "19 Mayıs",
-    "mahalle": null,
     "lat": 41.437153802631585,
     "lng": 36.03252947368421,
     "type": "ilce"
@@ -92379,7 +91517,6 @@
   {
     "il": "Samsun",
     "ilce": "Salıpazarı",
-    "mahalle": null,
     "lat": 41.02981447027028,
     "lng": 36.80680786486486,
     "type": "ilce"
@@ -92387,7 +91524,6 @@
   {
     "il": "Samsun",
     "ilce": "Tekkeköy",
-    "mahalle": null,
     "lat": 41.15216745000001,
     "lng": 36.47017722083334,
     "type": "ilce"
@@ -92395,7 +91531,6 @@
   {
     "il": "Samsun",
     "ilce": "Terme",
-    "mahalle": null,
     "lat": 41.13401213684211,
     "lng": 36.93472382894737,
     "type": "ilce"
@@ -92403,7 +91538,6 @@
   {
     "il": "Samsun",
     "ilce": "Yakakent",
-    "mahalle": null,
     "lat": 41.58531024545455,
     "lng": 35.430920436363635,
     "type": "ilce"
@@ -92411,7 +91545,6 @@
   {
     "il": "Samsun",
     "ilce": "Çarşamba",
-    "mahalle": null,
     "lat": 41.12997707116565,
     "lng": 36.6342119,
     "type": "ilce"
@@ -92419,7 +91552,6 @@
   {
     "il": "Samsun",
     "ilce": "İlkadım",
-    "mahalle": null,
     "lat": 41.246758329333325,
     "lng": 36.24589210933331,
     "type": "ilce"
@@ -93498,7 +92630,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Siverek",
-    "mahalle": null,
     "lat": 37.623784864516125,
     "lng": 39.33321253978493,
     "type": "ilce"
@@ -93506,7 +92637,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Viranşehir",
-    "mahalle": null,
     "lat": 37.26023876500001,
     "lng": 39.75135241583332,
     "type": "ilce"
@@ -93514,7 +92644,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Akçakale",
-    "mahalle": null,
     "lat": 36.82138144158415,
     "lng": 38.94284335247524,
     "type": "ilce"
@@ -93522,7 +92651,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Birecik",
-    "mahalle": null,
     "lat": 37.09225328999998,
     "lng": 38.12439735266664,
     "type": "ilce"
@@ -93530,7 +92658,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Bozova",
-    "mahalle": null,
     "lat": 37.297950356329125,
     "lng": 38.4131907050633,
     "type": "ilce"
@@ -93538,7 +92665,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Ceylanpınar",
-    "mahalle": null,
     "lat": 36.947508959633026,
     "lng": 39.843079537614685,
     "type": "ilce"
@@ -93546,7 +92672,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Halfeti",
-    "mahalle": null,
     "lat": 37.25985372476191,
     "lng": 38.042977534285725,
     "type": "ilce"
@@ -93554,7 +92679,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Harran",
-    "mahalle": null,
     "lat": 36.85169155157895,
     "lng": 39.20069044947369,
     "type": "ilce"
@@ -93562,7 +92686,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Hilvan",
-    "mahalle": null,
     "lat": 37.57434014482759,
     "lng": 38.92723034827586,
     "type": "ilce"
@@ -93570,7 +92693,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Suruç",
-    "mahalle": null,
     "lat": 37.000827970297024,
     "lng": 38.38785334653465,
     "type": "ilce"
@@ -93578,7 +92700,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Haliliye",
-    "mahalle": null,
     "lat": 37.16944643148148,
     "lng": 39.09390484135805,
     "type": "ilce"
@@ -93586,7 +92707,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Eyyübiye",
-    "mahalle": null,
     "lat": 37.007184771111135,
     "lng": 39.00477225422221,
     "type": "ilce"
@@ -93594,7 +92714,6 @@
   {
     "il": "Sanliurfa",
     "ilce": "Karaköprü",
-    "mahalle": null,
     "lat": 37.271835098285734,
     "lng": 38.650254240571435,
     "type": "ilce"
@@ -97975,7 +97094,6 @@
   {
     "il": "Siirt",
     "ilce": "Şirvan",
-    "mahalle": null,
     "lat": 38.0993872,
     "lng": 42.151806668000006,
     "type": "ilce"
@@ -97983,7 +97101,6 @@
   {
     "il": "Siirt",
     "ilce": "Siirt Merkez",
-    "mahalle": null,
     "lat": 37.87948353214286,
     "lng": 41.93780662857143,
     "type": "ilce"
@@ -97991,7 +97108,6 @@
   {
     "il": "Siirt",
     "ilce": "Pervari",
-    "mahalle": null,
     "lat": 37.8781463375,
     "lng": 42.500634471874996,
     "type": "ilce"
@@ -97999,7 +97115,6 @@
   {
     "il": "Siirt",
     "ilce": "Eruh",
-    "mahalle": null,
     "lat": 37.74646396999999,
     "lng": 42.15032861666667,
     "type": "ilce"
@@ -98007,7 +97122,6 @@
   {
     "il": "Siirt",
     "ilce": "Kurtalan",
-    "mahalle": null,
     "lat": 37.93005944285716,
     "lng": 41.63081678095238,
     "type": "ilce"
@@ -98015,7 +97129,6 @@
   {
     "il": "Siirt",
     "ilce": "Tillo",
-    "mahalle": null,
     "lat": 37.951342025,
     "lng": 42.047726100000006,
     "type": "ilce"
@@ -98023,7 +97136,6 @@
   {
     "il": "Siirt",
     "ilce": "Baykan",
-    "mahalle": null,
     "lat": 38.136003347058825,
     "lng": 41.77738377058824,
     "type": "ilce"
@@ -98122,7 +97234,6 @@
   {
     "il": "Sinop",
     "ilce": "Taşköprü",
-    "mahalle": null,
     "lat": 41.44724067795277,
     "lng": 34.217599040157495,
     "type": "ilce"
@@ -98130,7 +97241,6 @@
   {
     "il": "Sinop",
     "ilce": "Türkeli",
-    "mahalle": null,
     "lat": 41.86303180877193,
     "lng": 34.347703250877196,
     "type": "ilce"
@@ -98138,7 +97248,6 @@
   {
     "il": "Sinop",
     "ilce": "Ayancık",
-    "mahalle": null,
     "lat": 41.83804160843375,
     "lng": 34.596362792771075,
     "type": "ilce"
@@ -98146,7 +97255,6 @@
   {
     "il": "Sinop",
     "ilce": "Sinop Merkez",
-    "mahalle": null,
     "lat": 41.881736978,
     "lng": 35.00079013,
     "type": "ilce"
@@ -98154,7 +97262,6 @@
   {
     "il": "Sinop",
     "ilce": "Gerze",
-    "mahalle": null,
     "lat": 41.727396502666664,
     "lng": 35.09458333466666,
     "type": "ilce"
@@ -98162,7 +97269,6 @@
   {
     "il": "Sinop",
     "ilce": "Durağan",
-    "mahalle": null,
     "lat": 41.39350281397849,
     "lng": 35.19990629784946,
     "type": "ilce"
@@ -98170,7 +97276,6 @@
   {
     "il": "Sinop",
     "ilce": "Erfelek",
-    "mahalle": null,
     "lat": 41.84262545,
     "lng": 34.85761726935483,
     "type": "ilce"
@@ -98178,7 +97283,6 @@
   {
     "il": "Sinop",
     "ilce": "Saraydüzü",
-    "mahalle": null,
     "lat": 41.30553091666666,
     "lng": 34.79761277222223,
     "type": "ilce"
@@ -98186,7 +97290,6 @@
   {
     "il": "Sinop",
     "ilce": "Boyabat",
-    "mahalle": null,
     "lat": 41.516475791428576,
     "lng": 34.73184572952382,
     "type": "ilce"
@@ -98194,7 +97297,6 @@
   {
     "il": "Sinop",
     "ilce": "Dikmen",
-    "mahalle": null,
     "lat": 41.59672582592592,
     "lng": 35.26436461481481,
     "type": "ilce"
@@ -98342,7 +97444,6 @@
   {
     "il": "Sirnak",
     "ilce": "Beytüşşebap",
-    "mahalle": null,
     "lat": 37.56513175208334,
     "lng": 43.08903937291665,
     "type": "ilce"
@@ -98350,7 +97451,6 @@
   {
     "il": "Sirnak",
     "ilce": "Cizre",
-    "mahalle": null,
     "lat": 37.288007189583325,
     "lng": 42.14732778125,
     "type": "ilce"
@@ -98358,7 +97458,6 @@
   {
     "il": "Sirnak",
     "ilce": "Güçlükonak",
-    "mahalle": null,
     "lat": 37.527695611627905,
     "lng": 41.94797638604652,
     "type": "ilce"
@@ -98366,7 +97465,6 @@
   {
     "il": "Sirnak",
     "ilce": "Silopi",
-    "mahalle": null,
     "lat": 37.254366927999996,
     "lng": 42.514192636,
     "type": "ilce"
@@ -98374,7 +97472,6 @@
   {
     "il": "Sirnak",
     "ilce": "Uludere",
-    "mahalle": null,
     "lat": 37.393142946031745,
     "lng": 42.99914429523809,
     "type": "ilce"
@@ -98382,7 +97479,6 @@
   {
     "il": "Sirnak",
     "ilce": "İdil",
-    "mahalle": null,
     "lat": 37.32485781000001,
     "lng": 41.78910384714286,
     "type": "ilce"
@@ -98390,7 +97486,6 @@
   {
     "il": "Sirnak",
     "ilce": "Şırnak Merkez",
-    "mahalle": null,
     "lat": 37.55525512586207,
     "lng": 42.417450518965495,
     "type": "ilce"
@@ -98727,7 +97822,6 @@
   {
     "il": "Sivas",
     "ilce": "Şarkışla",
-    "mahalle": null,
     "lat": 39.39621655949366,
     "lng": 36.399698786075945,
     "type": "ilce"
@@ -98735,7 +97829,6 @@
   {
     "il": "Sivas",
     "ilce": "Gemerek",
-    "mahalle": null,
     "lat": 39.27982078412696,
     "lng": 36.11299994761904,
     "type": "ilce"
@@ -98743,7 +97836,6 @@
   {
     "il": "Sivas",
     "ilce": "Yıldızeli",
-    "mahalle": null,
     "lat": 39.892158266666655,
     "lng": 36.04227055555556,
     "type": "ilce"
@@ -98751,7 +97843,6 @@
   {
     "il": "Sivas",
     "ilce": "Sivas Merkez",
-    "mahalle": null,
     "lat": 39.72224665583334,
     "lng": 36.96082958999999,
     "type": "ilce"
@@ -98759,7 +97850,6 @@
   {
     "il": "Sivas",
     "ilce": "Kangal",
-    "mahalle": null,
     "lat": 39.15961638749999,
     "lng": 37.365843692708324,
     "type": "ilce"
@@ -98767,7 +97857,6 @@
   {
     "il": "Sivas",
     "ilce": "Divriği",
-    "mahalle": null,
     "lat": 39.40705506455695,
     "lng": 38.029558663291134,
     "type": "ilce"
@@ -98775,7 +97864,6 @@
   {
     "il": "Sivas",
     "ilce": "Zara",
-    "mahalle": null,
     "lat": 39.797202609090895,
     "lng": 37.745573714141415,
     "type": "ilce"
@@ -98783,7 +97871,6 @@
   {
     "il": "Sivas",
     "ilce": "Koyulhisar",
-    "mahalle": null,
     "lat": 40.33749268437501,
     "lng": 37.8868074390625,
     "type": "ilce"
@@ -98791,7 +97878,6 @@
   {
     "il": "Sivas",
     "ilce": "Suşehri",
-    "mahalle": null,
     "lat": 40.16751870000002,
     "lng": 38.1390666,
     "type": "ilce"
@@ -98799,7 +97885,6 @@
   {
     "il": "Sivas",
     "ilce": "İmranlı",
-    "mahalle": null,
     "lat": 39.78893664339622,
     "lng": 38.17732220000001,
     "type": "ilce"
@@ -98807,7 +97892,6 @@
   {
     "il": "Sivas",
     "ilce": "Akıncılar",
-    "mahalle": null,
     "lat": 40.067640894117645,
     "lng": 38.38052948529411,
     "type": "ilce"
@@ -98815,7 +97899,6 @@
   {
     "il": "Sivas",
     "ilce": "Gölova",
-    "mahalle": null,
     "lat": 40.040633541666665,
     "lng": 38.581048166666676,
     "type": "ilce"
@@ -98823,7 +97906,6 @@
   {
     "il": "Sivas",
     "ilce": "Gürün",
-    "mahalle": null,
     "lat": 38.78925046153845,
     "lng": 37.13487115897436,
     "type": "ilce"
@@ -98831,7 +97913,6 @@
   {
     "il": "Sivas",
     "ilce": "Altınyayla",
-    "mahalle": null,
     "lat": 39.257966381578946,
     "lng": 36.768949613157886,
     "type": "ilce"
@@ -98839,7 +97920,6 @@
   {
     "il": "Sivas",
     "ilce": "Hafik",
-    "mahalle": null,
     "lat": 39.92070311445783,
     "lng": 37.38605616265059,
     "type": "ilce"
@@ -98847,7 +97927,6 @@
   {
     "il": "Sivas",
     "ilce": "Ulaş",
-    "mahalle": null,
     "lat": 39.4234963515625,
     "lng": 37.1240997390625,
     "type": "ilce"
@@ -98855,7 +97934,6 @@
   {
     "il": "Sivas",
     "ilce": "Hekimhan",
-    "mahalle": null,
     "lat": 38.84066043880598,
     "lng": 37.93028945522388,
     "type": "ilce"
@@ -98863,7 +97941,6 @@
   {
     "il": "Sivas",
     "ilce": "Kuluncak",
-    "mahalle": null,
     "lat": 38.856762576086965,
     "lng": 37.67343105434784,
     "type": "ilce"
@@ -98871,7 +97948,6 @@
   {
     "il": "Sivas",
     "ilce": "Doğanşar",
-    "mahalle": null,
     "lat": 40.14508195405406,
     "lng": 37.553034164864876,
     "type": "ilce"
@@ -99591,7 +98667,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Hayrabolu",
-    "mahalle": null,
     "lat": 41.20664136639347,
     "lng": 27.112294061065565,
     "type": "ilce"
@@ -99599,7 +98674,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Malkara",
-    "mahalle": null,
     "lat": 40.90677218088891,
     "lng": 26.93130214533333,
     "type": "ilce"
@@ -99607,7 +98681,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Marmaraereğlisi",
-    "mahalle": null,
     "lat": 41.03965282857142,
     "lng": 27.879415253061207,
     "type": "ilce"
@@ -99615,7 +98688,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Muratlı",
-    "mahalle": null,
     "lat": 41.16134585323739,
     "lng": 27.487436099999993,
     "type": "ilce"
@@ -99623,7 +98695,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Saray",
-    "mahalle": null,
     "lat": 41.450173661835734,
     "lng": 27.901873828985487,
     "type": "ilce"
@@ -99631,7 +98702,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Süleymanpaşa",
-    "mahalle": null,
     "lat": 40.9944608014493,
     "lng": 27.374872758454096,
     "type": "ilce"
@@ -99639,7 +98709,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Çerkezköy",
-    "mahalle": null,
     "lat": 41.27143100615384,
     "lng": 27.99062496461538,
     "type": "ilce"
@@ -99647,7 +98716,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Çorlu",
-    "mahalle": null,
     "lat": 41.11157855207102,
     "lng": 27.825748418343192,
     "type": "ilce"
@@ -99655,7 +98723,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Şarköy",
-    "mahalle": null,
     "lat": 40.70684719496857,
     "lng": 27.136831756603765,
     "type": "ilce"
@@ -99663,7 +98730,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Ergene",
-    "mahalle": null,
     "lat": 41.27574074999998,
     "lng": 27.739555827272735,
     "type": "ilce"
@@ -99671,7 +98737,6 @@
   {
     "il": "Tekirdag",
     "ilce": "Kapaklı",
-    "mahalle": null,
     "lat": 41.337003763636346,
     "lng": 27.93917440454545,
     "type": "ilce"
@@ -101196,7 +100261,6 @@
   {
     "il": "Tokat",
     "ilce": "Erbaa",
-    "mahalle": null,
     "lat": 40.704582642142846,
     "lng": 36.590864761428556,
     "type": "ilce"
@@ -101204,7 +100268,6 @@
   {
     "il": "Tokat",
     "ilce": "Başçiftlik",
-    "mahalle": null,
     "lat": 40.5364437755814,
     "lng": 37.1334328383721,
     "type": "ilce"
@@ -101212,7 +100275,6 @@
   {
     "il": "Tokat",
     "ilce": "Reşadiye",
-    "mahalle": null,
     "lat": 40.43736259500002,
     "lng": 37.37050597833334,
     "type": "ilce"
@@ -101220,7 +100282,6 @@
   {
     "il": "Tokat",
     "ilce": "Niksar",
-    "mahalle": null,
     "lat": 40.58283784022987,
     "lng": 36.98770982643679,
     "type": "ilce"
@@ -101228,7 +100289,6 @@
   {
     "il": "Tokat",
     "ilce": "Almus",
-    "mahalle": null,
     "lat": 40.30081905144929,
     "lng": 37.0992673101449,
     "type": "ilce"
@@ -101236,7 +100296,6 @@
   {
     "il": "Tokat",
     "ilce": "Sulusaray",
-    "mahalle": null,
     "lat": 39.98088912916668,
     "lng": 36.056911763888905,
     "type": "ilce"
@@ -101244,7 +100303,6 @@
   {
     "il": "Tokat",
     "ilce": "Yeşilyurt",
-    "mahalle": null,
     "lat": 39.991850466176466,
     "lng": 36.238724649999995,
     "type": "ilce"
@@ -101252,7 +100310,6 @@
   {
     "il": "Tokat",
     "ilce": "Artova",
-    "mahalle": null,
     "lat": 40.12852312328767,
     "lng": 36.2574203,
     "type": "ilce"
@@ -101260,7 +100317,6 @@
   {
     "il": "Tokat",
     "ilce": "Pazar",
-    "mahalle": null,
     "lat": 40.246863571153845,
     "lng": 36.22935126538463,
     "type": "ilce"
@@ -101268,7 +100324,6 @@
   {
     "il": "Tokat",
     "ilce": "Tokat Merkez",
-    "mahalle": null,
     "lat": 40.290125739080466,
     "lng": 36.586971967241396,
     "type": "ilce"
@@ -101276,7 +100331,6 @@
   {
     "il": "Tokat",
     "ilce": "Turhal",
-    "mahalle": null,
     "lat": 40.40287251564626,
     "lng": 36.145731985714285,
     "type": "ilce"
@@ -101284,7 +100338,6 @@
   {
     "il": "Tokat",
     "ilce": "Zile",
-    "mahalle": null,
     "lat": 40.22824028231291,
     "lng": 35.78900765646259,
     "type": "ilce"
@@ -101908,7 +100961,6 @@
   {
     "il": "Trabzon",
     "ilce": "Hayrat",
-    "mahalle": null,
     "lat": 40.777435551219504,
     "lng": 40.39681288292682,
     "type": "ilce"
@@ -101916,7 +100968,6 @@
   {
     "il": "Trabzon",
     "ilce": "Beşikdüzü",
-    "mahalle": null,
     "lat": 41.00709175555557,
     "lng": 39.19806894166666,
     "type": "ilce"
@@ -101924,7 +100975,6 @@
   {
     "il": "Trabzon",
     "ilce": "Düzköy",
-    "mahalle": null,
     "lat": 40.8391633537037,
     "lng": 39.39200672407407,
     "type": "ilce"
@@ -101932,7 +100982,6 @@
   {
     "il": "Trabzon",
     "ilce": "Dernekpazarı",
-    "mahalle": null,
     "lat": 40.783221459574484,
     "lng": 40.2499741638298,
     "type": "ilce"
@@ -101940,7 +100989,6 @@
   {
     "il": "Trabzon",
     "ilce": "Yomra",
-    "mahalle": null,
     "lat": 40.84593668958333,
     "lng": 39.83281276458333,
     "type": "ilce"
@@ -101948,7 +100996,6 @@
   {
     "il": "Trabzon",
     "ilce": "Tonya",
-    "mahalle": null,
     "lat": 40.858752052173905,
     "lng": 39.28602720869564,
     "type": "ilce"
@@ -101956,7 +101003,6 @@
   {
     "il": "Trabzon",
     "ilce": "Köprübaşı",
-    "mahalle": null,
     "lat": 40.70313058245614,
     "lng": 40.115657519298246,
     "type": "ilce"
@@ -101964,7 +101010,6 @@
   {
     "il": "Trabzon",
     "ilce": "Vakfıkebir",
-    "mahalle": null,
     "lat": 40.98132062499999,
     "lng": 39.32762682916667,
     "type": "ilce"
@@ -101972,7 +101017,6 @@
   {
     "il": "Trabzon",
     "ilce": "Araklı",
-    "mahalle": null,
     "lat": 40.732040759139785,
     "lng": 39.97168745698924,
     "type": "ilce"
@@ -101980,7 +101024,6 @@
   {
     "il": "Trabzon",
     "ilce": "Maçka",
-    "mahalle": null,
     "lat": 40.75353372755103,
     "lng": 39.5583712622449,
     "type": "ilce"
@@ -101988,7 +101031,6 @@
   {
     "il": "Trabzon",
     "ilce": "Sürmene",
-    "mahalle": null,
     "lat": 40.82625722711864,
     "lng": 40.112824789830505,
     "type": "ilce"
@@ -101996,7 +101038,6 @@
   {
     "il": "Trabzon",
     "ilce": "Of",
-    "mahalle": null,
     "lat": 40.87249795000002,
     "lng": 40.33802702317074,
     "type": "ilce"
@@ -102004,7 +101045,6 @@
   {
     "il": "Trabzon",
     "ilce": "Arsin",
-    "mahalle": null,
     "lat": 40.847441534782604,
     "lng": 39.92373306304348,
     "type": "ilce"
@@ -102012,7 +101052,6 @@
   {
     "il": "Trabzon",
     "ilce": "Akçaabat",
-    "mahalle": null,
     "lat": 40.953549275,
     "lng": 39.50411232875,
     "type": "ilce"
@@ -102020,7 +101059,6 @@
   {
     "il": "Trabzon",
     "ilce": "Ortahisar",
-    "mahalle": null,
     "lat": 40.932348588571415,
     "lng": 39.728712759999986,
     "type": "ilce"
@@ -102028,7 +101066,6 @@
   {
     "il": "Trabzon",
     "ilce": "Çaykara",
-    "mahalle": null,
     "lat": 40.643375031460685,
     "lng": 40.28954157415731,
     "type": "ilce"
@@ -102036,7 +101073,6 @@
   {
     "il": "Trabzon",
     "ilce": "Çarşıbaşı",
-    "mahalle": null,
     "lat": 41.02951051578947,
     "lng": 39.40717713947368,
     "type": "ilce"
@@ -102044,7 +101080,6 @@
   {
     "il": "Trabzon",
     "ilce": "Şalpazarı",
-    "mahalle": null,
     "lat": 40.86646352542373,
     "lng": 39.18757080677966,
     "type": "ilce"
@@ -102490,7 +101525,6 @@
   {
     "il": "Tunceli",
     "ilce": "Hozat",
-    "mahalle": null,
     "lat": 39.12546587391305,
     "lng": 39.15718953043478,
     "type": "ilce"
@@ -102498,7 +101532,6 @@
   {
     "il": "Tunceli",
     "ilce": "Mazgirt",
-    "mahalle": null,
     "lat": 38.94503813478261,
     "lng": 39.70313656956522,
     "type": "ilce"
@@ -102506,7 +101539,6 @@
   {
     "il": "Tunceli",
     "ilce": "Nazımiye",
-    "mahalle": null,
     "lat": 39.19237264210526,
     "lng": 39.864600294736846,
     "type": "ilce"
@@ -102514,7 +101546,6 @@
   {
     "il": "Tunceli",
     "ilce": "Ovacık",
-    "mahalle": null,
     "lat": 39.34751384166666,
     "lng": 39.21309267777778,
     "type": "ilce"
@@ -102522,7 +101553,6 @@
   {
     "il": "Tunceli",
     "ilce": "Pertek",
-    "mahalle": null,
     "lat": 38.905063204,
     "lng": 39.305367176000004,
     "type": "ilce"
@@ -102530,7 +101560,6 @@
   {
     "il": "Tunceli",
     "ilce": "Pülümür",
-    "mahalle": null,
     "lat": 39.470231693333325,
     "lng": 40.015126823333325,
     "type": "ilce"
@@ -102538,7 +101567,6 @@
   {
     "il": "Tunceli",
     "ilce": "Tunceli Merkez",
-    "mahalle": null,
     "lat": 39.13038461515152,
     "lng": 39.57146537272726,
     "type": "ilce"
@@ -102546,7 +101574,6 @@
   {
     "il": "Tunceli",
     "ilce": "Çemişgezek",
-    "mahalle": null,
     "lat": 39.04743377916667,
     "lng": 38.90617364583333,
     "type": "ilce"
@@ -102554,7 +101581,6 @@
   {
     "il": "Tunceli",
     "ilce": "Keban",
-    "mahalle": null,
     "lat": 38.767145710714296,
     "lng": 38.73001768214285,
     "type": "ilce"
@@ -102631,7 +101657,6 @@
   {
     "il": "Usak",
     "ilce": "Uşak Merkez",
-    "mahalle": null,
     "lat": 38.68988860208333,
     "lng": 29.26513630416667,
     "type": "ilce"
@@ -102639,7 +101664,6 @@
   {
     "il": "Usak",
     "ilce": "Eşme",
-    "mahalle": null,
     "lat": 38.43188962903226,
     "lng": 28.987197006451613,
     "type": "ilce"
@@ -102647,7 +101671,6 @@
   {
     "il": "Usak",
     "ilce": "Sivaslı",
-    "mahalle": null,
     "lat": 38.49235087894737,
     "lng": 29.658920994736842,
     "type": "ilce"
@@ -102655,7 +101678,6 @@
   {
     "il": "Usak",
     "ilce": "Ulubey",
-    "mahalle": null,
     "lat": 38.39592861923077,
     "lng": 29.262151930769228,
     "type": "ilce"
@@ -102663,7 +101685,6 @@
   {
     "il": "Usak",
     "ilce": "Banaz",
-    "mahalle": null,
     "lat": 38.77373341199999,
     "lng": 29.776655511999998,
     "type": "ilce"
@@ -102671,7 +101692,6 @@
   {
     "il": "Usak",
     "ilce": "Karahallı",
-    "mahalle": null,
     "lat": 38.360533158823536,
     "lng": 29.5268065117647,
     "type": "ilce"
@@ -102679,7 +101699,6 @@
   {
     "il": "Usak",
     "ilce": "Şaphane",
-    "mahalle": null,
     "lat": 38.94486757222223,
     "lng": 29.179929505555556,
     "type": "ilce"
@@ -102687,7 +101706,6 @@
   {
     "il": "Usak",
     "ilce": "Kula",
-    "mahalle": null,
     "lat": 38.57463994827586,
     "lng": 28.659717248275868,
     "type": "ilce"
@@ -102695,7 +101713,6 @@
   {
     "il": "Usak",
     "ilce": "Selendi",
-    "mahalle": null,
     "lat": 38.798137374999996,
     "lng": 28.870169541666666,
     "type": "ilce"
@@ -102850,7 +101867,6 @@
   {
     "il": "Van",
     "ilce": "Başkale",
-    "mahalle": null,
     "lat": 38.04608328617886,
     "lng": 44.18341964227643,
     "type": "ilce"
@@ -102858,7 +101874,6 @@
   {
     "il": "Van",
     "ilce": "Tuşba",
-    "mahalle": null,
     "lat": 38.708873492156854,
     "lng": 43.3799344490196,
     "type": "ilce"
@@ -102866,7 +101881,6 @@
   {
     "il": "Van",
     "ilce": "Gürpınar",
-    "mahalle": null,
     "lat": 38.17729912522523,
     "lng": 43.62288872972973,
     "type": "ilce"
@@ -102874,7 +101888,6 @@
   {
     "il": "Van",
     "ilce": "Bahçesaray",
-    "mahalle": null,
     "lat": 38.11516271333334,
     "lng": 42.81277864222222,
     "type": "ilce"
@@ -102882,7 +101895,6 @@
   {
     "il": "Van",
     "ilce": "Edremit",
-    "mahalle": null,
     "lat": 38.4021476585366,
     "lng": 43.335747870731694,
     "type": "ilce"
@@ -102890,7 +101902,6 @@
   {
     "il": "Van",
     "ilce": "Gevaş",
-    "mahalle": null,
     "lat": 38.29209823661972,
     "lng": 42.987115739436625,
     "type": "ilce"
@@ -102898,7 +101909,6 @@
   {
     "il": "Van",
     "ilce": "Çatak",
-    "mahalle": null,
     "lat": 38.02582471195651,
     "lng": 43.09380305108694,
     "type": "ilce"
@@ -102906,7 +101916,6 @@
   {
     "il": "Van",
     "ilce": "Erciş",
-    "mahalle": null,
     "lat": 39.14388945714286,
     "lng": 43.332629133928585,
     "type": "ilce"
@@ -102914,7 +101923,6 @@
   {
     "il": "Van",
     "ilce": "Muradiye",
-    "mahalle": null,
     "lat": 38.958455842372885,
     "lng": 43.70620156101695,
     "type": "ilce"
@@ -102922,7 +101930,6 @@
   {
     "il": "Van",
     "ilce": "Saray",
-    "mahalle": null,
     "lat": 38.51778103582089,
     "lng": 44.198608674626854,
     "type": "ilce"
@@ -102930,7 +101937,6 @@
   {
     "il": "Van",
     "ilce": "Çaldıran",
-    "mahalle": null,
     "lat": 39.105904139436625,
     "lng": 44.03663963521126,
     "type": "ilce"
@@ -102938,7 +101944,6 @@
   {
     "il": "Van",
     "ilce": "Özalp",
-    "mahalle": null,
     "lat": 38.742482775903596,
     "lng": 44.02525405783132,
     "type": "ilce"
@@ -102946,7 +101951,6 @@
   {
     "il": "Van",
     "ilce": "İpekyolu",
-    "mahalle": null,
     "lat": 38.57095138888888,
     "lng": 43.58223009012348,
     "type": "ilce"
@@ -102954,7 +101958,6 @@
   {
     "il": "Van",
     "ilce": "بخش کوهسار",
-    "mahalle": null,
     "lat": 38.06056395972222,
     "lng": 44.4623262361111,
     "type": "ilce"
@@ -103285,7 +102288,6 @@
   {
     "il": "Yalova",
     "ilce": "Altınova",
-    "mahalle": null,
     "lat": 40.63120784153847,
     "lng": 29.476390956923076,
     "type": "ilce"
@@ -103293,7 +102295,6 @@
   {
     "il": "Yalova",
     "ilce": "Armutlu",
-    "mahalle": null,
     "lat": 40.52938124629629,
     "lng": 28.910159192592598,
     "type": "ilce"
@@ -103301,7 +102302,6 @@
   {
     "il": "Yalova",
     "ilce": "Termal",
-    "mahalle": null,
     "lat": 40.600618763636355,
     "lng": 29.183416636363635,
     "type": "ilce"
@@ -103309,7 +102309,6 @@
   {
     "il": "Yalova",
     "ilce": "Yalova Merkez",
-    "mahalle": null,
     "lat": 40.591703371212134,
     "lng": 29.25820882272727,
     "type": "ilce"
@@ -103317,7 +102316,6 @@
   {
     "il": "Yalova",
     "ilce": "Çiftlikköy",
-    "mahalle": null,
     "lat": 40.624609752631585,
     "lng": 29.39507474561404,
     "type": "ilce"
@@ -103325,7 +102323,6 @@
   {
     "il": "Yalova",
     "ilce": "Çınarcık",
-    "mahalle": null,
     "lat": 40.60159558571427,
     "lng": 29.05121814571429,
     "type": "ilce"
@@ -103635,7 +102632,6 @@
   {
     "il": "Yozgat",
     "ilce": "Yerköy",
-    "mahalle": null,
     "lat": 39.74914190422536,
     "lng": 34.42997512394368,
     "type": "ilce"
@@ -103643,7 +102639,6 @@
   {
     "il": "Yozgat",
     "ilce": "Akdağmadeni",
-    "mahalle": null,
     "lat": 39.702130386585374,
     "lng": 35.88407309634147,
     "type": "ilce"
@@ -103651,7 +102646,6 @@
   {
     "il": "Yozgat",
     "ilce": "Kadışehri",
-    "mahalle": null,
     "lat": 39.98090911363635,
     "lng": 35.81064681590909,
     "type": "ilce"
@@ -103659,7 +102653,6 @@
   {
     "il": "Yozgat",
     "ilce": "Saraykent",
-    "mahalle": null,
     "lat": 39.76822424749999,
     "lng": 35.5626879975,
     "type": "ilce"
@@ -103667,7 +102660,6 @@
   {
     "il": "Yozgat",
     "ilce": "Yenifakılı",
-    "mahalle": null,
     "lat": 39.23055454102564,
     "lng": 35.009841094871796,
     "type": "ilce"
@@ -103675,7 +102667,6 @@
   {
     "il": "Yozgat",
     "ilce": "Çandır",
-    "mahalle": null,
     "lat": 39.24256417142857,
     "lng": 35.531334192857145,
     "type": "ilce"
@@ -103683,7 +102674,6 @@
   {
     "il": "Yozgat",
     "ilce": "Yozgat Merkez",
-    "mahalle": null,
     "lat": 39.82063730795455,
     "lng": 34.779785994318175,
     "type": "ilce"
@@ -103691,7 +102681,6 @@
   {
     "il": "Yozgat",
     "ilce": "Sarıkaya",
-    "mahalle": null,
     "lat": 39.50919723529411,
     "lng": 35.437726969117655,
     "type": "ilce"
@@ -103699,7 +102688,6 @@
   {
     "il": "Yozgat",
     "ilce": "Çekerek",
-    "mahalle": null,
     "lat": 40.0588580423077,
     "lng": 35.5010758076923,
     "type": "ilce"
@@ -103707,7 +102695,6 @@
   {
     "il": "Yozgat",
     "ilce": "Aydıncık",
-    "mahalle": null,
     "lat": 40.17188745,
     "lng": 35.2801295382353,
     "type": "ilce"
@@ -103715,7 +102702,6 @@
   {
     "il": "Yozgat",
     "ilce": "Çayıralan",
-    "mahalle": null,
     "lat": 39.39321159375,
     "lng": 35.70655654583333,
     "type": "ilce"
@@ -103723,7 +102709,6 @@
   {
     "il": "Yozgat",
     "ilce": "Şefaatli",
-    "mahalle": null,
     "lat": 39.46698277368422,
     "lng": 34.7862681,
     "type": "ilce"
@@ -103731,7 +102716,6 @@
   {
     "il": "Yozgat",
     "ilce": "Boğazlıyan",
-    "mahalle": null,
     "lat": 39.20715081139241,
     "lng": 35.24325761645568,
     "type": "ilce"
@@ -103739,7 +102723,6 @@
   {
     "il": "Yozgat",
     "ilce": "Sorgun",
-    "mahalle": null,
     "lat": 39.809290702469134,
     "lng": 35.290388613580255,
     "type": "ilce"
@@ -104023,7 +103006,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Alaplı",
-    "mahalle": null,
     "lat": 41.10509914210527,
     "lng": 31.47307077192983,
     "type": "ilce"
@@ -104031,7 +103013,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Çaycuma",
-    "mahalle": null,
     "lat": 41.4561679703125,
     "lng": 32.1343731890625,
     "type": "ilce"
@@ -104039,7 +103020,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Devrek",
-    "mahalle": null,
     "lat": 41.18882093333332,
     "lng": 31.931209855128202,
     "type": "ilce"
@@ -104047,7 +103027,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Gökçebey",
-    "mahalle": null,
     "lat": 41.30992344634145,
     "lng": 32.17016717073171,
     "type": "ilce"
@@ -104055,7 +103034,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Ereğli",
-    "mahalle": null,
     "lat": 41.242923333695664,
     "lng": 31.60233663369564,
     "type": "ilce"
@@ -104063,7 +103041,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Zonguldak Merkez",
-    "mahalle": null,
     "lat": 41.38206117910449,
     "lng": 31.871667247761206,
     "type": "ilce"
@@ -104071,7 +103048,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Kozlu",
-    "mahalle": null,
     "lat": 41.364500282222224,
     "lng": 31.745691957777776,
     "type": "ilce"
@@ -104079,7 +103055,6 @@
   {
     "il": "Zonguldak",
     "ilce": "Kilimli",
-    "mahalle": null,
     "lat": 41.4844099735294,
     "lng": 31.931692191176474,
     "type": "ilce"
